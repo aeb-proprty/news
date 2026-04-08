@@ -44,10 +44,17 @@ NVIDIA's next-gen Vera Rubin platform (announced at CES, detailed at GTC 2026) i
 
 ---
 
-### ECB: Rates Held at 2.0% — Middle East Uncertainty Cited
-The ECB kept its deposit rate at 2.0% at its March 19 meeting, specifically citing the Middle East war as creating "significant uncertainty" with upside inflation risks and downside growth risks. Euro area mortgage rates remain in the 3.5-4% range. Next ECB meeting isn't until July 24. The Iran ceasefire today could change the calculus — if oil stays lower, inflation pressure eases, potentially opening the door for a rate cut in July.
+### COPENHAGEN HOUSING: Nationalbanken Issues Bubble Warning, Construction Pipeline Collapsing
+Update on yesterday's price report with significant new data. (1) **Nationalbanken has explicitly warned** that Copenhagen's price surge risks "macroeconomic imbalances" and could "threaten financial stability" — comparing the risk profile to the late-2000s bubble, though noting buyers today have larger deposits. (2) **Construction pipeline has collapsed:** 2025-2027 averages just 160,000 m²/year in Greater Copenhagen, down from 365,000 m²/year in 2020-2024. Demand far outpaces supply. (3) **Enghave Brygge Syd:** 1,000 new homes announced (AP Ejendomme + municipality), including 320 social housing units — the largest single social housing build since the 1980s. (4) **Price forecast chaos:** Nykredit projects 17.4% growth for CPH in 2026; Nordea says 4.9%; Realkredit Danmark expects 6-6.5% nationally. Yesterday's 3-3.5% was the conservative end. (5) Flats now sell in ~45 days avg, most within 3% of listing price. (6) Short-term rental crackdown: Copenhagen and Aarhus got new powers to combat illegal Airbnb rentals, with raised fines. (7) Green properties meeting EU taxonomy criteria now command 12-18% rental premiums.
 
-**Life Impact: MEDIUM-HIGH** — Directly affects your mortgage rate environment. The ceasefire helping oil prices could be the catalyst the ECB needs to cut rates, which would be good news for Copenhagen property buyers. But it's a long chain of ifs.
+**Life Impact: VERY HIGH** — As a board member of E/F Fionia Hus II, the construction pipeline collapse and green premium trends directly affect your association's property values. The Nationalbanken warning is notable but their bubble comparison is tempered by stronger buyer equity today. The wild divergence in price forecasts (4.9% to 17.4%) reflects genuine uncertainty — the truth is nobody knows.
+
+---
+
+### ECB: Rates Held at 2.0% — But April Hike Now a Live Possibility
+The ECB kept its deposit rate at 2.0% at its March 19 meeting, citing Middle East uncertainty. Eurozone March inflation hit 2.5% (above the 2% target), driven by oil prices. Bundesbank's Nagel publicly stated an April rate hike is "an option." Markets price a 73.5% chance of no change at the April 29-30 meeting, but a 26% chance of a hike. Today's Iran ceasefire and oil price crash could tilt the balance — if oil stays lower, the hike risk drops and a future cut becomes more likely. Danmarks Nationalbanken follows ECB policy, so any move flows directly to Danish mortgage rates.
+
+**Life Impact: MEDIUM-HIGH** — A hike would be bad news for Copenhagen buyers. The ceasefire improving oil dynamics is your best ally here. Watch the April 29-30 ECB meeting closely.
 
 ---
 
@@ -82,6 +89,12 @@ From your Apple Developer newsletter: WWDC26 runs June 8-12, online + in-person 
 - [NVIDIA - Vera Rubin platform](https://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform)
 - [CrossFit Games - 2026 Semifinals](https://games.crossfit.com/article/2026-crossfit-semifinals-dates-and-details)
 - [Apple - WWDC26 announcement](https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/)
+- [Nationalbanken - Twin-speed housing market](https://www.nationalbanken.dk/en/what-we-do/stable-prices-monetary-policy-and-the-danish-economy/official-interest-rates)
+- [NordiskPost - Copenhagen building 1,000 new homes](https://www.nordiskpost.com/2026/03/03/copenhagen-building-1000-houses/)
+- [Nykredit - Boligprisprognose](https://www.nykredit.dk/dit-liv/bolig/boligprisprognose/)
+- [Nordea - Boligprisprognose 2026-2027](https://www.nordea.com/da/nyhed/ny-boligprisprognose-priserne-ventes-at-stige-yderligere-i-2026-og-2027)
+- [The Local - Short-term rental crackdown](https://www.thelocal.dk/20260122/copenhagen-and-aarhus-could-crack-down-illegal-home-rentals-with-new-rules)
+- [Bloomberg - ECB's Nagel says April hike "an option"](https://www.bloomberg.com/news/articles/2026-03-26/ecb-s-nagel-says-april-interest-rate-hike-an-option-reuters)
 
 ---
 
