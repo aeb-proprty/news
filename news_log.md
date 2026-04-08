@@ -1,5 +1,90 @@
 # Daily News Log
 
+## 2026-04-08
+
+### MIDDLE EAST: Ceasefire! Iran and US Agree to 2-Week Pause Hours Before Trump's Annihilation Deadline
+The big one. Less than two hours before Trump's 8 PM ET deadline — during which he threatened that "a whole civilization will die tonight, never to be brought back again" — the US and Iran agreed to a two-week ceasefire brokered by Pakistan. Iran will reopen the Strait of Hormuz for safe passage during the ceasefire. Oil prices immediately cratered: WTI crude dropped 16% to $94.47/barrel, Brent fell 15% to $92.21. Dow futures jumped 1,000+ points. Diplomatic talks are scheduled in Islamabad on Friday April 10. Iran's conditions for a permanent deal are steep: lifting all sanctions, withdrawal of US forces from regional bases, reparations, and the right to nuclear enrichment. Iran's Supreme National Security Council warned "our hands are on the trigger" if any terms are violated. This is a pause, not a peace deal.
+
+**Life Impact: VERY HIGH** — Oil dropping from $117 to $94 in hours will flow through to fuel and energy costs over the coming weeks. But oil is still ~$24 higher than pre-war ($70). The ceasefire is fragile — Iran's demands are non-starters for the US, so expect renewed volatility after the 2 weeks. Watch your energy bills and travel costs.
+
+---
+
+### EU POLITICS: Hungary Election Sunday — Orbán's 16-Year Grip Faces Real Threat
+Update: The election is April 12 — this Sunday. Péter Magyar's Tisza party is now polling at ~48%, consistently leading Fidesz for a full year. Two dramatic developments: (1) VP JD Vance flew to Budapest this week to publicly campaign alongside Orbán — the Trump administration is deeply invested in keeping him in power. (2) The Washington Post reported that Russia's SVR proposed staging a false flag assassination attempt on Orbán to boost his sympathy vote, per a leaked SVR internal report authenticated by European intelligence. Magyar's campaign centers on dismantling what he calls Orbán's "mafia state" and unlocking frozen EU funds.
+
+**Life Impact: HIGH** — Sunday's result will reshape EU dynamics. A Magyar win unblocks billions in frozen EU funds, potentially shifts EU positions on Ukraine/Russia, and removes the biggest veto threat in EU council decisions. A continued Orbán government, propped up by Trump and possibly Putin, deepens EU fractures.
+
+---
+
+### AI: Federal Judge Blocks Trump's Ban on Anthropic — DOJ Appealing
+The Anthropic-vs-US-government saga escalated. Background: Anthropic refused to let the DoD use Claude without safety guardrails (specifically banning mass surveillance of US citizens). Trump publicly attacked them, and the Pentagon labeled Anthropic a "supply chain risk," ordering all federal agencies to stop using Claude. US District Judge Rita Lin in San Francisco issued a preliminary injunction halting the ban, ruling it was "classic illegal First Amendment retaliation" and that the government failed to provide evidence of any actual supply chain risk. The DOJ filed to appeal on April 2. This is a landmark case for AI safety companies' right to set usage conditions.
+
+**Life Impact: MEDIUM-HIGH** — This case sets precedent for whether AI companies can enforce ethical guardrails against government pressure. If the appeal succeeds, it creates a chilling effect on AI safety policies industry-wide. As someone working with AI, this matters.
+
+---
+
+### EU/TRADE: One Year Since "Liberation Day" — EU Parliament Advances Turnberry Trade Deal
+April 2 marked one year since Trump's original tariff bombshell. Current state: a baseline 10% US tariff on global imports (could rise to 15%), with the EU specifically facing a 20% reciprocal rate threat. The EU Parliament voted to advance the "Turnberry Agreement" — a trade framework deal that von der Leyen and Trump reached in Scotland last August. Meanwhile, the USTR launched new Section 301 investigations against the EU (comments due April 15, hearing April 28). The situation remains tense but the Turnberry deal represents the clearest path to de-escalation.
+
+**Life Impact: MEDIUM** — The tariff situation directly affects prices on US goods in the EU and EU exports to the US. The Turnberry deal advancing is cautiously positive. The new Section 301 investigations are a wildcard.
+
+---
+
+### DANISH POLITICS: Coalition Talks Update — Frederiksen Casts Wide Net, Expects "Long and Difficult" Process
+Update: Frederiksen has formally invited seven parties to negotiations — SF, Enhedslisten, Radikale Venstre, Alternativet, Moderaterne, Venstre, and the Conservatives. This is notably wide, suggesting she hasn't given up on a broad coalition. Lars Løkke Rasmussen (Moderates, 14 seats) has solidified his kingmaker role, calling on everyone to stop playing "corner flags" and come play "in the middle." Frederiksen publicly warned negotiations will be "long and difficult" and she doesn't yet know if a workable outcome is possible. For reference, the 2022 coalition talks took six weeks. We're at two weeks now.
+
+**Life Impact: HIGH** — No change from yesterday's assessment. The wide invitation list suggests possible cross-bloc cooperation, which could produce more stable but more compromising policy outcomes on housing and green regulation.
+
+---
+
+### AI: NVIDIA Vera Rubin Platform in Full Production — 10x Cheaper Inference
+NVIDIA's next-gen Vera Rubin platform (announced at CES, detailed at GTC 2026) is now in full production. Key numbers: 10x reduction in inference token cost and 4x fewer GPUs needed to train MoE models vs. Blackwell. The platform combines Vera CPU + dual Rubin GPUs + NVLink 6. AWS, Google Cloud, Microsoft, and OCI will deploy Vera Rubin instances in H2 2026. This is the hardware that will power the next generation of AI services.
+
+**Life Impact: MEDIUM** — 10x cheaper inference means the AI tools you use daily will get faster and cheaper to run. For anyone building AI products, this shifts the cost equation significantly.
+
+---
+
+### ECB: Rates Held at 2.0% — Middle East Uncertainty Cited
+The ECB kept its deposit rate at 2.0% at its March 19 meeting, specifically citing the Middle East war as creating "significant uncertainty" with upside inflation risks and downside growth risks. Euro area mortgage rates remain in the 3.5-4% range. Next ECB meeting isn't until July 24. The Iran ceasefire today could change the calculus — if oil stays lower, inflation pressure eases, potentially opening the door for a rate cut in July.
+
+**Life Impact: MEDIUM-HIGH** — Directly affects your mortgage rate environment. The ceasefire helping oil prices could be the catalyst the ECB needs to cut rates, which would be good news for Copenhagen property buyers. But it's a long chain of ifs.
+
+---
+
+### CROSSFIT: Semifinals Kicking Off — Mayhem Classic April 17-19
+The 2026 Semifinals season begins next week. First up: Mayhem Classic in Cookeville, TN (April 17-19, 3 men + 3 women qualifying for Games), followed by Legends Championship in Del Mar, CA (April 24-26, 2+2 spots). Ten in-person Semifinals total run through June. Two new events this year: Legends Championship and MAD Fitness Festival.
+
+**Life Impact: LOW** — Competitive season is heating up. Mark your calendar if you follow the live streams.
+
+---
+
+### APPLE: WWDC26 Confirmed June 8-12 — iOS 27, Major AI Push Expected
+From your Apple Developer newsletter: WWDC26 runs June 8-12, online + in-person event at Apple Park on opening day. Keynote June 8 at 10 AM PT. Apple is teasing "AI advancements" and will unveil iOS 27, macOS 27, and updates across all platforms. Free and open to all developers.
+
+**Life Impact: LOW-MEDIUM** — Relevant for your dev work. The AI advancement teases suggest significant Siri/on-device AI upgrades.
+
+---
+
+### Sources
+- [NPR - US and Iran agree to 2-week ceasefire](https://www.npr.org/2026/04/07/nx-s1-5776377/iran-war-updates)
+- [CNN - Day 39 ceasefire agreement](https://www.cnn.com/2026/04/07/world/live-news/iran-war-trump-us-israel)
+- [CNBC - Oil prices plunge below $100](https://www.cnbc.com/2026/04/07/oil-prices-iran-war-trump-deadline-strait-hormuz.html)
+- [CNN - Oil prices drop, stocks rally](https://edition.cnn.com/2026/04/07/markets/us-stocks-oil-trump-iran-ceasefire)
+- [Al Jazeera - Vance visits Hungary](https://www.aljazeera.com/news/2026/4/7/vance-heads-to-budapest-to-shore-up-orbans-support-before-sunday-vote)
+- [Washington Post - Orbán election, Putin backing](https://www.washingtonpost.com/opinions/2026/04/07/viktor-orban-hungary-election-nationalism-trump-populism/)
+- [CSIS - What's at stake in Hungary](https://www.csis.org/analysis/what-stake-hungarys-election)
+- [CNBC - Anthropic wins injunction](https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html)
+- [Bloomberg - DOJ to appeal Anthropic ruling](https://www.bloomberg.com/news/articles/2026-04-02/doj-to-appeal-court-order-halting-trump-s-ban-on-anthropic-ai)
+- [Bloomberg - EU-US trade tensions one year on](https://www.bloomberg.com/news/newsletters/2026-04-02/eu-us-trade-tensions-persist-a-year-after-trump-s-liberation-day)
+- [Yahoo Finance - EU votes on Turnberry deal](https://finance.yahoo.com/news/live/trump-tariffs-live-updates-eu-votes-this-week-on-ratifying-us-trade-deal-181121385.html)
+- [NordiskPost - Denmark coalition talks](https://www.nordiskpost.com/2026/03/28/denmark-coalition-talks-will-be-long/)
+- [ECB - Monetary policy decisions March 2026](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260319~3057739775.en.html)
+- [NVIDIA - Vera Rubin platform](https://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform)
+- [CrossFit Games - 2026 Semifinals](https://games.crossfit.com/article/2026-crossfit-semifinals-dates-and-details)
+- [Apple - WWDC26 announcement](https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
