@@ -3,9 +3,9 @@
 ## 2026-04-08
 
 ### MIDDLE EAST: Ceasefire! Iran and US Agree to 2-Week Pause Hours Before Trump's Annihilation Deadline
-The big one. Less than two hours before Trump's 8 PM ET deadline — during which he threatened that "a whole civilization will die tonight, never to be brought back again" — the US and Iran agreed to a two-week ceasefire brokered by Pakistan. Iran will reopen the Strait of Hormuz for safe passage during the ceasefire. Oil prices immediately cratered: WTI crude dropped 16% to $94.47/barrel, Brent fell 15% to $92.21. Dow futures jumped 1,000+ points. Diplomatic talks are scheduled in Islamabad on Friday April 10. Iran's conditions for a permanent deal are steep: lifting all sanctions, withdrawal of US forces from regional bases, reparations, and the right to nuclear enrichment. Iran's Supreme National Security Council warned "our hands are on the trigger" if any terms are violated. This is a pause, not a peace deal.
+The big one. Less than two hours before Trump's 8 PM ET deadline — during which he threatened that "a whole civilization will die tonight, never to be brought back again" — the US and Iran agreed to a two-week ceasefire brokered by Pakistan. Iran will reopen the Strait of Hormuz for safe passage during the ceasefire. Oil cratered: WTI dropped 16% from $117 to $94.47/barrel, Brent fell 15% to $92.21. Dow futures jumped 1,000+ points. Diplomatic talks resume in Islamabad on Friday April 10. Iran submitted a 10-point peace plan that Trump called "workable." But two critical fault lines: (1) Iran's long-term demands remain steep — all sanctions lifted, US forces withdrawn, reparations, nuclear enrichment rights. (2) **Netanyahu explicitly said the ceasefire does NOT include Lebanon**, directly contradicting Pakistan's PM Sharif who said it covers "everywhere, including Lebanon." Israeli attacks on Lebanon have killed 1,500+ and displaced 1.2M since March 2. The day's most disturbing images: Iran called on civilians to form **human chains around power plants** as shields ahead of the deadline, with hundreds gathering in Mashhad, Tabriz, and Kazerun.
 
-**Life Impact: VERY HIGH** — Oil dropping from $117 to $94 in hours will flow through to fuel and energy costs over the coming weeks. But oil is still ~$24 higher than pre-war ($70). The ceasefire is fragile — Iran's demands are non-starters for the US, so expect renewed volatility after the 2 weeks. Watch your energy bills and travel costs.
+**Life Impact: VERY HIGH** — Oil dropping from $117 to $94 will flow through to fuel and energy costs. But oil is still ~$24 higher than pre-war ($70). The Lebanon disagreement is a serious crack — if Israeli operations continue, Iran may use it as a pretext to break the ceasefire. This remains extremely fragile.
 
 ---
 
@@ -27,6 +27,13 @@ The Anthropic-vs-US-government saga escalated. Background: Anthropic refused to 
 April 2 marked one year since Trump's original tariff bombshell. Current state: a baseline 10% US tariff on global imports (could rise to 15%), with the EU specifically facing a 20% reciprocal rate threat. The EU Parliament voted 417-154 to advance the "Turnberry Agreement" — but added a sunset clause (expires March 2028 unless renewed) and a "sunrise clause" (tariff preferences conditional on US compliance). First trilogue meeting is April 13. Trump also restructured Section 232 steel/aluminum/copper tariffs on April 2 into a tiered system by country of origin. USTR launched Section 301 investigations into 16 trade partners including the EU (comments due April 15, hearings May 5-8).
 
 **Life Impact: MEDIUM** — The Turnberry deal is moving but the sunset/sunrise clauses show the EU is keeping leverage. The new metals tariff restructuring and Section 301 probes add uncertainty.
+
+---
+
+### TRADE: Trump Drops 100% Pharma Tariff Bombshell
+Announced April 2, now sinking in. Trump imposed up to **100% tariffs on patented pharmaceutical imports**. Companies can get 0% by agreeing to Most Favored Nation pricing + moving manufacturing to the US. The EU, Japan, Korea, and Switzerland face a 15% baseline rate. Takes effect in 120-180 days. This directly hits Novo Nordisk, Lundbeck, and the entire Danish pharma sector — one of Denmark's largest export industries.
+
+**Life Impact: MEDIUM-HIGH** — Denmark's pharma sector is a major employer and economic driver. This tariff could disrupt supply chains and potentially affect drug prices domestically if companies divert production. The coalition negotiations should be considering a response.
 
 ---
 
@@ -113,6 +120,10 @@ From your Apple Developer newsletter: WWDC26 runs June 8-12, online + in-person 
 - [Kyiv Independent - Baltic states deny airspace claims](https://kyivindependent.com/blatantly-false-information-baltic-states-deny-ukraine-airspace-access-as-moscow-warns-of-retaliation/)
 - [EFF - EU Parliament blocks mass-scanning of chats](https://www.eff.org/deeplinks/2026/04/eu-parliament-blocks-mass-scanning-our-chats-whats-next)
 - [European Parliament - EU-US trade deal conditions](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38830/eu-us-trade-deal-meps-set-conditions-for-lowering-tariffs-on-us-products)
+- [Al Jazeera - Netanyahu says ceasefire does not include Lebanon](https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon)
+- [Military.com - Iran human chains at power plants](https://www.military.com/daily-news/2026/04/07/iran-calls-human-chains-protect-power-plants-trumps-deadline-nears.html)
+- [CNN - Trump tariffs on pharmaceuticals](https://www.cnn.com/2026/04/02/politics/tariffs-trump-pharmaceutical-drugs)
+- [White House - Pharmaceutical tariff fact sheet](https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-patented-pharmaceutical-products/)
 
 ---
 
