@@ -24,9 +24,23 @@ The Anthropic-vs-US-government saga escalated. Background: Anthropic refused to 
 ---
 
 ### EU/TRADE: One Year Since "Liberation Day" — EU Parliament Advances Turnberry Trade Deal
-April 2 marked one year since Trump's original tariff bombshell. Current state: a baseline 10% US tariff on global imports (could rise to 15%), with the EU specifically facing a 20% reciprocal rate threat. The EU Parliament voted to advance the "Turnberry Agreement" — a trade framework deal that von der Leyen and Trump reached in Scotland last August. Meanwhile, the USTR launched new Section 301 investigations against the EU (comments due April 15, hearing April 28). The situation remains tense but the Turnberry deal represents the clearest path to de-escalation.
+April 2 marked one year since Trump's original tariff bombshell. Current state: a baseline 10% US tariff on global imports (could rise to 15%), with the EU specifically facing a 20% reciprocal rate threat. The EU Parliament voted 417-154 to advance the "Turnberry Agreement" — but added a sunset clause (expires March 2028 unless renewed) and a "sunrise clause" (tariff preferences conditional on US compliance). First trilogue meeting is April 13. Trump also restructured Section 232 steel/aluminum/copper tariffs on April 2 into a tiered system by country of origin. USTR launched Section 301 investigations into 16 trade partners including the EU (comments due April 15, hearings May 5-8).
 
-**Life Impact: MEDIUM** — The tariff situation directly affects prices on US goods in the EU and EU exports to the US. The Turnberry deal advancing is cautiously positive. The new Section 301 investigations are a wildcard.
+**Life Impact: MEDIUM** — The Turnberry deal is moving but the sunset/sunrise clauses show the EU is keeping leverage. The new metals tariff restructuring and Section 301 probes add uncertainty.
+
+---
+
+### EU SECURITY: Russia Explicitly Threatens Baltic States
+New story. Russia accused Estonia, Latvia, and Lithuania of allowing Ukrainian drones to use Baltic airspace to strike Russian oil terminals (April 6-7). Spokesperson Zakharova said Baltic states "have received an appropriate warning" and will "have to deal with a response." All three denied the accusations as disinformation. The European Commission responded: "an attack on one of our member states is an attack on the European Union as a whole." This is a direct Article 5/mutual defense scenario being openly discussed.
+
+**Life Impact: MEDIUM-HIGH** — As a Dane and EU citizen, any escalation toward NATO Article 5 in the Baltics would directly involve Denmark militarily. The rhetoric is heating up. Worth monitoring alongside the new Danish government's defense posture.
+
+---
+
+### EU PRIVACY: Chat Control Mass-Scanning Officially Expired
+The legal basis for voluntary scanning of private messages (Chat Control 1.0) expired after Parliament voted 311-228 on March 26 to reject extension. Google, Meta, Microsoft, and TikTok have lost their legal basis for scanning private messages for CSAM. However, negotiations for Chat Control 2.0 (mandatory scanning including encrypted platforms) continue — next trilogue April 16. This is a privacy win, but the mandatory version is still on the table.
+
+**Life Impact: MEDIUM** — Immediate privacy improvement for messaging services you use. But Chat Control 2.0 could swing it back the other way. April 16 trilogue is the next flashpoint.
 
 ---
 
@@ -95,6 +109,10 @@ From your Apple Developer newsletter: WWDC26 runs June 8-12, online + in-person 
 - [Nordea - Boligprisprognose 2026-2027](https://www.nordea.com/da/nyhed/ny-boligprisprognose-priserne-ventes-at-stige-yderligere-i-2026-og-2027)
 - [The Local - Short-term rental crackdown](https://www.thelocal.dk/20260122/copenhagen-and-aarhus-could-crack-down-illegal-home-rentals-with-new-rules)
 - [Bloomberg - ECB's Nagel says April hike "an option"](https://www.bloomberg.com/news/articles/2026-03-26/ecb-s-nagel-says-april-interest-rate-hike-an-option-reuters)
+- [Euronews - Moscow threatens Baltic states](https://www.euronews.com/2026/04/07/moscow-threatens-baltic-states-claiming-they-help-ukraine-strike-russia)
+- [Kyiv Independent - Baltic states deny airspace claims](https://kyivindependent.com/blatantly-false-information-baltic-states-deny-ukraine-airspace-access-as-moscow-warns-of-retaliation/)
+- [EFF - EU Parliament blocks mass-scanning of chats](https://www.eff.org/deeplinks/2026/04/eu-parliament-blocks-mass-scanning-our-chats-whats-next)
+- [European Parliament - EU-US trade deal conditions](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38830/eu-us-trade-deal-meps-set-conditions-for-lowering-tariffs-on-us-products)
 
 ---
 
