@@ -114,10 +114,24 @@ The ECB kept its deposit rate at 2.0% at its March 19 meeting, citing Middle Eas
 
 ---
 
-### CROSSFIT: Semifinals Kicking Off — Mayhem Classic April 17-19
-The 2026 Semifinals season begins next week. First up: Mayhem Classic in Cookeville, TN (April 17-19, 3 men + 3 women qualifying for Games), followed by Legends Championship in Del Mar, CA (April 24-26, 2+2 spots). Ten in-person Semifinals total run through June. Two new events this year: Legends Championship and MAD Fitness Festival.
+### CROSSFIT: Mayhem Classic Drama — 19 of 30 Invited Athletes Declined
+The Mayhem Classic (April 17-19) had a rocky start: 19 of 30 originally invited athletes declined, forcing a second round of invites. The final field includes Jeff Adler, Roman Khrennikov, Jayson Hopper, Emma Lawson, Haley Adams, Gabi Migala, and Olivia Kerstetter. Top 3 men + women qualify for the Games. Prize purse: $59K ($12K per champion). Quarterfinals leaderboard finalization by April 10. Controversy: only 4 of 10 in-person Semifinals use Quarterfinals results to allocate spots — some organizers built curated fields around sponsorship. Legends Championship next (April 24-26, Del Mar).
 
-**Life Impact: LOW** — Competitive season is heating up. Mark your calendar if you follow the live streams.
+**Life Impact: LOW** — The mass-decline story is interesting community drama. The qualification controversy is worth following if you care about competitive integrity.
+
+---
+
+### INNOVATION: Artemis II Crew Breaks Farthest-Human-from-Earth Record
+NASA's Artemis II crew completed a lunar flyby on April 6, reaching 252,760 miles from Earth — breaking Apollo 13's 1970 record of 248,655 miles. Closest lunar approach: 4,070 miles. First crewed flight beyond low Earth orbit since Apollo 17 in 1972. Orion exited the lunar sphere of influence on April 7 and is heading home. This is the biggest pure science story of the week.
+
+**Life Impact: LOW** — No direct impact, but historically significant. Humanity's farthest voyage in 54 years.
+
+---
+
+### 3D PRINTING: Nuclear Gyroid Infill Saves 80% Weight + $1M Per Part
+Orano Federal Services and UNC Charlotte published research on 3D-printing impact limiters for spent nuclear fuel casks (April 7). Using gyroid infill patterns instead of traditional honeycomb achieves up to 80% weight savings and could save $1M+ per limiter vs. conventional balsawood/aluminum fabrication. Both SLM and FFF being evaluated. Still needs nuclear-grade certification. Also: RAPID+TCT 2026 is next week (April 13-16, Boston) with 400+ exhibitors — expect a wave of product launches. BMF will debut the microArch S150 Ultra (9x faster microprinting, 25-micron resolution).
+
+**Life Impact: LOW-MEDIUM** — The nuclear application shows additive manufacturing breaking into heavy industry. RAPID+TCT next week is worth watching for consumer/prosumer announcements if you're in the market for new gear (your Creality K2 email suggests you might be).
 
 ---
 
@@ -165,6 +179,11 @@ From your Apple Developer newsletter: WWDC26 runs June 8-12, online + in-person 
 - [Bloomberg - OpenAI/Anthropic/Google vs model copying](https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china)
 - [Microsoft - Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/)
 - [The Register - Gartner AI ROI survey](https://www.theregister.com/2026/04/07/ai_returns_gartner/)
+- [NASA - Artemis II Flight Day 7](https://www.nasa.gov/blogs/missions/2026/04/07/artemis-ii-flight-day-7-first-return-correction-burn-complete/)
+- [NASA - Artemis II farthest human spaceflight record](https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/)
+- [ANS Nuclear Newswire - 3D Printed Impact Limiters](https://www.ans.org/news/2026-04-07/article-7789/3d-printing-possibilities-additive-manufacturing-impact-limiters-for-transportation-casks/)
+- [The Barbell Spin - 19 of 30 athletes decline Mayhem Classic](https://thebarbellspin.com/crossfit-games/19-of-30-athletes-decline-invite-to-mayhem-classic/)
+- [BMF - microArch S150 launch](https://bmf3d.com/news/bmf-launches-microarch-s150-series/)
 
 ---
 
