@@ -58,10 +58,45 @@ Update: Frederiksen has formally invited seven parties to negotiations — SF, E
 
 ---
 
+### AI: Anthropic Hits $30B Revenue Run-Rate, Eyeing October IPO at ~$380B
+Anthropic's annualized revenue has surged past $30B (up from ~$9B at end of 2025). They signed a deal with Google and Broadcom for 3.5 GW of TPU capacity starting 2027, on top of 1 GW already coming online in 2026. The company is evaluating an October 2026 IPO at ~$380B valuation. For context, OpenAI is targeting a Q4 2026 IPO after its $122B fundraise at $852B valuation, and SpaceX/xAI combined is valued at $1.25T.
+
+**Life Impact: MEDIUM** — The AI industry is moving from "will this work?" to "who wins the market." As a user of these tools, more revenue = more investment in capability. The IPO race also signals these companies believe they've found sustainable business models.
+
+---
+
+### AI: GPT-5.5 "Spud" Imminent — Completed Pretraining March 24
+OpenAI's next frontier model finished pretraining on March 24. Sam Altman says release is "a few weeks" away. Prediction markets give 90%+ chance of shipping by June 30, possibly as early as late April. Separately, a major New Yorker investigation (Ronan Farrow + Andrew Marantz, 100+ interviews) reported that OpenAI dissolved its superalignment and AGI-readiness teams, dropped "safety" from its most significant activities on IRS filings, and when asked about existential safety, a rep reportedly said: "That's not, like, a thing." OpenAI launched a Safety Fellowship hours later — likely damage control.
+
+**Life Impact: MEDIUM** — A new frontier model will likely push capabilities forward. The safety investigation is concerning context for anyone building on OpenAI's platform.
+
+---
+
+### AI: Microsoft Open-Sources Agent Governance Toolkit
+Microsoft released an MIT-licensed toolkit covering all 10 OWASP agentic AI risks with sub-millisecond policy enforcement (April 3). Includes Agent OS (policy engine), Agent Mesh (agent-to-agent security), Agent Runtime, and Agent Compliance. Works with Python, Rust, TypeScript, Go, .NET. Integrates with LangChain, CrewAI, Google ADK. Ships with 9,500+ tests. This is the first serious open-source framework for securing AI agents at scale.
+
+**Life Impact: LOW-MEDIUM** — If you're building agentic AI (which your Roboflow interest suggests you might be), this is immediately useful. Otherwise, it's an indicator that the "agent security" layer is maturing.
+
+---
+
+### AI: OpenAI, Anthropic, Google Unite Against Chinese Model Copying
+The three largest AI companies are sharing intelligence through the Frontier Model Forum to detect adversarial distillation — where Chinese developers (DeepSeek, Moonshot, MiniMax) systematically query ChatGPT/Claude/Gemini to train copycat models. They're building detection for abnormal traffic patterns indicating bot-driven model extraction.
+
+**Life Impact: LOW** — Industry drama, but signals the geopolitical dimension of AI competition is intensifying.
+
+---
+
 ### AI: NVIDIA Vera Rubin Platform in Full Production — 10x Cheaper Inference
 NVIDIA's next-gen Vera Rubin platform (announced at CES, detailed at GTC 2026) is now in full production. Key numbers: 10x reduction in inference token cost and 4x fewer GPUs needed to train MoE models vs. Blackwell. The platform combines Vera CPU + dual Rubin GPUs + NVLink 6. AWS, Google Cloud, Microsoft, and OCI will deploy Vera Rubin instances in H2 2026. This is the hardware that will power the next generation of AI services.
 
 **Life Impact: MEDIUM** — 10x cheaper inference means the AI tools you use daily will get faster and cheaper to run. For anyone building AI products, this shifts the cost equation significantly.
+
+---
+
+### AI: Gartner — Only 28% of AI Projects Deliver ROI
+A survey of 782 I&O leaders found that only 28% of AI use cases fully succeed and meet ROI expectations, while 20% fail outright. Self-healing infrastructure and agent-led workflows are among the most common failure points. 57% of respondents suffered at least one AI project failure. A useful reality check amid the hype.
+
+**Life Impact: LOW-MEDIUM** — If you're evaluating AI investments for work or personal projects, this is sobering context. The agentic workflows failure rate is especially notable given the current industry push.
 
 ---
 
@@ -124,6 +159,12 @@ From your Apple Developer newsletter: WWDC26 runs June 8-12, online + in-person 
 - [Military.com - Iran human chains at power plants](https://www.military.com/daily-news/2026/04/07/iran-calls-human-chains-protect-power-plants-trumps-deadline-nears.html)
 - [CNN - Trump tariffs on pharmaceuticals](https://www.cnn.com/2026/04/02/politics/tariffs-trump-pharmaceutical-drugs)
 - [White House - Pharmaceutical tariff fact sheet](https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-patented-pharmaceutical-products/)
+- [TechCrunch - Anthropic compute deal with Google/Broadcom](https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/)
+- [Fortune - SpaceX, OpenAI, Anthropic IPO pipeline](https://fortune.com/2026/04/07/spacex-openai-anthropic-reopen-ipo-market-crunchbase/)
+- [The New Yorker / Ronan Farrow - OpenAI safety investigation](https://thenextweb.com/news/openai-safety-fellowship)
+- [Bloomberg - OpenAI/Anthropic/Google vs model copying](https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china)
+- [Microsoft - Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/)
+- [The Register - Gartner AI ROI survey](https://www.theregister.com/2026/04/07/ai_returns_gartner/)
 
 ---
 
