@@ -1,5 +1,95 @@
 # Daily News Log
 
+## 2026-04-12
+
+*Email-signal additions for today: you run a Shopify store (Byens Profiler), are into road cycling, own an EV (Monta receipt), and read The Economist. I've added one EV item below since your charging receipt signals that's actually a daily cost for you. Skipping road-cycling coverage since you've told me no sports.*
+
+### DANISH POLITICS: Coalition Talks Blow Up — Rasmussen Blocks Red-Green Path
+**New since 04-07:** The Moderates' Lars Løkke Rasmussen publicly blocked the center-left path on April 10, calling any government dependent on the Red-Green Alliance (Enhedslisten) "irresponsible and therefore impossible." Talks are now in a "pause" — Frederiksen has been negotiating for 18+ days with no bloc math working. Trump's fresh comments on Greenland in the last week have given Frederiksen's caretaker government renewed leverage, but Rasmussen's veto forces her to either pull the Moderates in on Moderate terms (tighter fiscal line) or restart talks to the right. A Venstre/Moderate/Social Democrat constellation is now the most likely exit.
+
+**Life Impact: HIGH** — The shape of the deal directly sets housing policy (Copenhagen supply rules), EV tax trajectory after 2026, and whether the Green Left's housing demands survive. A Moderates-anchored deal means less redistribution and likely weaker tenant protections — relevant if you rent or are watching the buy window.
+
+---
+
+### EU POLITICS: Hungary Votes Today — Orbán on the Ropes
+**New since 04-07:** Polls open in Hungary today (April 12). Péter Magyar's Tisza Party is now polling 10+ points ahead of Fidesz. Polymarket has Orbán at a 28% chance of winning. Magyar ran almost entirely on anti-corruption — CNN highlighted a $1.5M "roundabout from nowhere to nowhere" as the campaign's defining image. Results expected overnight.
+
+**Life Impact: MEDIUM-HIGH** — A Tisza win unlocks frozen EU funds to Ukraine, removes Hungary's veto on Russia sanctions, and breaks the Orbán-Fico axis. That flips EU decision-making on defense and migration in the direction the Danish government (whoever forms it) actually wants. Watch for an overnight result.
+
+---
+
+### EU POLITICS: AI Act Compliance Delayed to Dec 2027
+**New:** The European Parliament adopted the "digital omnibus" simplification package by a large majority. High-risk AI system compliance deadlines are pushed from August 2026 to **December 2, 2027**. Sector-specific AI (toys, medical devices) gets until August 2028. AI watermarking requirements pushed to November 2026. Council still needs to approve — trilogue ahead.
+
+**Life Impact: MEDIUM-HIGH** — If you're building or deploying AI in the EU (including on your Shopify store, if you're using AI for product descriptions/images), you've got an extra ~16 months of runway before high-risk obligations bite. Watermarking still arrives this November.
+
+---
+
+### MIDDLE EAST: US-Iran Talks Collapse, USS Destroyers Enter Hormuz
+**New since 04-07 (Day 38 → Day 43):** 21-hour talks in Islamabad (Vance, Witkoff, Kushner on the US side) ended April 11 with no deal — Vance said Iran "chose not to accept our terms." Hours later, USS Frank E. Peterson and USS Michael Murphy entered the Strait of Hormuz to begin mine-clearing. IRGC Navy responded: "Any attempt by military vessels to pass through the Strait of Hormuz will be dealt with severely." A miscalculation here is now the most likely path to a direct USN-IRGC engagement.
+
+**Life Impact: HIGH** — Brent is highly exposed to a Hormuz incident. If you drive an EV you're partially insulated on fuel, but Danish electricity prices track gas (Dutch TTF) and a regional war spikes TTF too. Expect Danish pump prices to move within hours of any incident.
+
+---
+
+### AI: Claude Finds 27-Year-Old OpenBSD Bug; M365 Integration Goes Universal
+**New since 04-07:** Anthropic announced a Claude model that independently found a 27-year-old bug in OpenBSD, spun up a cross-industry cybersecurity coalition, and pledged $100M in Claude credits to "fix the internet." Separately, Claude's Microsoft 365 integration (Outlook, Teams, SharePoint, OneDrive, Calendar — read-only) rolled out to all users. OpenAI, Anthropic, and Google jointly announced coordination to detect unauthorized model distillation. OpenAI hit $25B annualized revenue, filed a 13-page policy paper proposing robot taxes + 4-day workweek, and is quietly prepping an IPO for late 2026.
+
+**Life Impact: MEDIUM-HIGH** — The M365 rollout is immediately usable — AI now has cross-app read access to your work documents if you're on Microsoft. The AI-found-real-bug story is a genuine milestone: defensive AI is now ahead of offensive for the first time, at least publicly.
+
+---
+
+### 3D PRINTING: RAPID+TCT Opens Tomorrow; Nanoscribe Lands Fusion Contracts
+**New since 04-07:** RAPID + TCT kicks off the conference program **tomorrow, April 13**, with the main floor April 14-16 in Boston. Four new showcases debut (AeroDef, Healthcare, Startup, New England Service Providers). Nanoscribe just sold its Quantum X two-photon polymerization system to three international buyers specifically for printing **Inertial Fusion Energy targets** — a high-margin niche nobody else can touch at sub-micrometer accuracy. Artec launched "Jet," a drone-mountable LiDAR scanner (±10 mm indoor/underground) that autonomously plans flight paths. Nike opened its "Air Works R&D" program with 8 designers to ship new 3D-printed Air Max styles in May. Chulalongkorn University demonstrated filament made from recycled fishing nets. BambuTune now supports AI print optimization across 70+ printers and 16+ brands.
+
+**Life Impact: LOW-MEDIUM** — If you're on a Bambu, BambuTune's multi-brand AI optimizer is the practical hit. The Artec Jet and fusion-target printing are signals about where industrial capital is flowing — not relevant for a hobbyist, but worth knowing if you're looking at 3D-printing stocks.
+
+---
+
+### COPENHAGEN HOUSING: Nordhavn, Sydhavn and Islands Brygge Leading the 8-15% YoY Gainers
+**New since 04-07:** Fresh neighborhood-level data published this week. New-build apartments in Copenhagen now average **DKK 75,000–80,000/m²**; resales DKK 66,000–70,000/m². Median days-on-market is **14-21 days citywide, 7 days for well-priced units in hot areas**. The three fastest-appreciating neighborhoods are **Nordhavn, Sydhavn waterfront, and Islands Brygge** — all 8-15% YoY, above the citywide 20% headline but with the local premium already baked into the base. 80 m² apartment median is now ~5.0M DKK; average ~5.3M DKK.
+
+**Life Impact: VERY HIGH** — If you're shopping, the 7-day days-on-market number is the one that matters. You need pre-approval in hand and the ability to offer on a same-week basis. Resale (~68K/m²) vs new-build (~77K/m²) is a 13%+ spread — economically meaningful if you're flexible on build year.
+
+---
+
+### DENMARK / EV: Electricity Tax Refund Just Ended — Your Charging Costs Changed
+**New (email-signal driven — your Monta receipt flagged this):** As of **January 1, 2026**, the Danish electricity tax dropped to the EU minimum, which means the **EV charging tax refund scheme was eliminated**. The 2026 Finance Act froze the zero-emission registration tax at 40% (the planned jump to 48% was postponed). EV share of new car registrations hit **68.5% in 2025**, and Denmark is on track for 1M+ EVs by 2027. 288 new public charging points queued for 2026.
+
+**Life Impact: HIGH** — This is a direct hit to your per-kWh charging cost at public stations like Monta. If you haven't re-run the math on home-charging vs. public, now's the moment — home charging got relatively much cheaper vs. public fast-charging under the new tax structure.
+
+---
+
+### INNOVATION: Biotech Computing and Agentic AI Moving From Concept to Contracts
+**(Continuing 04-07 theme — new angle, not a repeat):** The Nanoscribe fusion-target contracts above, combined with OpenAI/Anthropic joint distillation defenses, mark the first week where agentic AI and biotech/physical-computing converged into actual procurement decisions rather than roadmaps. OpenAI's policy paper floating a robot tax is the first serious post-AGI labor-displacement framing from a frontier lab — worth reading for how it positions the "inevitable" 4-day workweek.
+
+**Life Impact: MEDIUM** — The policy paper matters because it's the frame EU policymakers will adopt or reject in the next 12 months. Denmark's next government will have to take a position.
+
+---
+
+### Sources
+- [Wikipedia - 2026 Danish general election](https://en.wikipedia.org/wiki/2026_Danish_general_election)
+- [Bloomberg - Trump's Greenland Push Adds Urgency to Denmark Talks](https://www.bloomberg.com/news/articles/2026-04-07/trump-s-greenland-push-adds-urgency-to-denmark-government-talks)
+- [Euronews - Hungary begins to vote](https://www.euronews.com/my-europe/2026/04/12/hungary-begins-to-vote-orban-and-magyar-face-off-in-historic-vote)
+- [CNN - Hungary corruption roundabout](https://www.cnn.com/2026/04/11/europe/hungary-election-orban-corruption-roundabout-intl)
+- [CIO - EU Parliament delays AI Act implementation](https://www.cio.com/article/4150989/european-parliament-delays-implementation-of-parts-of-the-eu-ai-act.html)
+- [European Parliament - MEPs support postponement of certain AI rules](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38219/meps-support-postponement-of-certain-rules-on-artificial-intelligence)
+- [CBS - Vance no deal with Iran](https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-ceasefire-talks/)
+- [Stars & Stripes - US mine clearance in Hormuz](https://www.stripes.com/theaters/middle_east/2026-04-11/us-iran-talks-pakistan-hormuz-reports-21345059.html)
+- [Fortune - Iran warns US warships](https://fortune.com/2026/04/11/iran-war-us-warships-strait-of-hormuz-transit-irgc-ceasefir-talks/)
+- [CNN - Day 43 Iran talks](https://www.cnn.com/2026/04/11/world/live-news/iran-us-war-talks)
+- [MarketingProfs - AI Update April 10 2026](https://www.marketingprofs.com/opinions/2026/54530/ai-update-april-10-2026-ai-news-and-views-from-the-past-week)
+- [Hipther - AI Dispatch April 9](https://hipther.com/latest-news/2026/04/09/109970/ai-dispatch-daily-trends-and-innovations-april-9-2026-anthropic-google-ai-overviews-openai-hyperfine-optive-ai/)
+- [3DPrint.com - News Briefs April 11 2026](https://3dprint.com/325141/3d-printing-news-briefs-4-11-2026/)
+- [3D Printing Industry - RAPID+TCT 2026 Boston](https://3dprintingindustry.com/news/rapid-tct-2026-heads-to-boston-advancing-additive-manufacturing-in-new-england-246769/)
+- [Investropa - Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [TXM Estate - Copenhagen Property Prices 2026](https://txmestate.com/news/copenhagen-real-estate-prices-2026-market-analysis-trends)
+- [Ayvens Denmark - EV tax postponed in 2026 Finance Act](https://www.ayvens.com/en-dk/about-us/news/information/tax-vehicle-postponed-on-the-2026-finance-act/)
+- [Gridio - End of Danish EV electricity tax refund](https://www.gridio.io/blog/the-end-of-the-refund-in-danish-market)
+- [European Alternative Fuels Observatory - Denmark EV Market 2025-2026](https://alternative-fuels-observatory.ec.europa.eu/general-information/news/denmarks-ev-market-accelerates-2025-momentum-points-another-strong-year-0)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
