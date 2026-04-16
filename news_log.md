@@ -1,107 +1,78 @@
 # Daily News Log
 
-## 2026-04-07
+## 2026-04-16
 
-### DANISH POLITICS: Coalition Talks Drag On After Historic Election
-The March 24 snap election left no bloc with a majority. Mette Frederiksen's Social Democrats won 38 seats but with their worst vote share (21.9%) since 1903. The Green Left surged to become the second-largest party (20 seats), and the Danish People's Party made significant gains. The Moderates are now kingmaker. Coalition negotiations are ongoing with no resolution yet. The Greenland/Trump crisis was the catalyst for the snap election and gave Frederiksen a rally-round-the-flag boost.
+### IRAN WAR: Ceasefire Holding But Fragile — Expires April 21
+Since the last update (day 38), a two-week ceasefire was brokered by Pakistan on April 8, halting 40 days of US-Israeli strikes on Iran. Key terms: US and Israel suspend bombing; Iran reopens the Strait of Hormuz for shipping. However, the ceasefire is cracking. Weekend peace talks in Islamabad collapsed after 21 hours with no deal — uranium enrichment is the sticking point (US wants a 20-year halt, Iran offers 5). On April 13, the US imposed a full naval blockade on Iranian ports after talks stalled. Few ships are passing Hormuz. Trump claims the war is "very close to over." The IMF has slashed its 2026 MENA growth forecast from 3.9% to 1.1% and warned of global recession risk if this continues. The US and Iran are now discussing extending the ceasefire by another two weeks past the April 21 expiry.
 
-**Life Impact: HIGH** — A new government will directly affect tax policy, housing regulation, immigration rules, and Denmark's defense posture. If you're in Copenhagen, coalition outcomes on housing and green policy matter immediately.
-
----
-
-### EU POLITICS: Parliament Simplifies AI Rules, Bans Nudifier AI
-The European Parliament agreed on proposals to simplify the EU AI Act's application dates for high-risk systems and voted to ban AI "nudifier" systems outright. Separately, Parliament and Council reached agreement on a major EU Customs Code reform targeting e-commerce and product safety. New EU-wide anti-corruption criminal law framework was also adopted.
-
-**Life Impact: MEDIUM-HIGH** — The AI rule simplification directly affects anyone working with or building AI systems in the EU. The customs reform will affect online shopping from non-EU sellers.
+**Life Impact: VERY HIGH** — Oil prices remain elevated from the Hormuz disruption. If the ceasefire collapses on April 21, expect another spike in fuel and energy costs across Europe. The IMF recession warning is not hypothetical — it's already affecting forecasts. Watch your Monta charging costs.
 
 ---
 
-### EU POLITICS: Hungary's Orbán Faces Serious Electoral Challenge
-Péter Magyar, a former Orbán ally turned opposition leader, is polling neck-and-neck with Orbán ahead of Hungary's election. A Magyar victory could unblock EU-Ukraine aid and shift the EU's internal political dynamics significantly.
+### HUNGARY: Orbán Defeated — Magyar Wins Supermajority
+The prediction from the April 7 update happened, and then some. On April 12, Péter Magyar's Tisza Party won a landslide: 138 of 199 seats (53.6% of the vote) vs. Orbán's Fidesz at 55 seats (37.8%). That's a two-thirds supermajority — enough to amend Hungary's constitution. Turnout was a record 76.5%. Orbán conceded on election night. EU leaders, including von der Leyen, celebrated openly. Magyar declared "together we liberated Hungary." This ends 16 years of Orbán rule and removes the most persistent EU veto blocker on Ukraine aid, defense spending, and migration policy.
 
-**Life Impact: MEDIUM** — An Orbán loss would reshape EU consensus-building, potentially accelerating decisions on defense, migration, and Ukraine support that affect all EU citizens.
-
----
-
-### MIDDLE EAST: US-Iran Conflict Escalates, Day 38
-Iran rejected a US-proposed 45-day ceasefire. Trump demanded Iran reopen the Strait of Hormuz. Both sides exchanged missile attacks. Iran's top spy commander Maj. Gen. Majid Khademi was assassinated. Supreme Leader Khamenei struck a defiant tone. A gunfight erupted outside the Israeli consulate in Istanbul (2 gunmen killed). Lebanon humanitarian crisis deepens with 1M+ displaced.
-
-**Life Impact: HIGH** — Strait of Hormuz closure affects global oil prices and energy costs directly. Escalation risks broader regional war with global economic consequences. Watch fuel prices.
+**Life Impact: HIGH** — This reshapes EU decision-making. Expect faster progress on EU defense, Ukraine support, and potentially migration policy. The EU veto deadlocks that Orbán caused are over. Denmark's incoming government will operate in a very different EU environment.
 
 ---
 
-### AI: Neuro-Symbolic AI Cuts Energy Use 100x While Boosting Accuracy
-Researchers published a breakthrough combining neural networks with symbolic (human-like logical) reasoning. The system helps AI think in steps rather than brute-force, achieving both better accuracy AND roughly 100x less energy consumption. This is significant because AI's growing energy footprint has been a major concern.
+### DANISH POLITICS: Coalition Talks Expected to Drag Another Month
+Frederiksen is now broadening negotiations beyond the center-left. After the king initially tasked her with forming a coalition with the Green Left and Social Liberals, she's now meeting with the Liberals (Venstre) on Monday and the Conservatives on Tuesday. The Moderates remain kingmaker. Venstre has ruled out governing with the Social Democrats, but the Moderates still favor a centrist coalition. Bloomberg reports talks could stretch at least another month, even as the Greenland/Trump tensions add urgency.
 
-**Life Impact: MEDIUM** — If this scales, it could dramatically lower the cost and environmental impact of AI services you use daily, and make AI viable in more edge/local devices.
-
----
-
-### AI: MCP Hits 97M Installs, Moves to Linux Foundation
-Anthropic's Model Context Protocol crossed 97 million installs in March. Every major AI provider now ships MCP-compatible tooling. The Linux Foundation announced it will take MCP under open governance — a major step toward it becoming a true industry standard.
-
-**Life Impact: MEDIUM** — MCP becoming a standard means better AI tool interoperability. If you build or use AI tools, this ecosystem matters.
+**Life Impact: HIGH** — Denmark has a caretaker government during an active geopolitical crisis (Greenland, Iran, EU defense). The longer this drags, the less influence Denmark has in shaping the EU response. Housing, tax, and defense policy are all on hold.
 
 ---
 
-### AI: Google Releases Gemma 4 Open Models
-Google launched Gemma 4, open models (Apache 2.0) built for reasoning and agentic workflows. Also unveiled TurboQuant at ICLR 2026 for dramatically reducing AI memory overhead.
+### EU-US TRADE: Liberation Day Anniversary Brings New Tariffs
+One year after Trump's "Liberation Day," the trade war continues. New tiered tariffs on steel and aluminum (50% on many products) are being rolled out. The EU parliament voted to advance the Turnberry trade deal (reached in Scotland last August), but with a critical amendment: it won't take effect until the US agrees to honor its own terms. USTR has launched new Section 301 investigations against the EU (public hearing April 28). Meanwhile, EU Big Tech fines against US companies have topped €7 billion in two years, and the Trump administration is publicly furious about it.
 
-**Life Impact: LOW-MEDIUM** — More capable open-source AI models available for local/private use.
-
----
-
-### AI: Utah First State to Let AI Renew Drug Prescriptions
-Utah became the first US state to allow AI systems to directly renew drug prescriptions — moving AI from diagnostic support into actual treatment decisions.
-
-**Life Impact: LOW** — US-only for now, but signals the direction of AI in healthcare globally. Denmark/EU will likely debate similar policies.
+**Life Impact: MEDIUM-HIGH** — Steel/aluminum tariffs flow through to consumer prices on everything from construction materials to electronics. If you're on the board at Fionia Hus II, expect maintenance and renovation costs to be affected. The trade tension also creates uncertainty for Danish/EU exporters.
 
 ---
 
-### COPENHAGEN HOUSING: Prices Jump 20% YoY, Seller's Market Deepens
-Copenhagen apartment prices hit ~62,900 DKK/m² median (~66,226 DKK/m² average), up 20% in one year. Rental vacancy is 1-2% citywide, near 0% in central areas. New construction permits face stricter environmental requirements, adding 8-12% to building costs and reducing new housing supply by ~15%. Forecasts suggest 3-3.5% further annual growth, with a possible 6-10% upside in well-connected neighborhoods.
+### AI: Massive Funding Reshapes the Industry
+OpenAI raised $122 billion (Amazon $50B, Nvidia $30B, SoftBank $30B). Anthropic secured $30 billion in Series G. xAI was acquired by SpaceX for $250 billion. Google launched Gemini 3.1 Ultra with a 2-million token context window working natively across text, image, audio, and video. Anthropic released Claude Mythos 5 (10 trillion parameters). The USGS unveiled AI that can predict drought 90 days in advance. The Stanford AI Index 2026 report is out with 12 key takeaways on the state of the field.
 
-**Life Impact: VERY HIGH** — If you're looking to buy in Copenhagen, the window is tightening. Supply constraints from green building regs are structural and won't ease soon. Renting is equally squeezed.
-
----
-
-### 3D PRINTING: AI-to-3D Pipeline Matures, Cancer Drug Delivery Breakthrough
-Meshy's Image-to-3D (Meshy-6 engine) is now integrated into Bambu Lab's MakerWorld ecosystem. MIT built a tool to preview FFF print quality before printing (saving failed prints). University of Mississippi demonstrated 3D-printed drug carriers that deliver chemo directly to tumors. AML3D got a $1.84M US Navy contract for submarine parts. ELEGOO showing Jupiter 2 large-format resin printer at RAPID+TCT (April 14-16, Boston).
-
-**Life Impact: LOW-MEDIUM** — The Meshy/MakerWorld integration is immediately useful if you have a Bambu printer. The MIT preview tool could save filament waste. Medical applications are longer-term.
+**Life Impact: MEDIUM-HIGH** — As an Anthropic customer, your tools are getting dramatically more capable. The funding arms race means faster model improvement but also growing concentration of AI power in a few companies. Gemini 3.1's multimodal context window is a step change for anyone working with AI.
 
 ---
 
-### INNOVATION: Agentic AI Era Begins, Biotech Computing Emerges
-2026 marks the transition from AI assistants to Agentic AI — systems that autonomously execute tasks, not just answer questions. Biotech computing (merging biological processes with computing) is emerging as a new field promising lower energy consumption. 86% of new global energy capacity in 2025 was renewable, with solar dominating.
+### 3D PRINTING: RAPID+TCT 2026 Wraps Up in Boston
+The biggest additive manufacturing trade show (April 14-16, Boston) just wrapped. Key announcements: Anycubic showed multicolor FDM and large-format resin printers. HP launched the MJF 1200, a compact industrial printer bringing Multi Jet Fusion to smaller teams. ELEGOO's Jupiter 2 large-format resin printer is now official (302×162×300mm build volume). HeyGears introduced commercial-grade transparent 3D printing. Velo3D got a $9.8M defense contract for military parts. Nanoscribe secured orders for its two-photon polymerization systems from fusion energy research organizations.
 
-**Life Impact: MEDIUM** — Agentic AI will change how you interact with software within the next year. The renewable energy shift helps stabilize long-term energy costs.
+**Life Impact: LOW-MEDIUM** — As a Creality user, the Anycubic multicolor FDM is the competitive product to watch. The HP MJF 1200 brings industrial-grade nylon printing closer to prosumer pricing. ELEGOO Jupiter 2 is interesting if you want large-format resin.
 
 ---
 
-### CROSSFIT: Quarterfinals Done, Semifinals Ahead
-The 2026 CrossFit Open is complete. Quarterfinals wrapped March 26-30. The 2026 Games will be July 24-26 at SAP Center, San Jose. Mayhem Classic Semifinal paying out $59K total. Veteran Arielle Loewen withdrew from the first Semifinal. Sadly, Rob Orlando passed away at 50 after a two-year cancer battle.
+### EV: Europe's Electric Vehicle Boom Accelerates
+Global EV sales hit 4 million in Q1 2026. Europe was the standout: 1.2 million units sold, up 27% year-on-year, with March crossing 500,000 monthly sales for the first time. France up 69%, UK up 31%. Chinese brands are surging — Leapmotor hit 30% of Italy's BEV market, and Chinese brands collectively approach 40% market share in some countries. XPeng P7+ deliveries start across 25 European markets in April (€43,990). Renault's new Twingo E-Tech confirmed for spring 2026 under €20,000.
 
-**Life Impact: LOW** — Relevant if you follow the competitive season. RIP Rob Orlando — a significant figure in the community.
+**Life Impact: MEDIUM** — More EV competition means better prices and more charging infrastructure investment. The sub-€20K Renault Twingo could be significant for second-car buyers. Chinese competition is pushing European manufacturers to improve.
+
+---
+
+### CROSSFIT: Semifinals Start Tomorrow
+The first in-person Semifinal kicks off April 17-19 in Cookeville, Tennessee, with 30 men and 30 women competing. The second event runs April 24-27 in Del Mar, California. The 2026 Games (the 20th edition) remain set for July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — If you follow the competitive season, watch Cookeville this weekend.
 
 ---
 
 ### Sources
-- [ScienceDaily - AI Energy Breakthrough](https://www.sciencedaily.com/releases/2026/04/260405003952.htm)
-- [Al Jazeera - Denmark Election](https://www.aljazeera.com/news/2026/3/24/polls-open-in-key-denmark-elections-clouded-by-trumps-greenland-threat)
-- [YouGov - Danish Election Model](https://yougov.com/en-gb/articles/54384-2026-danish-general-election-final-call-yougov-lss-election-model-shows-close-but-stable-race-between-left-and-right-blocs)
-- [European Parliament - News](https://www.europarl.europa.eu/news/en)
-- [EPC - Danish Elections EU Impact](https://www.epc.eu/events/danish-elections-what-impact-on-european-politics-and-security/)
-- [CNN - Iran War Day 38](https://www.cnn.com/2026/04/06/world/live-news/iran-war-us-trump-oil)
-- [Investropa - Copenhagen Housing](https://investropa.com/blogs/news/copenhagen-housing-prices)
-- [Colliers - Copenhagen Residential Market](https://www.colliers.com/en-dk/news/koebenhavns-boligmarked-midt-i-den-kommunale-valgkamp)
-- [3DPrint.com - News Briefs](https://3dprint.com/325020/3d-printing-news-briefs-4-4-2026/)
-- [Ole Miss - 3D Printed Cancer Drug Delivery](https://olemiss.edu/news/2026/04/3d-printing-could-change-how-cancer-drugs-reach-tumors/index.html)
-- [Fabbaloo - 3D Printing](https://www.fabbaloo.com/news/whos-the-biggest-in-3d-printing-april-5-2026)
-- [ELEGOO - RAPID+TCT 2026](https://www.prnewswire.com/news-releases/elegoo-to-showcase-new-products-and-real-world-3d-printing-applications-at-rapid--tct-2026-302732476.html)
-- [CrossFit Games - 2026 Overview](https://games.crossfit.com/open/overview)
-- [Prism News - CrossFit Quarterfinals](https://www.prismnews.com/hobbies/crossfit/crossfit-games-releases-official-2026-quarterfinal-workout-videos-for-athletes)
-- [Crescendo AI - Latest AI News](https://www.crescendo.ai/news/latest-ai-news-and-updates)
-- [MIT Technology Review - Breakthrough Technologies 2026](https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/)
-- [Nature - Technologies to Watch 2026](https://www.nature.com/articles/d41586-026-00188-6)
-- [UK in a Changing Europe - Denmark Election Analysis](https://ukandeu.ac.uk/squeezed-from-all-sides-what-denmarks-election-tells-us-about-the-crisis-of-the-european-centre-parties/)
+- [Bloomberg - Danish Coalition Talks Extended](https://www.bloomberg.com/news/articles/2026-04-15/danish-coalition-talks-set-to-take-another-month-kingmaker-says)
+- [CNN - Hungary Election Results](https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar)
+- [Al Jazeera - Magyar Wins Hungary Election](https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz)
+- [CNBC - Europe Cheers Orbán Defeat](https://www.cnbc.com/2026/04/13/hungary-election-orban-defeat-russia-putin-eu-win-reaction.html)
+- [CNN - Iran War Day 47](https://www.cnn.com/2026/04/15/world/live-news/iran-war-blockade-us-trump)
+- [Al Jazeera - US-Iran Ceasefire Terms](https://www.aljazeera.com/news/2026/4/8/us-iran-ceasefire-deal-what-are-the-terms-and-whats-next)
+- [Bloomberg - US-Iran Ceasefire Extension](https://www.bloomberg.com/news/articles/2026-04-15/us-and-iran-weigh-extending-their-ceasefire-by-two-weeks)
+- [Carnegie - US-Iran Ceasefire Analysis](https://carnegieendowment.org/middle-east/diwan/2026/04/the-united-states-and-iran-have-agreed-to-a-two-week-ceasefire)
+- [Tax Foundation - Trump Tariff Tracker](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/)
+- [CNBC - EU Big Tech Fines](https://www.cnbc.com/2026/04/10/google-meta-big-tech-6-billion-euros-eu-fine.html)
+- [Crescendo AI - AI News April 2026](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+- [Stanford HAI - AI Index 2026](https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report)
+- [Morningstar - Anycubic RAPID+TCT 2026](https://www.morningstar.com/news/pr-newswire/20260415cn35879/anycubic-showcases-next-generation-3d-printing-lineup-at-rapidtct-2026-highlighting-multicolor-fdm-and-large-format-resin-innovation)
+- [HP - MJF 1200 Announcement](https://www.hp.com/us-en/newsroom/press-releases/2026/hp-introduces-mjf-1200-3d-printer.html)
+- [Electric Cars Report - Q1 2026 Global EV Sales](https://electriccarsreport.com/2026/04/global-ev-sales-reach-4-million-in-q1-2026-as-europe-powers-market-recovery/)
+- [CrossFit Games - Semifinals Schedule](https://games.crossfit.com/semifinals/schedule?type=individual_in_person)
+
