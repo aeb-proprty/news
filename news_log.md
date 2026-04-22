@@ -1,5 +1,98 @@
 # Daily News Log
 
+## 2026-04-22
+
+### EU POLITICS: Orbán Defeated — Magyar Wins Historic Two-Thirds Supermajority in Hungary
+Péter Magyar's Tisza Party crushed Fidesz on April 12 with 53.6% of the vote and 138 of 199 seats — the largest mandate any Hungarian party has ever won in a free election. Orbán conceded after 16 years in power. Turnout hit a record 79.6%. Magyar's two-thirds supermajority gives him the power to amend Hungary's constitution. This fundamentally reshapes EU dynamics: Hungary's years of vetoing Ukraine aid, blocking EU consensus on migration and rule-of-law are over.
+
+**Life Impact: HIGH** — EU decision-making will speed up significantly. Expect movement on frozen EU funds, Ukraine policy, and rule-of-law enforcement. Danish-EU cooperation gets easier.
+
+---
+
+### DANISH POLITICS: Coalition Talks Expand Rightward, Expected to Drag Into May
+Frederiksen is now talking to the Liberals and Conservatives after center-left options stalled. Lars Løkke Rasmussen's Moderates remain kingmaker. Bloomberg reports talks will stretch at least another month. The Greenland crisis adds urgency — Trump posted on Truth Social during the Iran war calling Greenland "that big, poorly run piece of ice" and accused NATO allies of not supporting the US. White House says US-Denmark-Greenland talks are on a "good trajectory," but Trump also said Denmark and Greenland have "resisted his proposal." Denmark needs a functioning government to handle this.
+
+**Life Impact: HIGH** — No government means no new legislation on housing, tax, defense, or the Greenland situation. The longer this drags, the more policy uncertainty for everyone in Denmark.
+
+---
+
+### MIDDLE EAST: US-Iran War Day 53 — Trump Extends Fragile Ceasefire
+A two-week ceasefire brokered via Pakistan on April 8 was set to expire yesterday but Trump extended it indefinitely, citing Iran's government being "seriously fractured." However, the ceasefire is shaky — Iran seized a ship and attacked vessels near the Strait of Hormuz over the weekend. Trump demands Iran stop all uranium enrichment; Iran refuses to negotiate under a US naval blockade. Crude prices are up 30%+ since the war started — the largest energy supply disruption in modern history (500M+ barrels knocked out). The EU issued a joint statement calling for full ceasefire implementation and pledging to help ensure freedom of navigation in the Strait.
+
+**Life Impact: VERY HIGH** — Energy prices directly hit your utility bills (you're with Andel Energi). 30% crude price surge flows through to heating, electricity, transport, and groceries. Watch this closely.
+
+---
+
+### AI: Claude Mythos Preview Released — Too Powerful for Public Access
+Anthropic released Claude Mythos Preview on April 8 — their most advanced model, a new tier above Opus. It autonomously found and exploited a 17-year-old FreeBSD vulnerability, and has discovered thousands of high-severity vulnerabilities in every major OS and browser. Anthropic chose NOT to make it publicly available due to cybersecurity risks, instead launching Project Glasswing — an industry consortium to find and fix vulnerabilities in foundational systems. The NSA is reportedly already using it. The UK's AISI evaluated its cyber capabilities independently.
+
+**Life Impact: MEDIUM-HIGH** — This is a watershed moment for AI safety. The model is being used to harden systems you depend on daily (browsers, operating systems). The decision to restrict access sets a precedent for how frontier AI gets deployed.
+
+---
+
+### AI: SpaceX-xAI Merger Complete, Now Eyes $60B Cursor Acquisition
+SpaceX completed its $1.25 trillion acquisition of xAI in February, creating the world's most valuable private company. Now SpaceX has secured an option to buy Cursor (the AI coding IDE) for $60 billion — or invest $10 billion in a partnership. SpaceX plans to pair Cursor with its Colossus supercomputer (1M H100-equivalent). SpaceX also filed its confidential S-1 for an IPO that could value it at $1.75 trillion. Separately, Anthropic raised $30B in Series G funding.
+
+**Life Impact: MEDIUM** — The concentration of AI, space, and developer tools under Musk is significant. If you use Cursor, its product direction may shift. The broader AI funding frenzy ($267B in Q1 2026 VC alone) signals how fast this industry is moving.
+
+---
+
+### COPENHAGEN HOUSING: Net Domestic Outflow Continues, But City Still Grows
+New data shows 48,157 people moved out of Copenhagen Municipality in 2025 vs. 41,723 moving in — a net domestic loss for the 6th consecutive year. The middle class, especially people in their 30s with young children, are being pushed to suburbs by prices. Housing construction added 52,500 homes since 2010 but families grew by 80,000. Despite the outflow, the city still grows via international arrivals and natural growth (pop. 667,124 in 2025). Prices remain at ~66,000 DKK/m². Entry price for a central apartment: 3.1-3.8M DKK.
+
+**Life Impact: HIGH** — As a board member of E/F Fionia hus II, the demographic shift matters. Your building's value is supported by the supply crunch, but the outflow trend could eventually cool demand in some neighborhoods. The new parking arrangement in Havnestad suggests continued investment in the area.
+
+---
+
+### 3D PRINTING: Bambu Lab Retires X1 Series, Launches X2D at $899
+Bambu Lab officially retired the X1/X1 Carbon/X1E on March 31, with spare parts support through 2031. The replacement X2D launched April 14 at $899 (Combo) — $550 cheaper than the X1 Carbon's debut. Key innovation: dual-nozzle setup (one direct-drive, one Bowden) with a nozzle-lifting mechanism for multi-material/support printing. At RAPID+TCT (April 14-16), Anycubic showcased multicolor FDM and large-format resin. Velo3D landed a $9.8M US military IDIQ contract for 3D-printed defense parts.
+
+**Life Impact: LOW-MEDIUM** — The X2D is a compelling upgrade path if you have an X1. The dual-nozzle design solves real multi-material pain points at a lower price point.
+
+---
+
+### PROPTECH: Agentic AI Enters Real Estate — And You're at the Summit
+Agentic AI is becoming the dominant proptech trend: autonomous systems handling procurement, pricing, inventory, and property management. Spatial AI (trained on physical-world data) is the next frontier for construction and building management. Proptech investment is surging again with "monster rounds" returning. You're attending the Proptech Summit 2026 today/tomorrow — this is the core topic.
+
+**Life Impact: MEDIUM-HIGH** — As someone on a building board and interested in proptech, agentic AI tools for property management could directly change how E/F Fionia hus II handles maintenance, finances, and communication (like those Prosedo notifications you get).
+
+---
+
+### CROSSFIT: Mayhem Classic Done — Rodgers and Hoffer Win, Season Kicks Off
+The first 2026 Semifinal (Mayhem Classic, April 17-19 in Cookeville, TN) is in the books. Paige Rodgers (530pts) and Victor Hoffer won. Emma Lawson, Lucy Campbell, Roman Khrennikov, and Jeff Adler also qualified for the Games. Notable: 19 of 30 invited athletes declined the Mayhem Classic invite. Next up: Legends Championship in Del Mar, CA (April 24-26). The Games remain July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — The season is now in full swing. Semifinal results will trickle in through June.
+
+---
+
+### EU: Raw Materials Mechanism Launched, Emissions Down 40%
+The European Commission launched its first Raw Materials Mechanism on April 13, connecting EU buyers with suppliers of strategic raw materials — a direct response to supply chain vulnerabilities exposed by geopolitical tensions. Separately, the EU reported it has cut greenhouse gas emissions by 40% since 1990, and the Council adopted new rules on new genomic techniques (NGTs) for agriculture.
+
+**Life Impact: LOW-MEDIUM** — The raw materials mechanism could stabilize prices for electronics, batteries, and construction materials. The emissions milestone validates the green transition path but doesn't change daily life immediately.
+
+---
+
+### Sources
+- [Bloomberg - Danish Coalition Talks](https://www.bloomberg.com/news/articles/2026-04-15/danish-coalition-talks-set-to-take-another-month-kingmaker-says)
+- [CNN - Hungary Election Results](https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar)
+- [Al Jazeera - Magyar Wins Hungary](https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz)
+- [Al Jazeera - Iran War Day 53](https://www.aljazeera.com/news/2026/4/21/iran-war-what-is-happening-on-day-53-of-the-us-israel-conflict)
+- [CNBC - Trump Extends Ceasefire](https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire.html)
+- [EU Council - Ceasefire Statement](https://www.consilium.europa.eu/en/press/press-releases/2026/04/08/leaders-statement-on-the-two-week-ceasefire-concluded-between-the-united-states-and-iran/)
+- [Anthropic - Claude Mythos Preview](https://red.anthropic.com/2026/mythos-preview/)
+- [Foreign Policy - Mythos Cybersecurity](https://foreignpolicy.com/2026/04/20/claude-mythos-preview-anthropic-project-glasswing-cybersecurity-ai-hacking-danger/)
+- [TechCrunch - SpaceX Cursor Deal](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/)
+- [CNBC - SpaceX xAI Merger](https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html)
+- [NordiskPost - Copenhagen Outflow](https://www.nordiskpost.com/2026/04/19/copenhagen-residents-are-moving/)
+- [Investropa - Copenhagen Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [Tom's Hardware - Bambu X2D Review](https://www.tomshardware.com/3d-printing/bambu-lab-x2d-review)
+- [Hackster.io - X1 Series Retired](https://www.hackster.io/news/bambu-lab-retires-the-x1-series-of-fff-3d-printers-but-promises-spares-out-to-2031-ccce61958d08)
+- [The Barbell Spin - Mayhem Classic Results](https://thebarbellspin.com/crossfit-games/2026-mayhem-classic-results/)
+- [ICSC - Agentic AI in Proptech](https://www.icsc.com/news-and-views/icsc-exchange/next-phase-of-proptech-agentic-ai-in-2026)
+- [Foreign Policy - Arctic Council Greenland](https://foreignpolicy.com/2026/04/16/arctic-council-trump-greenland-denmark/)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
