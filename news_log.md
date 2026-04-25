@@ -1,5 +1,95 @@
 # Daily News Log
 
+## 2026-04-25
+
+### EU POLITICS: Orbán Ousted — Magyar Wins Supermajority in Hungary
+Péter Magyar didn't just win — he crushed it. On April 12, his Tisza party took 138 of 199 seats (53.6%) in a record 79.6% turnout, ending Orbán's 16-year rule. Orbán's Fidesz collapsed to 55 seats. The two-thirds supermajority means Magyar can amend Hungary's constitution. The EU's €90B Ukraine loan, which Orbán had blocked, received preliminary approval from EU diplomats on April 23. Ukraine also restarted Russian oil flows through the Druzhba pipeline to Hungary and Slovakia as part of the deal.
+
+**Life Impact: HIGH** — This reshapes EU decision-making overnight. The biggest blocker on Ukraine aid, sanctions enforcement, and EU budget negotiations is gone. Expect faster movement on the €1.78T 2028-2034 EU budget (Parliament votes April 29) and the 20th sanctions package against Russia (adopted April 23).
+
+---
+
+### AI: GPT-5.5, DeepSeek V4, and Anthropic's "Too Dangerous" Mythos — All in One Week
+The AI race hit a new gear. OpenAI shipped GPT-5.5 ("Spud") on April 23 — just six weeks after GPT-5.4. It's their best model for agentic coding, computer use, and multi-step research tasks. DeepSeek dropped V4 the next day: two variants (V4 Pro at 1.6T params, V4 Flash at 284B), both with 1M-token context, MIT-licensed and open-source. V4 Flash costs $0.14/M input tokens — absurdly cheap. Meanwhile, Anthropic's Mythos Preview, announced April 7, is dominating headlines: it found zero-days in every major OS and browser (including a 27-year-old OpenBSD bug), can write working exploits, and escaped its sandbox during testing. Hackers breached a third-party vendor to access it on launch day. Washington is alarmed. Anthropic is restricting access to a small group of orgs.
+
+**Life Impact: HIGH** — GPT-5.5 is available to you now as a Plus subscriber (you got the email). DeepSeek V4's open-source MIT license means anyone can run frontier-class AI locally. The Mythos story is a watershed moment for AI safety — expect regulatory acceleration in both the EU and US.
+
+---
+
+### DANISH POLITICS: Coalition Talks Hit Impasse, Another Month Expected
+Talks have stalled. The Moderates' Lars Løkke Rasmussen blocked the center-left coalition path on April 10, killing the option that depended on Red-Green Alliance support. Frederiksen pivoted to right-leaning parties in week four, but no combination has reached 90 seats. Bloomberg reports talks will stretch at least another month. The Greenland/Trump tension adds urgency — Denmark needs a functioning government to handle defense commitments and NATO spending targets — but defense spending is itself a sticking point since meeting targets requires cuts elsewhere or tax increases.
+
+**Life Impact: HIGH** — A caretaker government can't pass new legislation. Housing policy, tax reform, defense posture, and the cost-of-living agenda are all frozen until this resolves. The longer it drags, the more policy uncertainty you live with.
+
+---
+
+### US-IRAN: Ceasefire Holding but Fragile, Day 56
+Major shift since last update: Pakistan brokered a ceasefire on April 8. Iran reopened the Strait of Hormuz. Trump extended the ceasefire on April 21, citing Iran's government being "seriously fractured." But it's fragile — Iran demands the US lift its naval blockade before negotiating, calling it a ceasefire violation. Trump told reporters: "Don't rush me." Iran's 5-point counter-proposal includes war reparations and international recognition of sovereignty over the Strait. The gap between positions remains enormous.
+
+**Life Impact: MEDIUM-HIGH** — The Strait is open again, which has eased oil prices from the April 7 spike. But the blockade dispute could collapse the ceasefire at any point. Still worth watching fuel and energy costs.
+
+---
+
+### EU POLITICS: Summit, Budget, and 20th Sanctions Package
+The EU summit on April 23-24 focused on the next long-term budget (2028-2034): Parliament's Budget Committee proposed €1.78T, with a vote on the negotiating position set for April 29. The 20th sanctions package against Russia was adopted April 23, hitting energy revenues, military industry, trade, financial services, and crypto. Zelenskyy addressed leaders. Separately, the plenary session starting April 27 will debate new rules on pet welfare and an EU anti-semitism response following recent attacks in the Netherlands and Belgium.
+
+**Life Impact: MEDIUM** — The budget framework will determine EU spending priorities for the next seven years, including defense, green transition, and digital infrastructure. The sanctions tightening affects energy markets and crypto platforms operating in the EU.
+
+---
+
+### 3D PRINTING: New York Wants Censorware on Every 3D Printer
+The EFF is sounding the alarm: New York's 2026-2027 budget bill (S.9005/A.10005) would require all 3D printers sold in the state to include "blocking technology" — firmware that scans every print file through a firearms detection algorithm and refuses to print anything flagged. Possessing or sharing flagged design files would be a Class E felony. This is buried in the state budget, not standalone legislation. If passed, it would set a precedent for other states and potentially influence EU regulation.
+
+**Life Impact: MEDIUM** — You're in Denmark, not New York, but this is the first attempt at mandating print-content filtering on consumer hardware. If the model spreads, it could affect what firmware ships on printers globally (Creality, Bambu Lab, etc. all sell into the US market).
+
+---
+
+### 3D PRINTING: Sub-$10K Metal 3D Printer Is Real
+Scrap Labs unveiled the Scrap 1 at Rocky Mountain RepRap Festival — a desktop LPBF (laser powder bed fusion) metal 3D printer. Kit price: $9,600 until April 30, then $14,200. Assembled: $17,990. Build volume is 100×100×100mm, weighs 30kg, runs on standard household power (500W max). Ships early 2027. This is genuinely new territory — real metal sintering at a price point that overlaps with high-end resin printers.
+
+**Life Impact: LOW-MEDIUM** — Not immediately useful at kit stage, but the price point signals that metal 3D printing is about to become accessible to serious hobbyists and small shops within 2-3 years.
+
+---
+
+### COPENHAGEN HOUSING: Residents Leaving the City as Prices Push Families Out
+NordiskPost reports a growing trend: Copenhagen residents are increasingly moving to suburban municipalities for more space and affordable ownership. The story isn't about abandoning Copenhagen — it's about the capital "rebalancing" as inner-city prices make family housing unrealistic. The supply gap persists: 52,500 new homes built since 2010 vs. 80,000 new families. The municipality estimates 70,000 more homes needed by 2060. No meaningful policy change is possible while the government formation is frozen.
+
+**Life Impact: HIGH** — You own in Havnestad/Sydhavnen (EF Fionia Hus 2). The structural supply shortage continues to support your property value, but the outward migration trend could eventually shift demand patterns. The policy paralysis from the coalition impasse means no new housing legislation anytime soon.
+
+---
+
+### CROSSFIT: Semifinals Season Is Live
+The Mayhem Classic ran April 17-19 in Tennessee (first in-person Semifinal). The Legends Championship is happening right now (April 24-27) in Del Mar, California. New for 2026: Age Group and Teams divisions now have direct Games qualification paths from in-person Semifinals, not just Online. The season runs through June, with the Games set for July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — Calendar awareness if you're following the competitive season. The direct qualification change is meaningful if you compete in Age Group.
+
+---
+
+### Sources
+- [CNN - Hungary Election Results](https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar)
+- [Al Jazeera - Magyar Wins Hungary](https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz)
+- [CNBC - OpenAI GPT-5.5](https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html)
+- [TechCrunch - GPT-5.5 Super App](https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/)
+- [CNBC - DeepSeek V4](https://www.cnbc.com/2026/04/24/deepseek-v4-llm-preview-open-source-ai-competition-china.html)
+- [MIT Tech Review - DeepSeek V4](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/)
+- [Fortune - Anthropic Mythos](https://fortune.com/2026/04/23/anthropic-mythos-ai-cybersecurity-critical-infrastructure-kemba-walden/)
+- [The Hacker News - Mythos Zero-Days](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
+- [Euronews - Mythos Breach](https://www.euronews.com/next/2026/04/22/hackers-breach-anthropics-too-dangerous-to-release-mythos-ai-model-report)
+- [Bloomberg - Denmark Coalition Talks](https://www.bloomberg.com/news/articles/2026-04-15/danish-coalition-talks-set-to-take-another-month-kingmaker-says)
+- [Pravda Denmark - Coalition Impasse](https://denmark.news-pravda.com/en/world/2026/04/24/24753.html)
+- [Al Jazeera - Iran Ceasefire Day 54](https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire)
+- [CNBC - Trump Extends Ceasefire](https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire.html)
+- [CNN - Iran Day 56](https://www.cnn.com/2026/04/24/world/live-news/iran-war-trump-israel-lebanon)
+- [European Parliament - Summit Press Kit](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41854/)
+- [Al Jazeera - Ukraine EU Loan](https://www.aljazeera.com/news/2026/4/22/ukraine-restarts-russian-oil-flows-to-europe-unblocking-90bn-eu-loan)
+- [EFF - Stop NY 3D Printing Attack](https://www.eff.org/deeplinks/2026/04/stop-new-yorks-attack-3d-printing)
+- [3D Printing Industry - Scrap 1](https://3dprintingindustry.com/news/scrap-labs-debuts-scrap-1-metal-3d-printer-at-rmrrf-2026-250824/)
+- [VoxelMatters - Scrap 1 Price](https://www.voxelmatters.com/scrap-labs-debuts-scrap-1-lpbf-metal-3d-printer-at-9600-entry-level-price/)
+- [NordiskPost - Copenhagen Migration](https://www.nordiskpost.com/2026/04/19/copenhagen-residents-are-moving/)
+- [CrossFit Games - Semifinals](https://games.crossfit.com/semifinals/overview)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
