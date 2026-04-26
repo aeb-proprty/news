@@ -1,5 +1,70 @@
 # Daily News Log
 
+## 2026-04-26
+
+### HUNGARIAN EARTHQUAKE: Orbán Out, Magyar Wins Supermajority
+Péter Magyar's Tisza party won a historic landslide on April 12 — 138 of 199 seats (53.6%) — ending Orbán's 16-year grip on Hungary. Turnout hit 79.6%, a record since 1990. Orbán conceded. The two-thirds supermajority gives Magyar the power to amend Hungary's constitution. The immediate EU consequence: Hungary's veto on the €90 billion Ukraine loan was lifted within days, and the money is now moving.
+
+**Life Impact: HIGH** — This reshapes EU decision-making. No more Hungarian vetoes blocking defense, migration, or Ukraine policy. Expect faster EU consensus on issues that affect Denmark and the broader bloc.
+
+---
+
+### US-IRAN WAR: Ceasefire Holding But Fragile (Day 56)
+Since the last update (Day 38, active combat), a Pakistan-mediated ceasefire was struck on April 8. Iran agreed to reopen the Strait of Hormuz during the truce. Trump extended the ceasefire on April 21, citing Iran's "seriously fractured" government. However, Strait traffic remains at a near-halt — Iran seized two ships, and the US maintains a blockade of Iranian ports. Iran issued a 5-point counter-proposal demanding war reparations, security guarantees, and recognition of sovereignty over the Strait. Negotiations are stalled.
+
+**Life Impact: HIGH** — Oil markets remain volatile. The ceasefire is positive but the blockade means energy prices stay elevated. Watch your electricity and fuel costs.
+
+---
+
+### DANISH POLITICS: Coalition Talks Enter Week 5, No Deal in Sight
+Frederiksen is now pivoting toward right-leaning parties (Liberals, Conservatives) after center-left talks stalled. Løkke Rasmussen's Moderates (14 seats) remain kingmaker but paused negotiations on April 10 over irreconcilable economic differences with the Red-Green Alliance. Bloomberg reports talks are expected to take at least another month. Denmark remains under a caretaker government amid rising Greenland/US tensions that add urgency to forming a government.
+
+**Life Impact: HIGH** — No government means no new housing policy, no budget decisions, no response to Greenland pressure. The longer this drags, the more policy uncertainty you face on housing, taxes, and defense.
+
+---
+
+### EU POLITICS: €90B Ukraine Loan Unblocked, New Budget Battle Begins
+With Orbán gone, the €90B Ukraine loan cleared. Ukraine also restarted Russian oil flows via the Druzhba pipeline to Hungary and Slovakia as part of the deal. The EU adopted its 20th sanctions package against Russia. Meanwhile, the EU Budget Committee proposed a €1.78 trillion budget for 2028-2034 (+€175B over the Commission's proposal). Parliament is also pushing for tighter Digital Markets Act enforcement, specifically targeting AI-driven search tools and cloud services.
+
+**Life Impact: MEDIUM-HIGH** — The DMA AI scrutiny could affect how you use Google, cloud services, and AI tools in the EU. The budget fight will determine EU spending priorities for the next 7 years.
+
+---
+
+### AI: DeepSeek V4 Drops, Industry Funding Goes Parabolic
+DeepSeek released V4 (April 24) — two Mixture-of-Experts models: V4-Pro (1.6T params, 49B active) and V4-Flash (284B params, 13B active). Both support 1M token context. V4-Flash costs just $0.14/M input tokens. The big deal: a "Hybrid Attention Architecture" that dramatically improves long-conversation memory. Meanwhile: SpaceX acquired xAI for $1.25T (largest merger ever), OpenAI raised $122B (Amazon $50B, Nvidia $30B, SoftBank $30B), and Anthropic raised $30B Series G at a $350B valuation. SpaceX also has an option to buy Cursor for $60B. US VC hit a record $267B in Q1 2026.
+
+**Life Impact: MEDIUM-HIGH** — DeepSeek V4's pricing undercuts everyone — cheap, powerful AI with massive context windows is now commodity. The consolidation wave (SpaceX-xAI, potential Cursor acquisition) is reshaping who controls AI infrastructure.
+
+---
+
+### 3D PRINTING: New York Wants to Put Censorware on Every 3D Printer
+New York's 2026-2027 budget includes provisions requiring all 3D printers sold in the state to run print-blocking software that monitors every print for forbidden (gun-related) designs. Possessing or sharing certain design files would become a felony. The EFF is actively fighting it, calling it an attack on 3D printing, free speech, and innovation. Separately: Scrap Labs debuted the Scrap 1, a laser powder bed fusion metal 3D printer starting at $9,600 — making metal printing accessible to hobbyists/small shops for the first time.
+
+**Life Impact: MEDIUM** — The NY law doesn't affect Denmark directly, but it sets a precedent. If adopted widely, expect EU regulators to consider similar mandates. The Scrap 1 is genuinely exciting if you've ever wanted to print metal parts.
+
+---
+
+### COPENHAGEN HOUSING: 72 New FSB Apartments in Ørestad — Sign Up by May 15
+FSB is opening Salkahus in Ørestad — 72 new family apartments, first move-ins in September. You're already on the FSB waitlist, so your position is determined by when you originally signed up. You just need to add Salkahus to your preferences before May 15 when offer letters go out. Overall market remains tight: ~62,900 DKK/m² median, and Nordhavn is now the most expensive neighborhood at 98,000 DKK/m².
+
+**Life Impact: VERY HIGH** — You're on the FSB list. This is directly actionable. Add Salkahus to your preferences before May 15 if Ørestad interests you.
+
+---
+
+### CROSSFIT: Semifinals Underway — Del Mar Happening Now
+The competitive season has advanced from Quarterfinals. In-person Semifinals kicked off April 17 in Cookeville, TN. The Del Mar Semifinal is running right now (April 24-27). Upcoming: São José, Busan, and Birmingham (all May 1-3), then Paris (May 15-17). Online Semifinals for Masters (35+) run May 7-11. The Games remain set for July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — Follow the Del Mar results this weekend if you're tracking the competitive field.
+
+---
+
+### INNOVATION: SpaceX-xAI Plans Orbital Data Centers
+The SpaceX-xAI merger's stated purpose is building "orbital data centers" — AI compute infrastructure in space, powered by solar and connected via Starlink. This is the logical extension of AI's insatiable energy appetite meeting SpaceX's launch cost advantages. Still early-stage but the combined $1.25T entity has the resources to attempt it.
+
+**Life Impact: LOW-MEDIUM** — Longer-term play, but if it works, it could decouple AI scaling from terrestrial energy grids and real estate constraints.
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
