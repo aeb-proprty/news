@@ -105,3 +105,79 @@ The 2026 CrossFit Open is complete. Quarterfinals wrapped March 26-30. The 2026 
 - [MIT Technology Review - Breakthrough Technologies 2026](https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/)
 - [Nature - Technologies to Watch 2026](https://www.nature.com/articles/d41586-026-00188-6)
 - [UK in a Changing Europe - Denmark Election Analysis](https://ukandeu.ac.uk/squeezed-from-all-sides-what-denmarks-election-tells-us-about-the-crisis-of-the-european-centre-parties/)
+
+---
+---
+
+## 2026-04-30
+
+### DANISH POLITICS: Five Weeks, Still No Government — Frederiksen Pivots Right
+The centre-left path is dead. On April 10 the Moderates' Lars Løkke Rasmussen blocked further negotiations toward a government dependent on the Red-Green Alliance, forcing Frederiksen to pivot. She has since opened talks with the Liberals and Conservatives, aiming for a broad centrist coalition. Bloomberg reports talks could stretch at least another month. Meanwhile the Greenland crisis has a new wrinkle: Greenlandic Foreign Minister Vivian Motzfeldt was forced out after her party left Greenland's own coalition, creating internal political turmoil just as Denmark faces Arctic Council chairmanship tensions with the US over Trump's annexation rhetoric.
+
+**Life Impact: HIGH** — The rightward pivot means any new government will likely be more centrist on housing and immigration policy than a centre-left alternative would have been. The Greenland instability adds uncertainty to Denmark's international standing.
+
+---
+
+### US-IRAN WAR: Day 61 — Ceasefire Holds But No Peace in Sight, $25B Spent
+The war has entered a strange limbo. Trump declared a ceasefire on April 7 after the US hit 13,000 targets in Iran. Pakistan brokered a two-week pause that has been extended, but diplomatic progress is near zero. The US and Iran are running dueling naval blockades in the Persian Gulf, choking off commercial shipping including oil. The Pentagon now puts the war's cost at $25 billion. Trump says negotiations are happening "telephonically" because sending delegations to Islamabad takes too long. Defense Secretary Hegseth testified at a Congressional war hearing yesterday. Iran's military says it remains "in a war situation."
+
+**Life Impact: HIGH** — The Gulf blockade is the key variable. As long as it holds, global oil prices remain elevated and European energy costs stay high. A diplomatic breakthrough would be immediately felt at the pump; continued stalemate means continued pain.
+
+---
+
+### EU POLITICS: €90B Ukraine Loan Breaks Hungarian Block; Meta Charged Under DSA
+The April 23-24 informal summit delivered: EU leaders adopted a €90 billion loan for Ukraine (€30B budget support, €60B defense/military procurement), overcoming Hungary's prior veto. Leaders also began serious negotiations on the 2028-2034 long-term budget, with Parliament's Budget Committee proposing €1.78 trillion. This week's Strasbourg plenary (April 27-30) is voting on Parliament's budget negotiating position at 1.27% of EU GNI. Other plenary votes: new EU-wide rules banning abusive practices against dogs and cats, a common EU definition of rape based on consent, and accountability resolutions on Russian attacks on Ukrainian civilians. The Commission also opened infringement cases against Hungary and Slovakia for discriminatory fuel pricing for foreign-registered vehicles. Separately, the Commission preliminarily found Meta in breach of the DSA — roughly 10-12% of children under 13 are accessing Instagram/Facebook despite age restrictions. Meta faces fines of up to 6% of global turnover (potentially billions).
+
+**Life Impact: MEDIUM-HIGH** — The Ukraine loan signals EU resolve and its financing will affect future EU budget contributions from member states including Denmark. The Meta DSA action matters if you have kids using social media. The consent-based rape definition would harmonize criminal law across the EU.
+
+---
+
+### AI: April's Model War — Opus 4.7, GPT-5.5, DeepSeek V4 All Drop in One Week
+April 2026 was the most intense month in AI model history. Claude Opus 4.7 launched April 16. GPT-5.5 shipped April 23. And on the same day, DeepSeek quietly released V4 with open weights — matching Opus 4.7 and GPT-5.5 on most agentic benchmarks at roughly 1/6th the API cost. Meanwhile, Anthropic's next-generation Claude Mythos model is in restricted testing with 50 partner organizations under "Project Glasswing," posting 93.9% on SWE-bench Verified and 94.6% on GPQA Diamond — numbers that would make it the most capable coding/reasoning model ever benchmarked if confirmed publicly. On the hardware side, Cambridge researchers published a breakthrough: a hafnium oxide memristor that mimics how neurons process information, achieving switching currents a million times lower than conventional devices, potentially cutting AI hardware energy use by 70%. Published in Science Advances, though the 700°C fabrication temperature remains a barrier to mass production. Sony AI's Project Ace landed on the cover of Nature — a robot that plays table tennis at elite human level, the first autonomous physical system to achieve this.
+
+**Life Impact: HIGH** — DeepSeek V4's pricing pressure will drive down AI API costs across the board. If you use AI tools for work (Roboflow, coding assistants, etc.), expect more capability at lower cost very soon. The Mythos model's restricted rollout suggests something genuinely new is coming.
+
+---
+
+### 3D PRINTING: RAPID+TCT Delivers — ELEGOO CANVAS Surprise, Flashforge Zero-Waste, $9,600 Metal Printer
+RAPID+TCT 2026 (April 14-16, Boston) was packed. ELEGOO showed the Jupiter 2 (16K resolution ultra-large resin, auto-leveling, automated resin management) as expected, but also surprised with the CANVAS multicolor system for their Centauri Carbon platform. Flashforge launched the Creator 5 Series with four-toolhead tech that eliminates purge waste and prints multi-color up to 500% faster. Anycubic also debuted multicolor FDM and large-format resin. The standout for hobbyists: Scrap Labs unveiled the Scrap 1, a laser powder bed fusion (LPBF) metal 3D printer starting at $9,600 for early kits — a price point that brings real metal additive manufacturing within reach of serious makers for the first time. On the research side, a team developed 3D-printable electrically conductive resin using PEDOT:PSS and nano-graphite.
+
+**Life Impact: MEDIUM** — The Scrap 1 metal printer at $9,600 is potentially a game-changer if the quality delivers. The Flashforge zero-waste multi-color system could save significant filament cost. Conductive resin opens up printing functional electronics.
+
+---
+
+### CROSSFIT: Semifinals Underway — Dallin Pepper & Olivia Kerstetter Win Legends Del Mar
+The 2026 Semifinals are running 9 consecutive weekends (April 17 through June 15) with 12 events across 6 continents — the widest geographic spread ever, including South Korea, South Africa, and Brazil. The Legends Championship in Del Mar (April 24-26) delivered the first Games qualifiers: Dallin Pepper (485 pts) and James Sprague (460 pts) for the men, Olivia Kerstetter (465 pts) and Abigail Domit (415 pts) for the women. Key structural change this year: Masters and Teams now have live, in-person Games-qualifying opportunities at Semifinals instead of online-only paths. The adaptive division is being run by WheelWOD.
+
+**Life Impact: LOW** — Semifinals calendar runs through mid-June if you want to follow along. Games are July 24-26 in San Jose.
+
+---
+
+### INNOVATION: First Personalized Gene-Editing Treatment Given to a Human
+Baby KJ became the first person ever to receive a bespoke, personalized gene-editing treatment — not a one-size-fits-all therapy but a drug designed specifically for one patient's genetic mutation. A clinical trial is now planned, and regulators may approve personalized gene-editing drugs within the next few years. Separately, sodium-ion batteries (made from abundant materials like salt) are scaling as a cheaper, safer alternative to lithium, backed by major manufacturers and public investment — they're expected to power grid storage and affordable EVs.
+
+**Life Impact: MEDIUM** — Personalized gene editing is a paradigm shift in medicine, though it will take years to become widely available. Sodium-ion batteries could meaningfully lower EV and energy storage costs within 2-3 years.
+
+---
+
+### Sources
+- [Bloomberg - Danish Coalition Talks](https://www.bloomberg.com/news/articles/2026-04-15/danish-coalition-talks-set-to-take-another-month-kingmaker-says)
+- [Foreign Policy - Arctic Council & Greenland](https://foreignpolicy.com/2026/04/16/arctic-council-trump-greenland-denmark/)
+- [NPR - Iran War $25B](https://www.npr.org/2026/04/29/g-s1-119333/the-iran-war-now-has-a-price-tag-25-billion-but-still-no-end-date)
+- [CNN - Iran War Day 61](https://www.cnn.com/2026/04/29/world/live-news/iran-war-peace-proposal-trump)
+- [Al Jazeera - Iran War Updates](https://www.aljazeera.com/news/liveblog/2026/4/29/iran-war-live-trump-says-tehran-wants-end-to-blockade-israel-kills-medics)
+- [EU Council - Informal Summit](https://www.consilium.europa.eu/en/meetings/european-council/2026/04/23-24/)
+- [EP Think Tank - Summit Outcomes](https://epthinktank.eu/2026/04/28/outcome-of-the-meetings-of-eu-leaders-23-24-april-2026/)
+- [EU Parliament - Plenary Newsletter](https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-04-27)
+- [Euronews - Meta DSA Breach](https://www.euronews.com/next/2026/04/29/eu-finds-meta-in-breach-of-digital-rules-over-children-on-instagram-and-facebook)
+- [VentureBeat - DeepSeek V4](https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5)
+- [Fortune - DeepSeek V4](https://fortune.com/2026/04/24/deepseek-v4-ai-model-price-performance-china-open-source/)
+- [ScienceDaily - Brain-Like Chip](https://www.sciencedaily.com/releases/2026/04/260422044633.htm)
+- [University of Cambridge - Neuromorphic Chip](https://www.cam.ac.uk/research/news/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use)
+- [3DPrint.com - News Briefs](https://3dprint.com/325609/3d-printing-news-briefs-4-25-2026/)
+- [3D Printing Industry - ELEGOO CANVAS](https://3dprintingindustry.com/news/elegoo-makes-its-mark-at-rapid-tct-2026-with-jupiter-2-and-unexpected-canvas-debut-250801/)
+- [3D Printing Industry - Scrap Labs Metal Printer](https://3dprintingindustry.com/news/scrap-labs-debuts-scrap-1-metal-3d-printer-at-rmrrf-2026-250824/)
+- [OpenPR - Flashforge Creator 5](https://www.openpr.com/news/4495866/flashforge-revolutionizes-3d-printing-with-creator-5-series)
+- [BOXROX - Legends Del Mar Results](https://www.boxrox.com/2026-legends-championship-del-mar-semifinal-results-who-is-going-to-the-crossfit-games/)
+- [CrossFit Games - Semifinals](https://games.crossfit.com/article/2026-crossfit-semifinals-dates-and-details)
+- [Nature - Technologies to Watch](https://www.nature.com/articles/d41586-026-00188-6)
