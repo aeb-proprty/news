@@ -1,5 +1,97 @@
 # Daily News Log
 
+## 2026-05-02
+
+### HUNGARY / EU POLITICS: Orbán Defeated — Magyar Wins Supermajority
+*Update from April 7: Magyar was polling neck-and-neck. He didn't just win — he crushed it.* Péter Magyar's Tisza Party won 138 of 199 seats (53.6%) in the April 12 election, ending Orbán's 16-year rule. Orbán's Fidesz collapsed to 55 seats (37.8%). Turnout was a record 77%+. Magyar has a two-thirds supermajority — enough to amend the constitution. Orbán conceded on election night. This is the single biggest shift in EU internal politics in years: Hungary's veto on EU-Ukraine aid (a ~€90B loan package) is expected to be unblocked. The EU's far-right bloc loses its most powerful government ally.
+
+**Life Impact: HIGH** — EU decision-making on defense, migration, and Ukraine support will accelerate. Expect faster consensus on issues that previously stalled due to Hungarian vetoes. This also weakens the broader European far-right movement.
+
+---
+
+### DANISH POLITICS: Coalition Talks Enter 6th Week — Frederiksen Pivots Right
+*Update from April 7: Negotiations were just starting. Now they've taken a decisive turn.* Lars Løkke Rasmussen (Moderates) on April 10 blocked any coalition dependent on the Red-Green Alliance, calling it "irresponsible and impossible" over economic policy disagreements. Frederiksen pivoted to right-leaning parties in week 4. Løkke wants a broad centrist government: Social Democrats + Social Liberals + Venstre + Conservatives + Moderates. Bloomberg reported April 15 that talks could take another month. Meanwhile, Troels Lund Poulsen (Venstre) is back after emergency eye surgery for a retinal detachment — his newsletter signals he's positioning Venstre firmly in opposition, despite Venstre's historic low of 18 seats (10.1%). No government has been formed yet.
+
+**Life Impact: HIGH** — The longer this drags, the longer Denmark operates with a caretaker government — no new legislation on housing, tax, or defense. The shape of the eventual coalition will determine policy direction for years. Løkke's kingmaker move makes a centrist government most likely, which would mean moderate housing and tax policy.
+
+---
+
+### IRAN/US WAR: Day 63 — Naval Blockade Phase, Peace Talks Stalled
+*Update from April 7: Active missile exchanges have stopped, but the conflict has shifted form.* No direct fire exchanged since April 7. The war has entered a naval blockade/economic siege phase. Trump is laying groundwork for an extended blockade of Iranian ports. The US is threatening sanctions on any shipping paying tolls to Iran for Strait of Hormuz transit. Iran calls the port siege "intolerable." Trump rejected Iran's latest peace proposal ("they're asking for things I can't agree to") and hasn't ruled out restarting military action. The US Senate rejected a war powers resolution to constrain Trump. US gas prices have hit $4.30/gallon. A Washington Post poll shows war disapproval has reached Iraq/Vietnam-era levels.
+
+**Life Impact: HIGH** — The Strait of Hormuz blockade threat continues to pressure global oil and energy prices. As a European consumer, expect elevated fuel and heating costs for as long as this drags on. The conflict becoming a "frozen" standoff is now a real scenario analysts are discussing.
+
+---
+
+### EU POLITICS: Mercosur Trade Deal Goes Live, Meta Faces Record DSA Fine
+Two major EU developments this week:
+
+**EU-Mercosur:** After 25+ years of negotiations, the trade deal entered provisional application on May 1. It covers a 700M-person trading zone with Argentina, Brazil, Paraguay, and Uruguay. Immediate tariff elimination on 91-95% of goods. This happened despite a legal challenge at the EU Court of Justice — the Commission used a special procedure to push it through.
+
+**Meta vs. DSA:** The Commission preliminarily found Meta in breach of the Digital Services Act for failing to prevent under-13s from using Instagram and Facebook. An estimated 10-12% of EU children under 13 are on the platforms. Potential fine: up to 6% of global turnover — roughly $12.6 billion based on 2025 revenue. Meta can respond in writing; final decision is months away.
+
+**Life Impact: MEDIUM-HIGH** — Mercosur means cheaper South American imports (beef, soy, coffee) and better export conditions for EU goods. The Meta ruling signals the EU is serious about DSA enforcement — expect tighter age verification on platforms you use.
+
+---
+
+### AI: GPT-5.5 Ships, Novo Nordisk Partners with OpenAI, SpaceX Acquires xAI
+Major AI developments since last update:
+
+**GPT-5.5** (April 23): Major gains in agentic coding, computer use, and knowledge work. OpenAI passed $25B annualized revenue and is taking early steps toward an IPO.
+
+**Gemini 3.1 Ultra**: Google's new model processes video, audio, and text simultaneously without transcription — a first for commercial AI. Flash-Lite variant runs at $0.25/M input tokens.
+
+**Novo Nordisk + OpenAI** (April 14): Denmark's pharma giant partnered with OpenAI to integrate AI across drug discovery, clinical trials, manufacturing, supply chain, and corporate operations. Pilots launching now, full integration by end of 2026. This is the largest enterprise-wide AI deal in Danish corporate history.
+
+**SpaceX acquired xAI**, folding Grok into the SpaceX/Tesla ecosystem.
+
+**US courts** have imposed $145K+ in sanctions against lawyers for AI citation errors in Q1 2026 alone.
+
+**Life Impact: HIGH** — The Novo Nordisk deal is directly relevant to Denmark's economy and job market. GPT-5.5's agentic capabilities represent a step change in what AI can do autonomously. If you build with AI, the competitive landscape shifted significantly.
+
+---
+
+### CROSSFIT: Semifinals Happening Now — Three Events This Weekend
+*Update from April 7: Quarterfinals are done. Semifinals are live.* Three Semifinals are running May 1-3 simultaneously: São José (Brazil), Busan (South Korea), and Birmingham, Alabama. Paris Semifinal follows May 15-17, then Brisbane May 21-24. The Individual Online Semifinal closes the season June 11-15. The 2026 Games remain set for July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — Relevant if you're following the competitive season. The European athletes will compete in Paris in two weeks.
+
+---
+
+### 3D PRINTING: RAPID+TCT Wrap-Up, Bambu Lab Smart Features Deep Dive, Recycled Filament Goes Mainstream
+*Update from April 7: RAPID+TCT happened as previewed.* RAPID+TCT 2026 in Boston showcased the SLA 825 Dual (expanded build volume, dual high-power lasers) and industrial metal printing from CERATIZIT and 3D Systems. Flashforge patented a resin printing method that uses real-time force data to determine when each layer is cured — could improve print reliability significantly. PrintDry launched the PRO4 filament drying system. The bigger trend: recycled PETG and eco-PLA circular filament systems are now at production scale in industrial settings, and FDM throughput gains are killing the "too slow for production" myth. Bambu Lab published a deep dive on their smart printer features (auto-calibration, AI failure detection, remote monitoring).
+
+**Life Impact: LOW-MEDIUM** — The Flashforge force-sensing patent is interesting for resin users. Recycled filament at scale means cheaper, greener materials coming to consumer printers soon.
+
+---
+
+### INNOVATION: Agentic AI Becomes Default, EU Pushes AI Rule Postponement
+The EU Parliament and Council are negotiating to postpone certain high-risk AI system rules from the AI Act, while also discussing a ban on "nudification" apps. The broader trend: agentic AI (systems that plan, execute, and recover autonomously) is now the default industry expectation, not a research concept. The next frontier is multi-agent cooperation — teams of AI agents working together on complex tasks.
+
+**Life Impact: MEDIUM** — The AI Act postponement gives businesses more breathing room. Multi-agent systems will change how software works within the next year.
+
+---
+
+### Sources
+- [CNN - Hungary Election Results](https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar)
+- [Al Jazeera - Magyar Wins Hungary](https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz)
+- [Chatham House - Orbán Defeated](https://www.chathamhouse.org/2026/04/hungary-election-orban-has-been-defeated-will-orbanism-survive)
+- [Bloomberg - Denmark Coalition Talks](https://www.bloomberg.com/news/articles/2026-04-13/danish-leader-focuses-on-broad-coalition-in-fourth-week-of-talks)
+- [NordiskPost - Denmark Government Talks](https://www.nordiskpost.com/2026/03/26/frederiksen-invited-seven-parties-to-government-talks/)
+- [Al Jazeera - Iran War Day 63](https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks)
+- [CNN - Iran War Day 62](https://www.cnn.com/2026/04/30/world/live-news/iran-war-news)
+- [Washington Post - Iran War Poll](https://www.washingtonpost.com/politics/2026/05/01/poll-trump-iran-war-iraq/)
+- [EU Commission - Meta DSA Breach](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_920)
+- [Euronews - EU-Mercosur May 1](https://www.euronews.com/my-europe/2026/03/23/eu-says-mercosur-deal-set-for-provisional-application-from-1-may)
+- [CNBC - Novo Nordisk OpenAI](https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html)
+- [LLM Stats - AI Model Releases May 2026](https://llm-stats.com/ai-news)
+- [CrossFit Games - Semifinals Schedule](https://games.crossfit.com/semifinals/schedule)
+- [3D Printing News - Bambu Lab Smart Features](https://3dprintingnews.com/2026/05/01/a-deep-dive-into-smart-features-of-bambu-lab-printers/)
+- [Fabbaloo - 3D Printing News](https://www.fabbaloo.com/)
+- [EU Council - Forward Look April 27-May 10](https://www.consilium.europa.eu/en/press/press-releases/2026/04/24/forward-look-2026/)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
