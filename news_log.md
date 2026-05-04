@@ -1,107 +1,99 @@
 # Daily News Log
 
-## 2026-04-07
+## 2026-05-04
 
-### DANISH POLITICS: Coalition Talks Drag On After Historic Election
-The March 24 snap election left no bloc with a majority. Mette Frederiksen's Social Democrats won 38 seats but with their worst vote share (21.9%) since 1903. The Green Left surged to become the second-largest party (20 seats), and the Danish People's Party made significant gains. The Moderates are now kingmaker. Coalition negotiations are ongoing with no resolution yet. The Greenland/Trump crisis was the catalyst for the snap election and gave Frederiksen a rally-round-the-flag boost.
+### HUNGARY / EU POLITICS: Orbán Defeated — Magyar Wins Supermajority
+*Update from April 7: Magyar was polling neck-and-neck with Orbán.*
+Peter Magyar's Tisza party won a crushing landslide on April 12, taking 141 of 199 seats (53.6% of the vote) — a constitutional supermajority. Orbán conceded after 16 years in power. Turnout hit 79.6%, a record since 1990. EU leaders including von der Leyen hailed it as a victory for democracy. Magyar now has the power to amend Hungary's constitution, potentially unblocking billions in frozen EU funds and reshaping the EU's internal dynamics on Ukraine, migration, and defense.
 
-**Life Impact: HIGH** — A new government will directly affect tax policy, housing regulation, immigration rules, and Denmark's defense posture. If you're in Copenhagen, coalition outcomes on housing and green policy matter immediately.
-
----
-
-### EU POLITICS: Parliament Simplifies AI Rules, Bans Nudifier AI
-The European Parliament agreed on proposals to simplify the EU AI Act's application dates for high-risk systems and voted to ban AI "nudifier" systems outright. Separately, Parliament and Council reached agreement on a major EU Customs Code reform targeting e-commerce and product safety. New EU-wide anti-corruption criminal law framework was also adopted.
-
-**Life Impact: MEDIUM-HIGH** — The AI rule simplification directly affects anyone working with or building AI systems in the EU. The customs reform will affect online shopping from non-EU sellers.
+**Life Impact: HIGH** — This removes the EU's most persistent veto threat. Expect faster EU decision-making on defense spending, Ukraine support, and migration policy. Frozen EU funds flowing to Hungary could also stabilize the region economically.
 
 ---
 
-### EU POLITICS: Hungary's Orbán Faces Serious Electoral Challenge
-Péter Magyar, a former Orbán ally turned opposition leader, is polling neck-and-neck with Orbán ahead of Hungary's election. A Magyar victory could unblock EU-Ukraine aid and shift the EU's internal political dynamics significantly.
+### DANISH POLITICS: Still No Government After 40+ Days
+*Update from April 7: Coalition talks had just begun.*
+Denmark remains without a government over 40 days after the March 24 snap election. Lars Løkke Rasmussen blocked a centre-left formation dependent on the Red-Green Alliance on April 10, citing economic policy disagreements. He now pushes for a five-party centrist coalition: Social Democrats, Social Liberals, Venstre, Conservatives, and his own Moderates. Key sticking points remain a proposed wealth tax and pesticide restrictions. This is approaching the record for longest government formation in Danish history.
 
-**Life Impact: MEDIUM** — An Orbán loss would reshape EU consensus-building, potentially accelerating decisions on defense, migration, and Ukraine support that affect all EU citizens.
-
----
-
-### MIDDLE EAST: US-Iran Conflict Escalates, Day 38
-Iran rejected a US-proposed 45-day ceasefire. Trump demanded Iran reopen the Strait of Hormuz. Both sides exchanged missile attacks. Iran's top spy commander Maj. Gen. Majid Khademi was assassinated. Supreme Leader Khamenei struck a defiant tone. A gunfight erupted outside the Israeli consulate in Istanbul (2 gunmen killed). Lebanon humanitarian crisis deepens with 1M+ displaced.
-
-**Life Impact: HIGH** — Strait of Hormuz closure affects global oil prices and energy costs directly. Escalation risks broader regional war with global economic consequences. Watch fuel prices.
+**Life Impact: HIGH** — Policy paralysis on housing regulation, tax reform, and green building requirements continues. No new legislation can pass until a government is seated.
 
 ---
 
-### AI: Neuro-Symbolic AI Cuts Energy Use 100x While Boosting Accuracy
-Researchers published a breakthrough combining neural networks with symbolic (human-like logical) reasoning. The system helps AI think in steps rather than brute-force, achieving both better accuracy AND roughly 100x less energy consumption. This is significant because AI's growing energy footprint has been a major concern.
+### MIDDLE EAST: US-Iran Ceasefire Holds But Fragile — Day 65
+*Update from April 7: Iran had rejected US ceasefire, active fighting.*
+A ceasefire was agreed April 7-8 and has broadly held. Iran submitted a 14-point counter-proposal demanding resolution within 30 days (vs. US-proposed 2 months). Trump rejected it but says "very positive discussions" continue. The US announced it will begin escorting commercial ships through the Strait of Hormuz starting May 5. Israel and Hezbollah continue exchanging strikes in Lebanon despite the declared ceasefire. The Senate rejected a war powers resolution on April 30.
 
-**Life Impact: MEDIUM** — If this scales, it could dramatically lower the cost and environmental impact of AI services you use daily, and make AI viable in more edge/local devices.
-
----
-
-### AI: MCP Hits 97M Installs, Moves to Linux Foundation
-Anthropic's Model Context Protocol crossed 97 million installs in March. Every major AI provider now ships MCP-compatible tooling. The Linux Foundation announced it will take MCP under open governance — a major step toward it becoming a true industry standard.
-
-**Life Impact: MEDIUM** — MCP becoming a standard means better AI tool interoperability. If you build or use AI tools, this ecosystem matters.
+**Life Impact: HIGH** — The Hormuz escort operation is stabilizing oil markets somewhat, but the conflict is far from resolved. Energy prices remain elevated. Watch for whether the 14-point plan gets renegotiated — a deal would drop fuel costs significantly.
 
 ---
 
-### AI: Google Releases Gemma 4 Open Models
-Google launched Gemma 4, open models (Apache 2.0) built for reasoning and agentic workflows. Also unveiled TurboQuant at ICLR 2026 for dramatically reducing AI memory overhead.
+### AI: GPT-5.5 Launches, Mistral Drops 128B Model
+OpenAI released GPT-5.5, their most advanced model yet, with stronger coding, computer use, research, and agentic workflows. Mistral AI launched a new 128B flagship model with async cloud coding sessions and an agentic "Work mode" in Le Chat. The Pentagon signed AI deployment deals with Nvidia, Microsoft, and AWS for classified networks. Meanwhile, Oxford researchers raised alarms about AI models prioritizing user satisfaction over accuracy — models tuned for "warmth" produce more errors.
 
-**Life Impact: LOW-MEDIUM** — More capable open-source AI models available for local/private use.
-
----
-
-### AI: Utah First State to Let AI Renew Drug Prescriptions
-Utah became the first US state to allow AI systems to directly renew drug prescriptions — moving AI from diagnostic support into actual treatment decisions.
-
-**Life Impact: LOW** — US-only for now, but signals the direction of AI in healthcare globally. Denmark/EU will likely debate similar policies.
+**Life Impact: MEDIUM-HIGH** — GPT-5.5 and Mistral's agentic modes represent a step-change in what AI tools can do autonomously. The accuracy-vs-pleasantness research is worth keeping in mind when relying on AI outputs for decisions.
 
 ---
 
-### COPENHAGEN HOUSING: Prices Jump 20% YoY, Seller's Market Deepens
-Copenhagen apartment prices hit ~62,900 DKK/m² median (~66,226 DKK/m² average), up 20% in one year. Rental vacancy is 1-2% citywide, near 0% in central areas. New construction permits face stricter environmental requirements, adding 8-12% to building costs and reducing new housing supply by ~15%. Forecasts suggest 3-3.5% further annual growth, with a possible 6-10% upside in well-connected neighborhoods.
+### EU: Mercosur Trade Deal Goes Live, Meta in Trouble Over Minors
+The EU-Mercosur trade agreement began provisional application on May 1, cutting tariffs on cars, pharmaceuticals, and agri-food exports to Argentina, Brazil, Paraguay, and Uruguay. Separately, the European Commission found Meta's Instagram and Facebook in breach of the Digital Services Act for failing to prevent under-13s from accessing their platforms. The EU also marked the 10th anniversary of GDPR.
 
-**Life Impact: VERY HIGH** — If you're looking to buy in Copenhagen, the window is tightening. Supply constraints from green building regs are structural and won't ease soon. Renting is equally squeezed.
-
----
-
-### 3D PRINTING: AI-to-3D Pipeline Matures, Cancer Drug Delivery Breakthrough
-Meshy's Image-to-3D (Meshy-6 engine) is now integrated into Bambu Lab's MakerWorld ecosystem. MIT built a tool to preview FFF print quality before printing (saving failed prints). University of Mississippi demonstrated 3D-printed drug carriers that deliver chemo directly to tumors. AML3D got a $1.84M US Navy contract for submarine parts. ELEGOO showing Jupiter 2 large-format resin printer at RAPID+TCT (April 14-16, Boston).
-
-**Life Impact: LOW-MEDIUM** — The Meshy/MakerWorld integration is immediately useful if you have a Bambu printer. The MIT preview tool could save filament waste. Medical applications are longer-term.
+**Life Impact: MEDIUM** — The Mercosur deal will gradually lower prices on some imported goods and open export markets. The Meta DSA enforcement signals the EU is serious about platform accountability — expect tighter age verification requirements across platforms.
 
 ---
 
-### INNOVATION: Agentic AI Era Begins, Biotech Computing Emerges
-2026 marks the transition from AI assistants to Agentic AI — systems that autonomously execute tasks, not just answer questions. Biotech computing (merging biological processes with computing) is emerging as a new field promising lower energy consumption. 86% of new global energy capacity in 2025 was renewable, with solar dominating.
+### INNOVATION: Haven-1 — First Commercial Space Station Launching This Month
+Vast Space's Haven-1 is set to launch on a SpaceX Falcon 9 this month from California. It will be the first commercial space station, supporting crews of four for two-week missions over three years. It's also the first space station with Starlink connectivity (gigabit internet in orbit). At ~14,000 kg, it will be the heaviest spacecraft ever launched on a Falcon 9. Separately, sodium-ion batteries (made from salt) are emerging as a viable cheaper alternative to lithium for EVs and grid storage.
 
-**Life Impact: MEDIUM** — Agentic AI will change how you interact with software within the next year. The renewable energy shift helps stabilize long-term energy costs.
+**Life Impact: LOW-MEDIUM** — Haven-1 is a milestone for commercial space but won't affect daily life yet. Sodium-ion batteries could meaningfully lower EV and energy storage costs within 2-3 years.
 
 ---
 
-### CROSSFIT: Quarterfinals Done, Semifinals Ahead
-The 2026 CrossFit Open is complete. Quarterfinals wrapped March 26-30. The 2026 Games will be July 24-26 at SAP Center, San Jose. Mayhem Classic Semifinal paying out $59K total. Veteran Arielle Loewen withdrew from the first Semifinal. Sadly, Rob Orlando passed away at 50 after a two-year cancer battle.
+### COPENHAGEN HOUSING: Growth Moderating But Supply Still Record-Low
+*Update from April 7: Prices at 62,900 DKK/m², up 20% YoY.*
+Experts now forecast 4-6% nationwide price growth for the rest of 2026, down from last year's 20% surge. However, apartment supply in Copenhagen remains at the lowest level ever recorded, and vacancy is near 0% in central areas. Nordhavn leads at 98,000 DKK/m² — 30,000 DKK/m² more than Valby, the most affordable neighborhood. Trading activity has increased significantly despite the tight supply.
 
-**Life Impact: LOW** — Relevant if you follow the competitive season. RIP Rob Orlando — a significant figure in the community.
+**Life Impact: VERY HIGH** — The pace is slowing but prices are still climbing on record-low supply. If you're considering a purchase, the market is slightly less frantic than late 2025 but still firmly a seller's market.
+
+---
+
+### 3D PRINTING: Eplus3D Breaks 3-Meter Barrier, E3D Founder Passes Away
+Eplus3D announced the EP-M3050, an ultra-large-format metal powder bed fusion system with 256 lasers and a build volume of 3050x3050mm (Z-axis up to 5000mm) — shattering the previous size ceiling for metal AM. Sadly, Sanjay Mortimer, founder of E3D-Online (makers of widely-used hotends), has passed away — a significant loss for the community. In materials research, biochar is showing promise as a sustainable filler that improves mechanical strength while reducing porosity in printed parts. Xometry stock jumped 14% ahead of earnings.
+
+**Life Impact: LOW-MEDIUM** — The EP-M3050 is industrial-scale but signals where the technology is heading. Sanjay Mortimer's passing is a loss for the desktop 3D printing ecosystem — E3D components are in many printers. Biochar research could lead to better sustainable filaments.
+
+---
+
+### CROSSFIT: New CEO Announced, Semifinals Kicking Off
+Bruce Edwards will succeed Don Faul as CrossFit CEO effective today (May 4). The Semifinal season begins with the French Throwdown in Paris (May 15-17, 3 Games spots each for men/women), followed by events in Knoxville and Ciudad Real, Spain (both May 29-31). The 2026 Games remain set for July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — The CEO change could affect the direction of the sport and community long-term. Semifinals are the most exciting phase of the competitive season if you follow it.
+
+---
+
+### LEGO: May the 4th Releases Drop Today
+Today's Star Wars Day brings the 1,809-piece UCS Mandalorian N-1 Starfighter (75442, $250) — the set teased in your LEGO emails this morning. Also releasing: a 4-in-1 Jurassic Park Jeep Wrangler (May 7, $200), new Toy Story sets, Minifigures Series 29, and FIFA World Cup 2026 sets. The LEGO Batman: Legacy of the Dark Knight video game launches May 22.
+
+**Life Impact: LOW** — Relevant if you're a LEGO/Star Wars collector. The N-1 Starfighter is the headline set and available now.
 
 ---
 
 ### Sources
-- [ScienceDaily - AI Energy Breakthrough](https://www.sciencedaily.com/releases/2026/04/260405003952.htm)
-- [Al Jazeera - Denmark Election](https://www.aljazeera.com/news/2026/3/24/polls-open-in-key-denmark-elections-clouded-by-trumps-greenland-threat)
-- [YouGov - Danish Election Model](https://yougov.com/en-gb/articles/54384-2026-danish-general-election-final-call-yougov-lss-election-model-shows-close-but-stable-race-between-left-and-right-blocs)
-- [European Parliament - News](https://www.europarl.europa.eu/news/en)
-- [EPC - Danish Elections EU Impact](https://www.epc.eu/events/danish-elections-what-impact-on-european-politics-and-security/)
-- [CNN - Iran War Day 38](https://www.cnn.com/2026/04/06/world/live-news/iran-war-us-trump-oil)
+- [Pravda Denmark - Government Formation Stalled](https://denmark.news-pravda.com/en/world/2026/05/01/24838.html)
+- [CNN - Hungary Election Results](https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar)
+- [Al Jazeera - Magyar Wins Hungary](https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz)
+- [Chatham House - Orbán Defeated](https://www.chathamhouse.org/2026/04/hungary-election-orban-has-been-defeated-will-orbanism-survive)
+- [CNN - Iran War Day 65](https://www.cnn.com/2026/05/03/world/live-news/iran-war-news)
+- [Al Jazeera - Iran 14-Point Plan](https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon)
+- [NPR - Iran Response](https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal)
+- [LLM Stats - AI News May 2026](https://llm-stats.com/ai-news)
+- [AI and News - May 2026 Trends](https://www.aiandnews.com/blog/latest-ai-news-may-2026-2/)
+- [EUbusiness - EU Agenda](https://www.eubusiness.com/politics/eucalendar/)
+- [LaPresse - EU Tariff Concerns](https://uk.lapresse.it/politics-en/2026/05/03/tariffs-urso-says-new-us-tariffs-are-a-cause-for-concern-eu-reforms-are-needed/)
+- [Vast Space - Haven-1](https://www.vastspace.com/haven-1)
+- [Space.com - Haven-1 Launch](https://www.space.com/space-exploration/human-spaceflight/vast-gearing-up-to-launch-its-haven-1-private-space-station-in-2026)
 - [Investropa - Copenhagen Housing](https://investropa.com/blogs/news/copenhagen-housing-prices)
-- [Colliers - Copenhagen Residential Market](https://www.colliers.com/en-dk/news/koebenhavns-boligmarked-midt-i-den-kommunale-valgkamp)
-- [3DPrint.com - News Briefs](https://3dprint.com/325020/3d-printing-news-briefs-4-4-2026/)
-- [Ole Miss - 3D Printed Cancer Drug Delivery](https://olemiss.edu/news/2026/04/3d-printing-could-change-how-cancer-drugs-reach-tumors/index.html)
-- [Fabbaloo - 3D Printing](https://www.fabbaloo.com/news/whos-the-biggest-in-3d-printing-april-5-2026)
-- [ELEGOO - RAPID+TCT 2026](https://www.prnewswire.com/news-releases/elegoo-to-showcase-new-products-and-real-world-3d-printing-applications-at-rapid--tct-2026-302732476.html)
-- [CrossFit Games - 2026 Overview](https://games.crossfit.com/open/overview)
-- [Prism News - CrossFit Quarterfinals](https://www.prismnews.com/hobbies/crossfit/crossfit-games-releases-official-2026-quarterfinal-workout-videos-for-athletes)
-- [Crescendo AI - Latest AI News](https://www.crescendo.ai/news/latest-ai-news-and-updates)
-- [MIT Technology Review - Breakthrough Technologies 2026](https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/)
-- [Nature - Technologies to Watch 2026](https://www.nature.com/articles/d41586-026-00188-6)
-- [UK in a Changing Europe - Denmark Election Analysis](https://ukandeu.ac.uk/squeezed-from-all-sides-what-denmarks-election-tells-us-about-the-crisis-of-the-european-centre-parties/)
+- [TXM Estate - Copenhagen Market](https://txmestate.com/news/copenhagens-housing-market-in-2026-what-investors-and-homebuyers-should-know)
+- [3DPrint.com - News Briefs May 2](https://3dprint.com/325763/3d-printing-news-briefs-may-2-2026/)
+- [Fabbaloo - 3D Printing May 3](https://www.fabbaloo.com/news/whos-the-biggest-in-3d-printing-may-3-2026)
+- [Velites - CrossFit Semifinals 2026](https://usa.velitessport.com/blogs/news/crossfit-semifinals-2026)
+- [Stonewars - LEGO May 4th 2026](https://stonewars.com/news/lego-may-the-4th-2026-update/)
+- [9to5Toys - LEGO May 2026 Sets](https://9to5toys.com/2026/04/30/all-19-lego-sets-releasing-in-may-2026-star-wars-editions-jurassic-park-toy-story-batman-legacy-of-dark-knight-more/)
