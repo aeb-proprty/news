@@ -1,5 +1,105 @@
 # Daily News Log
 
+## 2026-05-09
+
+### DANISH POLITICS: Coalition Talks Collapse — Troels Lund Poulsen Now Leads Formation (UPDATE)
+Frederiksen's coalition talks officially broke down on May 8 after 43+ days — surpassing the 2022 record. Lars Løkke Rasmussen (Moderates) pulled out and nominated Liberal leader Troels Lund Poulsen to take over. The King has now asked Poulsen to explore forming a centre-right government. This is a major shift: Denmark may be heading for a blue-bloc government rather than a continuation of Social Democrat rule. Frederiksen's bid for a third term looks increasingly unlikely.
+
+**Life Impact: VERY HIGH** — A centre-right government under Poulsen would bring different tax, housing, immigration, and defense policies. As a Venstre member, this could mean your party enters government. Directly relevant to Copenhagen housing regulation and your housing association.
+
+---
+
+### EU/HUNGARY: Orbán Defeated — Péter Magyar Sworn In as PM Today (UPDATE)
+Magyar's Tisza party won a historic landslide on April 12: 141 of 199 seats (53.6%), a supermajority. Record 79.6% turnout. Orbán conceded. The new Hungarian parliament convenes today, May 9 (Europe Day), and Magyar is expected to be formally sworn in as prime minister. Von der Leyen said "Hungary has chosen Europe." This ends 16 years of Orbán's rule and removes the EU's most persistent internal veto.
+
+**Life Impact: MEDIUM-HIGH** — Removes the biggest blocker on EU consensus. Expect faster movement on EU defense spending, Ukraine support, and migration policy. The EU becomes more functional, which affects Denmark's negotiating position on everything.
+
+---
+
+### EU TRADE: Trump Sets July 4 Ultimatum on EU Deal, 25% Auto Tariffs Already Active
+Trump raised tariffs on EU cars and trucks to 25% on May 1, claiming the EU isn't complying with the July 2025 Scotland deal. He's now given the EU until July 4 to ratify the full trade agreement or face "much higher" tariffs. EU Parliament trade chief Bernd Lange says "good progress" but "still some way to go." Next round of talks: May 10. The EU-Mercosur trade deal also went live May 1, opening South American markets.
+
+**Life Impact: HIGH** — EU auto tariffs affect Danish exports and supply chains. If the July 4 deadline passes without a deal, expect broader price increases on imports/exports. The Mercosur deal opens new trade but won't offset a US trade war.
+
+---
+
+### MIDDLE EAST: US-Iran War Day ~70 — Closest to Deal Yet, But Fighting Continues (UPDATE)
+Despite a ceasefire, Iran attacked 3 US warships transiting the Strait of Hormuz on May 8 with missiles, drones, and assault boats. The US responded with "self-defense strikes" on Iranian ports. However, behind the scenes, both sides are reportedly the closest they've been to a deal: a one-page MoU where Iran would pause nuclear enrichment, the US would lift sanctions and release frozen funds, and both sides would reopen the Strait. Nothing signed yet.
+
+**Life Impact: HIGH** — The Strait of Hormuz directly affects global oil/energy prices. A deal would bring relief; continued fighting means fuel costs stay elevated. Denmark's energy prices are already impacted.
+
+---
+
+### AI: Anthropic Overtakes OpenAI — Claude Mythos Triggers US Regulatory Response
+Anthropic's ARR hit $30B, surpassing OpenAI ($24B) for the first time. The catalyst: Claude Mythos, released April 8 as a gated research preview ("Project Glasswing"). Mythos found ~300 vulnerabilities in Firefox alone (up from 20 by earlier models), including a 17-year-old remote code execution bug in FreeBSD. The White House is now drafting an executive order for FDA-style AI model vetting. CEO Dario Amodei warned of a "moment of danger" as AI cybersecurity capabilities outpace defenses. Mythos is restricted to vetted security partners only.
+
+**Life Impact: HIGH** — This is a watershed moment for AI regulation. If FDA-style vetting becomes standard, it changes how quickly new AI capabilities reach consumers and businesses. As someone using AI tools, expect both more powerful security and more gatekeeping.
+
+---
+
+### AI: Chinese Labs Release Four Competitive Open Coding Models
+Z.ai (GLM-5.1), MiniMax (M2.7), Moonshot (Kimi K2.6), and DeepSeek (V4) all released open-weights coding models at roughly the same capability ceiling for agentic engineering — at significantly lower inference costs than Western frontier models. Global AI adoption rose to 17.8% of working-age population in Q1 2026.
+
+**Life Impact: MEDIUM** — More competition means cheaper, more accessible AI coding tools. If you use AI for development or 3D printing workflows, these models offer capable alternatives.
+
+---
+
+### COPENHAGEN HOUSING: Nykredit Forecasts 13.7% Price Rise in 2026, Record-Low Supply (UPDATE)
+Prices remain at ~62,900 DKK/m² median. Nykredit now forecasts a 13.7% increase for 2026 (the highest estimate from any major analysis house), with a more modest 3.1% in 2027. Supply is at a record low, especially in the capital. Listings sell in 14-21 days. The market is firmly a seller's market across almost all neighborhoods and price segments. Your Boligsiden alerts show 11 new listings and 3 price changes in your saved search — the churn is real but inventory is thin.
+
+**Life Impact: VERY HIGH** — You're actively searching. The 13.7% forecast means every month of waiting costs you roughly 1% in price increases on a typical Copenhagen apartment. The tight supply means you need to move fast when something fits.
+
+---
+
+### 3D PRINTING: Japan's First 3D-Printed Two-Story House, Ultra-Large Metal Printer
+"Stealth House," Japan's first 3D-printed two-story home (50m², 6m tall), was printed on-site in just 14 days by startup Kizuki. Meanwhile, Chinese manufacturer Eplus3D announced the EP-M3050 — a metal powder bed fusion system with 256 lasers and a 3050mm × 3050mm build area (Z-axis up to 5000mm). Also: FDM granule printing (skipping filament entirely) is maturing with the Direct Granules Extruder V7.0, and biochar is showing promise as a filler to improve printed part strength.
+
+**Life Impact: LOW-MEDIUM** — The granule-based FDM printing is the most practically interesting if you're looking for cheaper feedstock. The Japanese house demonstrates that 3D construction is getting real, which may eventually affect housing costs.
+
+---
+
+### CROSSFIT: Age Group Semifinals Live, Individual Semifinals in May
+The 2026 Online Semifinals kicked off May 7 (Masters & Teens, runs through May 11). Individual Semifinals are coming: French Throwdown in Paris (May 15-17, 3 Games spots each gender) and Knoxville (May 29-31). This is the 20th anniversary Games year — finals July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — Semifinal season is in full swing. Worth following if you want to see who makes it to the anniversary Games.
+
+---
+
+### INNOVATION: First Commercial Space Station Launching This Month
+Vast Space's Haven-1, the first commercial space station, is set to launch in May 2026 on a SpaceX Falcon 9. The bus-sized habitat supports crews of 4 for 10-day missions, enabling microgravity research (growing plants, testing drugs). Also: sodium-ion batteries (made from salt) are emerging as a viable, cheaper alternative to lithium for grid storage and affordable EVs. And "Baby KJ" became the first person to receive a personalized gene-editing treatment — a clinical trial is now planned.
+
+**Life Impact: MEDIUM** — Sodium-ion batteries could meaningfully affect EV and energy storage costs within a few years. Gene editing entering clinical trials is a healthcare milestone.
+
+---
+
+### EU: Commission Targets Meta Over Child Safety, Proposes Anti-Poverty Strategy
+The European Commission found Meta's Instagram and Facebook in preliminary breach of the Digital Services Act for failing to prevent minors under 13 from accessing their services. Separately, the Commission proposed the EU's first-ever anti-poverty strategy — 1 in 5 Europeans and 1 in 4 children live in poverty, and ~1 million are homeless across the EU.
+
+**Life Impact: MEDIUM** — The DSA enforcement against Meta signals the EU is serious about platform regulation. The poverty strategy could lead to new housing and social policies across member states, potentially affecting Copenhagen.
+
+---
+
+### Sources
+- [Bloomberg - Denmark Coalition Talks Break Down](https://www.bloomberg.com/news/articles/2026-05-08/denmark-s-coalition-talks-break-down-in-blow-to-frederiksen)
+- [US News - Troels Lund Poulsen Leads Talks](https://www.usnews.com/news/world/articles/2026-05-08/denmarks-coalition-talks-break-down-in-setback-for-prime-minister-frederiksen)
+- [CNN - Hungary Election Results](https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar)
+- [Al Jazeera - Magyar Wins Hungary](https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz)
+- [CNBC - Trump EU Tariffs July 4 Deadline](https://www.cnbc.com/2026/05/08/trump-tariffs-trade-eu-europe-deal.html)
+- [Al Jazeera - Trump EU Tariff Decision](https://www.aljazeera.com/economy/2026/5/7/trump-sets-july-4-deadline-for-eu-tariff-hike-decision)
+- [Axios - US Iran One-Page Memo](https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo)
+- [CBS - Iran War Live Updates](https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/)
+- [CNBC - Anthropic Mythos Moment of Danger](https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html)
+- [Air Street Press - State of AI May 2026](https://press.airstreet.com/p/state-of-ai-may-2026)
+- [Investropa - Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [TXM - Copenhagen Housing Market 2026](https://txmestate.com/news/copenhagens-housing-market-in-2026-what-investors-and-homebuyers-should-know)
+- [CNN - Japan 3D-Printed House](https://www.cnn.com/2026/05/07/business/japans-3d-printing-construction-sector-crisis-hnk-spc)
+- [3DPrint.com - News Briefs May 7](https://3dprint.com/325902/3d-printing-news-briefs-may-7-2026/)
+- [Hackaday - FDM Granule Printing](https://hackaday.com/2026/05/06/direct-fdm-printing-with-granules/)
+- [CrossFit Games - 2026 Season](https://games.crossfit.com/article/2026-crossfit-games-season-dates-and-details-division)
+- [The Local DK - Denmark News](https://www.thelocal.dk/20260506/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-52)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
