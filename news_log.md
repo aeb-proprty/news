@@ -1,5 +1,100 @@
 # Daily News Log
 
+## 2026-05-10
+
+### DANISH POLITICS: Frederiksen Falls — Troels Lund Poulsen Now Leads Coalition Talks
+UPDATE from April 7: The stalemate broke decisively against Frederiksen. After six weeks of fruitless negotiations, Moderate leader Lars Løkke Rasmussen pulled out of talks with Frederiksen and proposed Troels Lund Poulsen (Venstre) take over. King Frederik X formally appointed Troels Lund Poulsen as "kongelig undersøger" on May 8. Official coalition negotiation meetings begin Monday May 12, with all Folketing parties and North Atlantic mandates invited. Troels Lund Poulsen's priorities: economic reform, defense, strict immigration policy, children/elderly welfare, and business competitiveness. The red bloc holds 84 seats, blue bloc 77, Moderates 14 — a majority requires 90 of 179 seats, so cross-bloc cooperation is unavoidable.
+
+**Life Impact: VERY HIGH** — Your party leader is now running the government formation process. The outcome will directly shape tax, housing, defense, and immigration policy. The Havnestaden parking license deadline (May 15) from Copenhagen municipality is also imminent — apply now if you haven't.
+
+---
+
+### EU POLITICS: Trump Gives EU July 4 Tariff Ultimatum
+Trump told von der Leyen the EU has until July 4 to ratify last year's trade deal or face "much higher" tariffs — auto tariffs would jump from 15% to 25%. This is actually a deadline extension; he had threatened to raise them this week. EU trade negotiators meet again today (May 10) to finalize zero-tariff proposals. Von der Leyen says "good progress" is being made, but the deal is not done.
+
+**Life Impact: HIGH** — If tariffs spike, EU export sectors take a hit and consumer prices rise. Denmark's open economy is particularly exposed. Watch the July 4 deadline.
+
+---
+
+### EU POLITICS UPDATE: Orbán Defeated — Magyar Wins Hungarian Supermajority
+UPDATE from April 7: The election happened April 12 and it was a landslide. Péter Magyar's TISZA party took 52.1% and 136 of 199 seats — a two-thirds supermajority. Orbán's Fidesz collapsed from 135 to 57 seats. Turnout hit a post-Communist record of 79.6%. Orbán conceded on election night. This unblocks EU decision-making on Ukraine, migration, and defense that Orbán had been vetoing for years. Magyar is pro-EU, ending Hungary's obstructionist era.
+
+**Life Impact: MEDIUM-HIGH** — The EU can now move faster on defense and Ukraine support without Hungarian vetoes. This reshapes EU politics meaningfully for all member states including Denmark.
+
+---
+
+### EU REGULATION: Meta Found in Breach of Digital Services Act Over Child Safety
+The European Commission found Meta in preliminary breach of the DSA for failing to keep under-13s off Instagram and Facebook. Kids can simply enter a false birthdate with no verification. The reporting tool for minors requires seven clicks to access. An estimated 10-12% of under-13s are using these platforms. Meta faces a potential fine of up to 6% of global annual revenue. Meta is now rolling out AI-based age detection and expanding Teen Accounts to the EU.
+
+**Life Impact: LOW-MEDIUM** — Relevant if you have children using these platforms. Signals the EU is getting serious about DSA enforcement.
+
+---
+
+### US-IRAN: Fragile Ceasefire Holds (Barely) — Day 71
+UPDATE from April 7: A two-week ceasefire was declared April 7, and Trump extended it indefinitely. But it's been repeatedly violated by both sides — the US struck two Iranian-flagged ships on May 8, and Trump called recent US strikes a "love tap." Despite this, a one-page memorandum of understanding is reportedly close: Iran would halt nuclear enrichment, the US would lift sanctions and release frozen funds, and both sides would open the Strait of Hormuz. Pakistan is mediating. The situation remains volatile.
+
+**Life Impact: HIGH** — Strait of Hormuz transit directly affects global energy prices. A deal would stabilize oil markets; a collapse would spike them. Keep watching fuel costs.
+
+---
+
+### AI: Claude Mythos Preview — A "Moment of Danger" for Cybersecurity
+Anthropic's unreleased Claude Mythos Preview model can autonomously find and exploit zero-day vulnerabilities that survived decades of human review. It found thousands of critical flaws across every major OS and browser, including a 27-year-old OpenBSD bug and a 17-year-old FreeBSD RCE. CEO Dario Amodei warned of a 6-12 month window to patch these before adversarial AI catches up. The model is restricted to a gated research preview ("Project Glasswing") and not publicly available. The UK AISI has published its own evaluation. New US federal legislation is being drafted in response.
+
+**Life Impact: MEDIUM-HIGH** — This signals AI capabilities are entering genuinely dangerous territory for infrastructure security. Software you depend on daily is being patched based on Mythos findings right now.
+
+---
+
+### AI: Anthropic Surpasses OpenAI in Revenue; Novo Nordisk Partners with OpenAI
+Anthropic's annual recurring revenue hit $30B, overtaking OpenAI's $24B for the first time, driven by enterprise agentic workflow adoption. Meanwhile, Novo Nordisk (Denmark's pharma giant) announced a strategic partnership with OpenAI to integrate AI across drug discovery and manufacturing for obesity and diabetes treatments.
+
+**Life Impact: MEDIUM** — The Novo Nordisk deal is notable as a major Danish company betting big on AI integration. The revenue shift signals enterprise AI adoption is accelerating.
+
+---
+
+### 3D PRINTING: 256-Laser Metal Printer, Rolls-Royce AM Facility, Japan's 3D-Printed House
+Eplus3D announced the EP-M3050, an ultra-large-format metal powder bed fusion system with 256 lasers and a 3050x3050mm build area (Z-axis up to 5000mm) — industrial-scale one-piece metal printing. Rolls-Royce opened a dedicated AM Development Cell in Bristol for aircraft engine components (350m² controlled facility). Modix announced the MAMA-1000 (1m³ build volume). In Japan, "Stealth House" became the country's first 3D-printed two-story home, pointing toward construction-scale adoption.
+
+**Life Impact: LOW-MEDIUM** — The Eplus3D and Rolls-Royce developments are industrial, but the Japan house signals 3D-printed construction is maturing. The Modix MAMA-1000 is relevant for large-format FDM enthusiasts.
+
+---
+
+### COPENHAGEN HOUSING: Nykredit Forecasts 13.7% Price Rise in 2026
+UPDATE from April 7: Nykredit now expects Copenhagen apartment prices to rise 13.7% in 2026 (revised up from earlier 3-3.5% forecasts), with 3.1% in 2027. Average days on market is 14-21 days for well-located properties. Fewer than 1,000 owner-occupied apartments were listed at one point — a historic low. Your Boligsiden search ("hot-swap") returned 7 new listings and 2 price drops yesterday, including a 3-room at Birketinget 12 (KBH S) down 2.3% to 4.195M and a 2-room at Åboulevard 34E (KBH N) down 5% to 3.795M.
+
+**Life Impact: VERY HIGH** — The market is moving fast and the revised 13.7% forecast means waiting is expensive. The price reductions on your Boligsiden alerts are worth investigating — drops in this market are unusual.
+
+---
+
+### CROSSFIT: Semifinals Underway, Age Group Online Semifinals Live
+UPDATE from April 7: Individual Semifinals are running through May — Magic City (Birmingham, May 1-3) and Far East Throwdown (Busan, May 1-3) are complete. Henrik Haapalainen and Siria Meha qualified from the Far East Throwdown. The Age Group Online Semifinals went live May 7; scores due by Monday May 11 at noon PT. Next up: Paris Semifinal (May 15-17) and Brisbane (May 21-24). The Games remain July 24-26 in San Jose.
+
+**Life Impact: LOW** — Relevant if you follow the competitive season. Age Group athletes have until tomorrow to submit scores.
+
+---
+
+### Sources
+- [Bloomberg - Denmark Liberal Leader Takes Over Coalition Talks](https://www.bloomberg.com/news/articles/2026-05-09/denmark-liberal-leader-takes-over-coalition-talks-after-pm-fails)
+- [NordiskPost - Denmark Government Talks Move to Venstre](https://www.nordiskpost.com/2026/05/09/denmark-government-venstre-troels-lund-poulsen-lead-new-coalition-talks/)
+- [CNBC - Trump EU Tariff Deadline](https://www.cnbc.com/2026/05/08/trump-tariffs-trade-eu-europe-deal.html)
+- [Al Jazeera - Trump July 4 EU Deadline](https://www.aljazeera.com/economy/2026/5/7/trump-sets-july-4-deadline-for-eu-tariff-hike-decision)
+- [CNN - Hungary Election Results](https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar)
+- [Al Jazeera - Magyar Wins Hungary](https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz)
+- [European Commission - Meta DSA Breach](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_920)
+- [CNN - Iran War Day 71](https://www.cnn.com/2026/05/09/world/live-news/iran-war-news)
+- [Axios - US-Iran One-Page Memo](https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo)
+- [Washington Post - US Strikes Iran Ships](https://www.washingtonpost.com/national-security/2026/05/08/us-iran-ceasefire-hormuz-attacks/)
+- [CNBC - Anthropic CEO Mythos Warning](https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html)
+- [Fortune - Anthropic Mythos](https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/)
+- [Crescendo AI - AI News](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+- [3DPrint.com - News Briefs May 9](https://3dprint.com/325932/3d-printing-news-briefs-may-9-2026/)
+- [CNN - Japan 3D-Printed House](https://www.cnn.com/2026/05/07/business/japans-3d-printing-construction-sector-crisis-hnk-spc)
+- [Investropa - Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [TXM Estate - Copenhagen Housing Market 2026](https://txmestate.com/news/copenhagens-housing-market-in-2026-what-investors-and-homebuyers-should-know)
+- [CrossFit Games - Semifinals](https://games.crossfit.com/semifinals/overview)
+- [The Barbell Spin - Magic City Results](https://thebarbellspin.com/crossfit-games/2026-magic-city-crossfit-semifinal-results/)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
