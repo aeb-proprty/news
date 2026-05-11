@@ -1,5 +1,110 @@
 # Daily News Log
 
+## 2026-05-11
+
+### DANISH POLITICS: Frederiksen Out — Troels Lund Poulsen Now Leading Government Formation
+Mette Frederiksen's coalition talks collapsed on May 8 after Lars Løkke Rasmussen and the Moderates pulled out, ending her bid for a third term. Løkke called it "quite a hand grenade" and nominated Venstre's Troels Lund Poulsen as royal investigator. King Frederik formally appointed Troels Lund Poulsen on Friday evening. He's now exploring a centre-right government *without* the Social Democrats or Moderates. The Danish People's Party backed him on the condition that the government pursue "Muslim net emigration" — but the Moderates backed him from the opposite angle, wanting broad cross-centre cooperation. Negotiations begin Monday. The process has already broken the record for longest government formation in modern Danish history.
+
+**Life Impact: VERY HIGH** — This is a historic shift. A centre-right government would mean different policy on housing, immigration, tax, green regulation, and defense spending. If you're in Copenhagen, watch for housing and parking policy changes closely. Your Havnestaden parking situation (see below) is a small taste of municipal-level shifts already underway.
+
+---
+
+### EU POLITICS: Peter Magyar Sworn In as Hungary's PM — Orbán's 16-Year Rule Ends
+Update from April 7: Magyar didn't just challenge Orbán — he crushed him. On April 12, Tisza won 141 of 199 seats (53.6% of the vote) in a record 79.6% turnout. Orbán conceded election night. Magyar was sworn in as PM on May 9. This is the biggest political earthquake in the EU in years — the bloc's most persistent veto-wielder is gone.
+
+**Life Impact: HIGH** — EU decision-making just got dramatically easier. Expect faster movement on Ukraine aid, defense cooperation, migration policy, and rule-of-law enforcement. The EU's internal dynamics have fundamentally shifted.
+
+---
+
+### EU/TRADE: Trump Gives EU Until July 4 — Tariffs Could Jump to 25%
+Trump threatened to hike tariffs on EU cars and trucks from 15% to 25% if the EU doesn't ratify the Turnberry trade deal by July 4. The deal was struck last July but the EU's 27 members haven't finalized it. Von der Leyen says "good progress" is being made. This is a real deadline with real teeth.
+
+**Life Impact: HIGH** — If tariffs jump, EU export industries take a hit, and retaliatory measures could raise consumer prices across Europe. Denmark's export-heavy economy is directly exposed.
+
+---
+
+### MIDDLE EAST: Iran War Day 72 — Peace Talks Stall After Operation Epic Fury Ends
+Update from April 7: Operation Epic Fury (the US/Israel military campaign) officially ended May 5, but the war isn't over. Trump called Iran's counter-proposal "totally unacceptable." Iran demands sovereignty over the Strait of Hormuz, compensation for war damages, release of frozen assets, and sanctions relief. Pakistan is mediating. The Strait remains contested, gas prices are at $4.52/gallon in the US, and global shipping continues to reroute around the region.
+
+**Life Impact: HIGH** — Energy prices remain elevated globally. The Strait of Hormuz situation keeps oil markets jittery. This will keep affecting fuel and heating costs through the summer.
+
+---
+
+### AI: OpenAI Ships GPT-5.5 Instant — Hallucinations Down 52%, Now Default for All Users
+Released May 5. GPT-5.5 Instant replaces GPT-5.3 as the default ChatGPT model. Key improvements: 52.5% fewer hallucinations on high-stakes prompts (medicine, law, finance), 30% more concise responses, AIME math score jumped from 65.4 to 81.2, and enhanced personalization from past chats and connected services (Gmail integration rolling out to Plus/Pro). GPT-5.3 stays available for paid users for three months.
+
+**Life Impact: MEDIUM-HIGH** — If you use ChatGPT, this is a meaningful upgrade that's already live. The Gmail integration is notable — it brings AI into your actual workflow rather than being a separate tool.
+
+---
+
+### AI: Anthropic Releases Claude Opus 4.7 — 1M Context, Adaptive Thinking
+Released April 16. Opus 4.7 is Anthropic's most capable generally-available model. 1M token context window, 128k max output, first Claude model with high-resolution image support (up to 2576px), and "adaptive thinking" that automatically scales reasoning effort to task complexity. The older Claude Opus 4 is being deprecated June 15. Pricing: $5/M input, $25/M output tokens.
+
+**Life Impact: MEDIUM** — Relevant if you use Claude for work. The adaptive thinking and massive context window make it significantly more useful for complex tasks.
+
+---
+
+### AI: Novo Nordisk Partners with OpenAI Across Entire Business
+Denmark's pharma giant announced April 14 a sweeping partnership with OpenAI to integrate AI from drug discovery to commercial operations. Pilot programs launching across R&D, manufacturing, and commercial, with full integration by end of 2026. This is part of Novo's fight to claw back market share from Eli Lilly in the weight loss market after losing first-mover advantage with Wegovy.
+
+**Life Impact: MEDIUM** — Denmark's biggest company going all-in on AI will ripple through the Danish job market and innovation ecosystem. If you're in tech/AI in Copenhagen, this could create opportunities.
+
+---
+
+### COPENHAGEN HOUSING: Market Moderating Slightly — But Still a Seller's Paradise
+Update from April 7: The 20% YoY surge has moderated. Experts now forecast 4-6% growth nationally for 2026, with Copenhagen still outperforming. Key structural issue remains: owner-occupied homes are only 22% of Copenhagen's housing stock — extraordinarily low for a European capital. Vacancy remains 1-2%. An 80m² apartment averages 5.3M DKK (~836K USD). Supply constraints from green building regulations continue to suppress new construction.
+
+**Life Impact: VERY HIGH** — Prices are still climbing, just less violently. The structural undersupply isn't going anywhere. A new centre-right government could shift housing regulation — worth watching what Troels Lund Poulsen's coalition negotiates on this front.
+
+---
+
+### COPENHAGEN LOCAL: Havnestaden Parking Changes — Deadline May 15
+From your building's email thread: GF Havnestad has taken over parking administration. You need to register for a parking permit via ptilladelse.dinparkering.dk before May 15. The Havnestad (HA) zone is time-restricted (08-19 weekdays, 3-hour free limit). Failure to register risks 750 DKK fines. Your building board member confirmed the system is now working.
+
+**Life Impact: VERY HIGH (PERSONAL)** — You have 4 days to register. Do it now if you haven't.
+
+---
+
+### 3D PRINTING: Japan's First 3D-Printed Two-Story House; 256-Laser Metal Monster Announced
+"Stealth House" in Japan — a full two-story home 3D-printed on-site in 14 days by startup Kizuki using a giant gantry printer. Meanwhile, Eplus3D announced the EP-M3050, an absurd 256-laser metal powder bed fusion system with a 3050×3050mm build area (customizable Z up to 5000mm) for one-piece ultra-large structural components. Rolls-Royce opened a new AM cell in Bristol for aircraft engine parts. Modix launched the MAMA-1000 (1m³ build volume).
+
+**Life Impact: LOW-MEDIUM** — The Stealth House proves residential 3D printing is real and getting faster. The Eplus3D machine is industrial-scale but signals where the tech is heading. Neither is consumer-relevant yet, but the trajectory is clear.
+
+---
+
+### CROSSFIT: Semifinals Underway — Copa Sur and Far East Throwdown Complete
+Update from April 7: Semifinals are running April–June across 12 locations. Copa Sur (Brazil, May 1-3): Kalyan Souza and Anikha Greer won. Far East Throwdown (Busan, May 1-3): Henrik Haapalainen and Siria Meha took it. More semifinals coming through June, then the Games July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — Season tracker update. The field is shaping up for the Games.
+
+---
+
+### Sources
+- [TV2 - Løkke peger på Troels Lund Poulsen](https://nyheder.tv2.dk/politik/2026-05-08-loekke-peger-paa-troels-lund-poulsen-som-kongelig-undersoeger)
+- [DR - Troels Lund Poulsen forhandlingsleder](https://www.dr.dk/nyheder/seneste/troels-lund-poulsen-er-udnaevnt-som-forhandlingsleder)
+- [Information - Ny regering uden Socialdemokratiet](https://www.information.dk/2026/05/ny-kongerunde-troels-lund-poulsen-afsoege-ny-regering-uden-socialdemokratiet-moderaterne)
+- [NordiskPost - Denmark government talks](https://www.nordiskpost.com/2026/05/09/denmark-government-venstre-troels-lund-poulsen-lead-new-coalition-talks/)
+- [Bloomberg - Danish coalition talks break record](https://www.bloomberg.com/news/articles/2026-05-05/danish-coalition-talks-near-record-as-frederiksen-seeks-deal)
+- [US News - Frederiksen fails](https://www.usnews.com/news/world/articles/2026-05-08/denmarks-coalition-talks-break-down-in-setback-for-prime-minister-frederiksen)
+- [CNN - Hungary election results](https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar)
+- [Al Jazeera - Magyar sworn in](https://www.aljazeera.com/news/2026/5/9/peter-magyar-sworn-in-as-hungarys-pm-ending-orbans-16-years-in-power)
+- [Al Jazeera - Trump EU tariff deadline](https://www.aljazeera.com/economy/2026/5/7/trump-sets-july-4-deadline-for-eu-tariff-hike-decision)
+- [CNBC - Trump tariffs EU](https://www.cnbc.com/2026/05/08/trump-tariffs-trade-eu-europe-deal.html)
+- [CNN - Iran War Day 72](https://www.cnn.com/2026/05/10/world/live-news/iran-war-news)
+- [Al Jazeera - Iran war updates](https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz)
+- [TechCrunch - GPT-5.5 Instant](https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/)
+- [OpenAI - GPT-5.5 Instant](https://openai.com/index/gpt-5-5-instant/)
+- [Anthropic - Claude Opus 4.7](https://www.anthropic.com/claude/opus)
+- [CNBC - Novo Nordisk OpenAI](https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html)
+- [Investropa - Copenhagen Housing](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [TXM - Copenhagen Housing 2026](https://txmestate.com/news/copenhagens-housing-market-in-2026-what-investors-and-homebuyers-should-know)
+- [CNN - Japan 3D-printed house](https://www.cnn.com/2026/05/07/business/japans-3d-printing-construction-sector-crisis-hnk-spc)
+- [3DPrint.com - News Briefs May 9](https://3dprint.com/325932/3d-printing-news-briefs-may-9-2026/)
+- [CrossFit Games - Semifinals](https://games.crossfit.com/semifinals/overview)
+- [Fitness Volt - Copa Sur Results](https://fitnessvolt.com/2026-copa-sur-crossfit-semifinal-results/)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
