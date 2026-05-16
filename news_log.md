@@ -1,5 +1,91 @@
 # Daily News Log
 
+## 2026-05-16
+
+### DANISH POLITICS: Troels Lund Poulsen Has 2 Weeks to Form a Right-Wing Government
+**UPDATE from April 7 story.** Frederiksen's coalition negotiations collapsed after weeks of stalemate — no partner combination could give her a majority. King Frederik appointed Troels Lund Poulsen (Venstre) as "kongelig undersøger" on May 8. Seven right-of-centre parties (Venstre, DF, LA, Moderaterne, Konservative, Danmarksdemokraterne, Borgernes Parti) controlling 87 seats recommended him. He has confirmed a two-week deadline — if he fails, the mandate rotates back. His newsletter from yesterday (May 15) says he's starting a second round of talks focused on "economic responsibility." The Greenland/US crisis remains a key backdrop making swift government formation urgent.
+
+**Life Impact: VERY HIGH** — You're subscribed to Venstre's newsletter so you're following this closely. A Troels Lund Poulsen-led government would shift policy rightward on tax, immigration, and public spending. Housing regulation could loosen. Expect clarity by ~May 22.
+
+---
+
+### EUROVISION: Grand Final is TONIGHT — Denmark Qualified!
+Denmark's Søren Torpegaard Lund qualified from Semi-final 2 (May 14) with "Før vi går hjem." You voted and signed up for Eurofan, so you're clearly invested. Finland (Linda Lampenius + Pete Parkkonen) is the heavy favorite at 6/5 odds. Australia (Delta Goodrem, "Eclipse") surged to second. Denmark is at 6/1 — a genuine dark horse. 25 countries compete tonight in Vienna's Wiener Stadthalle.
+
+**Life Impact: LOW (but high entertainment value)** — It's tonight. Enjoy.
+
+---
+
+### AI: Anthropic Launches "Dreaming" — Agents That Self-Improve Between Sessions
+Announced May 6. Claude Managed Agents can now run a background process that reviews past sessions, extracts patterns, identifies recurring mistakes, and consolidates memories — analogous to how the brain consolidates during sleep. Harvey (legal AI) reports 6x improvement in task completion; Wisedocs cut document review time by 50%. Available now in research preview.
+
+**Life Impact: MEDIUM-HIGH** — If you use Claude agents (you're reading this from one), this directly improves their performance over time. This is the "agentic AI" future we flagged April 7 becoming real product.
+
+---
+
+### AI: The "AI Jobs Apocalypse" Debate Heats Up
+The Economist ran "Prepare for an AI jobs apocalypse" (May 14, landed in your inbox). Meanwhile, Brookings and MIT data still show no significant displacement — yet. The disconnect: economists are revising their priors (previously dismissive, now more cautious), but employment numbers remain stable. The concern is a lag effect: companies adopt AI, productivity rises, and headcount reductions follow 12-18 months later.
+
+**Life Impact: MEDIUM** — Worth monitoring for career planning. The consensus is shifting from "never" to "eventually, in some roles."
+
+---
+
+### AI: Grok 4.3 Launched, Novo Nordisk Partners with OpenAI
+xAI launched Grok 4.3 (non-reasoning model) on May 15, retiring older API models. Claims industry-leading agentic tool calling. Separately, Novo Nordisk signed a major partnership with OpenAI (announced April 14) to deploy AI across drug discovery, clinical trials, and manufacturing — pilots launching now with full integration by end of 2026. This is Novo's play to catch up to Eli Lilly in the weight-loss drug race.
+
+**Life Impact: MEDIUM** — The Novo/OpenAI deal is the biggest Danish corporate AI move yet. If you hold NVO stock or work in pharma-adjacent roles, this matters. Grok 4.3 is a competitive signal — the model race continues.
+
+---
+
+### EU POLITICS: Von der Leyen Proposes Social Media Ban for Children This Summer
+On May 12, von der Leyen announced plans for EU-wide legislation banning social media for minors, with a proposal possible as early as this summer. An expert panel reports back in July. Denmark, France, Spain, and Greece are leading the push. Age verification mechanism under discussion — possibly based on the EU Digital COVID Pass infrastructure. Platforms like Instagram and Snapchat already under DSA scrutiny for failing to protect minors.
+
+**Life Impact: MEDIUM** — If you have or plan to have kids in Denmark, this directly applies. Even without kids, it signals EU's willingness to regulate tech aggressively.
+
+---
+
+### COPENHAGEN HOUSING: Nykredit Forecasts 13.7% Price Rise in 2026
+**UPDATE from April 7.** Nykredit now projects Copenhagen apartment prices up 13.7% for full-year 2026, then moderating to 3.1% in 2027. Realkredit Danmark lowered margins on fixed-rate mortgages (0.68% → 0.57% at 80% LTV). Danske Bank offering its lowest ever rate for young homebuyers. Months-of-supply in central apartments is now 2-3 months — deep seller's market territory. Your Boligsiden alert from this morning showed 5 new listings in your saved search.
+
+**Life Impact: VERY HIGH** — Prices are accelerating beyond the 3-3.5% forecast we noted April 7. If you're looking to buy, the math is getting worse every month. The mortgage rate reductions help on monthly payments but not on purchase price.
+
+---
+
+### 3D PRINTING: Eplus3D Breaks the 3-Meter Metal Printing Barrier
+Chinese manufacturer Eplus3D announced the EP-M3050 — a metal powder bed fusion system with a 3050x3050mm build area (Z-axis up to 5000mm). This is the largest metal PBF system ever. Also: Modix launched the MAMA-1000 (1m³ build volume, more compact/accessible than prior MAMA models), and Rolls-Royce opened a dedicated AM cell in Bristol for aircraft engine components.
+
+**Life Impact: LOW** — The Eplus3D machine is industrial-scale, not consumer. But it signals metal AM is scaling to truly massive parts (aerospace, marine). The Modix MAMA-1000 is more relevant if you're considering large-format FDM.
+
+---
+
+### CROSSFIT: Semifinals Underway — Europe Semifinal This Weekend in Paris
+The 2026 Semifinal season is in full swing. Copa Sur (Brazil, May 1-3): Kalyan Souza and Anikha Greer won. Far East Throwdown (Busan, May 1-3): Henrik Haapalainen and Siria Meha qualified. Magic City (Birmingham, May 1-3): complete. The European Semifinal is happening RIGHT NOW in Paris (May 15-17) — this is where the Nordic athletes compete. Brisbane is May 21-24. Games are July 24-26 in San Jose.
+
+**Life Impact: LOW** — Relevant if you follow the competitive season. The Paris semifinal this weekend is the one with athletes you'd recognize from Nordic boxes.
+
+---
+
+### Sources
+- [Bloomberg - Danish Liberal Leader Gets Two Weeks](https://www.bloomberg.com/news/articles/2026-05-11/danish-liberal-leader-gets-two-weeks-to-try-to-form-a-government)
+- [The Local - New leader confirms two week deadline](https://www.thelocal.dk/20260511/new-leader-of-danish-government-talks-confirms-two-week-deadline)
+- [NordiskPost - Denmark government talks move to Venstre](https://www.nordiskpost.com/2026/05/09/denmark-government-venstre-troels-lund-poulsen-lead-new-coalition-talks/)
+- [Eurovision World - Semi-final 2 qualifiers](https://eurovisionworld.com/esc/eurovision-2026-semi-final-2-the-10-songs-qualified-for-the-grand-final)
+- [Racing Post - Grand Final predictions](https://www.racingpost.com/sport/special-events/eurovision/2026-eurovision-song-contest-grand-final-predictions-betting-tips-and-odds-aJAd32b7uUdP/)
+- [VentureBeat - Anthropic introduces dreaming](https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes)
+- [The Economist - AI jobs apocalypse](https://milled.com/the-economist-de/prepare-for-an-ai-jobs-apocalypse-kD-EEY1JNQ9izUzy)
+- [MIT Technology Review - Three things in AI to watch](https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/)
+- [CNBC - Novo Nordisk partners with OpenAI](https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html)
+- [xAI - Grok 4.3 launch](https://noreply@x.ai)
+- [Euronews - EU social media ban for children](https://www.euronews.com/my-europe/2026/05/12/von-der-leyen-opens-door-to-eu-wide-social-media-ban-for-children)
+- [UPI - Denmark EU social media ban](https://www.upi.com/Top_News/US/2026/05/12/denmark-eu-social-media-ban/2961778594746/)
+- [Investropa - Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [Danske Bank - Lowest rate for young buyers](https://danskebank.com/news-and-insights/news-archive/press-releases/2026/pr29012026)
+- [3DPrint.com - News Briefs May 14](https://3dprint.com/325991/3d-printing-news-briefs-5-14-2026/)
+- [Fitness Volt - Copa Sur results](https://fitnessvolt.com/2026-copa-sur-crossfit-semifinal-results/)
+- [CrossFit Games - Semifinals overview](https://games.crossfit.com/semifinals/overview)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
