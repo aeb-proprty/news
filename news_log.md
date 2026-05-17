@@ -1,5 +1,77 @@
 # Daily News Log
 
+## 2026-05-17
+
+### DANISH POLITICS: Troels Lund Poulsen Has 2 Weeks to Form Government — Frederiksen's Bid Failed
+Six weeks of coalition talks under Mette Frederiksen collapsed on May 8. Lars Løkke Rasmussen (Moderaterne) nominated Venstre leader Troels Lund Poulsen to take over. King Frederik gave him a two-week mandate starting May 11. The challenge: the blue bloc (77 seats) needs Moderaterne's 14 seats AND tolerance from at least one other party to reach 90. But every viable configuration contains a deal-breaking contradiction — the right-wing parties disagree on Moderaterne's role, and Løkke wants a broad centrist government, not a narrow right-wing one. Denmark is now in its longest government formation period in modern history. If Lund Poulsen fails, we could see a second election.
+
+**Life Impact: VERY HIGH** — You're subscribed to Venstre's newsletter and live in Copenhagen. A Venstre-led government vs. a second election directly affects housing policy, tax rates, and the green building regulations squeezing Copenhagen supply. The uncertainty itself is freezing some policy decisions.
+
+---
+
+### EU POLITICS: Péter Magyar Sworn In — Orbán's 16-Year Rule Ends
+Magyar was inaugurated as Hungary's PM on May 9 after his Tisza party won a supermajority in April. First acts: reinstalling the EU flag on parliament, beginning negotiations to unlock ~€20B in frozen EU funds. He's signaling a full reset of Hungary's EU and NATO relationships.
+
+**Life Impact: MEDIUM-HIGH** — This unblocks EU consensus on defense, Ukraine aid, and migration policy that Orbán had single-handedly vetoed for years. Expect faster EU decision-making on issues that affect Denmark's defense spending and EU budget contributions.
+
+---
+
+### EU POLITICS: Denmark Leads EU Push to Ban Social Media for Under-15s
+Denmark's social media ban for under-15s is moving toward law (mid-2026 target), using the national MitID system for age verification. Von der Leyen announced the EU will propose a bloc-wide version this summer. France, Spain, and Greece are co-leading. An expert panel reports back in July.
+
+**Life Impact: MEDIUM** — If you have or plan to have kids, this is directly relevant. For everyone else, it signals a regulatory shift toward platform accountability that could reshape how social media works in the EU.
+
+---
+
+### MIDDLE EAST / ENERGY: Oil at $107, Strait of Hormuz Still Blocked — Ceasefire Talks Failing
+The Iran-US war has removed ~10M barrels/day from global supply (the largest disruption in history). Brent crude hit $107.77/barrel this week, up 55% since the war began Feb 28. Trump rejected Iran's counteroffer, calling it "garbage." China and the US have quietly coordinated strategic reserve releases to prevent prices from spiking even higher, but economists warn of recession risk if this extends through summer. European gas and fuel prices are elevated across the board.
+
+**Life Impact: VERY HIGH** — You're directly paying more for energy (Brunata bills, transport, goods). If the blockade continues through summer, expect 10-15% energy cost increases in Denmark. This is also putting upward pressure on ECB rate decisions, which affects your mortgage/housing costs.
+
+---
+
+### AI: Apple Intelligence Opens to Third-Party Models in iOS 27
+Apple will let users choose between OpenAI, Google Gemini, and Anthropic Claude to power Apple Intelligence features (text generation, Siri, image tasks). The feature, internally called "Extensions," will be selectable in Settings. Expected announcement at WWDC June 2026.
+
+**Life Impact: MEDIUM-HIGH** — If you use an iPhone, you'll soon pick which AI brain runs your phone. This is also a massive market signal — AI is becoming a utility layer, not a single-vendor product.
+
+---
+
+### AI: Novo Nordisk Partners with OpenAI Across Entire Business
+Denmark's biggest company (by market cap) announced a deep partnership with OpenAI on April 14. AI will be deployed end-to-end: drug discovery, clinical trials, manufacturing, supply chain, and corporate functions. Pilots are running now; full integration targeted by end of 2026.
+
+**Life Impact: MEDIUM** — If you work in Danish pharma/biotech or hold Novo stock, this is directly relevant. Signals that Denmark's largest employer in knowledge work is going all-in on AI transformation.
+
+---
+
+### COPENHAGEN HOUSING: Nykredit Forecasts 13.7% Price Rise in 2026
+Nykredit's latest forecast projects Copenhagen apartment prices will rise 13.7% through 2026 (up from the 3-3.5% estimates earlier this year), slowing to 3.1% in 2027. Your Boligsiden saved search ("hot-swap") shows continued new listings — 4 new yesterday, 5 new on May 15 — but demand vastly outstrips supply. An 80m² apartment now averages 5.3M DKK.
+
+**Life Impact: VERY HIGH** — You're actively searching. Prices are accelerating faster than earlier forecasts suggested. Every month of delay costs roughly 50-60K DKK on a typical Copenhagen apartment at this pace. The Iran oil shock adding pressure on ECB rates could paradoxically slow this if mortgage costs jump — watch Nationalbanken's next move.
+
+---
+
+### 3D PRINTING: Eplus3D Unveils 256-Laser Monster — 3x3x5 Meter Build Volume
+Chinese manufacturer Eplus3D announced the EP-M3050, a metal powder bed fusion system with 256 lasers and a build volume of 3,050 x 3,050 x 5,000 mm. This is aimed at one-piece manufacturing of ultra-large aerospace and defense components. Separately, Rolls-Royce opened a dedicated AM facility in Bristol for aircraft engine parts, and Modix launched the MAMA-1000 (1m³ build volume) for industrial FFF users.
+
+**Life Impact: LOW** — These are industrial-scale machines, not consumer. But they signal that metal AM is reaching the scale where it replaces traditional manufacturing for large structures — the trickle-down to prosumer machines continues.
+
+---
+
+### CROSSFIT: French Throwdown Happening Now in Paris (May 15-17)
+The European Semifinal (French Throwdown) is live at Arena Grand Paris with 40 men and 40 women competing for 3 Games tickets each. Notable athletes: Calum Clements (GBR), Victor Hoffer (FRA), Claudia Gluck (FRA), Lucy McGonigle (IRL). The Far East Throwdown (May 1-3, Busan) qualified Henrik Haapalainen and Siria Meha. Age-Group Online Semifinals closed May 11; results finalized by May 26.
+
+**Life Impact: LOW** — If you follow the competitive season, Paris results should land today/tomorrow. Games are July 24-26 in San Jose.
+
+---
+
+### INNOVATION: EU Proposes Single-Ticket Cross-Border Train Booking
+The European Commission put forward rules requiring rail operators to enable single-ticket bookings across multiple carriers for international routes, with unified passenger rights protection. This aims to make train travel competitive with flying for European routes.
+
+**Life Impact: MEDIUM** — If you fly Norwegian within Europe (your inbox suggests you do), this could eventually make train a viable alternative for medium-haul trips. Implementation timeline is unclear but the direction is set.
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
