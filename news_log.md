@@ -1,5 +1,109 @@
 # Daily News Log
 
+## 2026-05-18
+
+### DANISH POLITICS: Frederiksen Fails — Troels Lund Poulsen Now Leads Government Formation
+UPDATE from April 7: The record-breaking coalition talks finally broke down for Mette Frederiksen on May 8. Lars Lokke Rasmussen's Moderates pulled the plug and proposed handing the mandate to Troels Lund Poulsen (Venstre/Liberals). The king agreed, and Lund Poulsen is now leading negotiations to form a centre-right government. He has been given two weeks. Every scenario is difficult — no obvious majority exists on the right either. Denmark has been without a functioning government for nearly two months since the March 24 election. Frederiksen's bid for a third term appears dead.
+
+**Life Impact: VERY HIGH** — Denmark has no government. Policy on housing, taxes, Greenland/US relations, defense spending, and immigration is frozen. A right-leaning government would likely mean different housing regulation, tax priorities, and a harder line on immigration. If you're buying in Copenhagen, the political uncertainty adds to market unpredictability.
+
+---
+
+### US-IRAN WAR: Day 75+ — Ceasefire on "Life Support," Oil Prices Still Elevated
+UPDATE from April 7: Operation Epic Fury (US+Israel strikes on Iran) officially ended May 5, and a fragile two-week ceasefire took effect April 8 with Iran reopening the Strait of Hormuz. But it's collapsing. Iran's counterproposal demands compensation, frozen asset releases, and sovereignty recognition over Hormuz. Trump called it "simply unacceptable" and says the ceasefire is on "massive life support." Brent crude is ~$20 above pre-war levels, US gas averages $4.52/gallon. Thousands dead across Iran, Lebanon, Israel, and Gulf states. Millions displaced.
+
+**Life Impact: HIGH** — Energy prices remain elevated globally, affecting heating, transport, and consumer goods costs in Denmark too. A full ceasefire collapse would spike prices further. The humanitarian toll is staggering.
+
+---
+
+### EU POLITICS: Social Media Ban for Under-15s Coming This Summer
+Denmark already passed legislation (November 2025) to ban social media for under-15s, and now the EU is following suit. At the European Summit on AI and Children (May 12), von der Leyen announced the EU could propose a bloc-wide social media ban for children as early as this summer. France, Spain, Greece, and Denmark are leading the push. An expert panel will report by July on specific measures, including potential age-verification requirements.
+
+**Life Impact: MEDIUM** — If you have or will have kids in Denmark, this will affect their digital lives directly. Denmark's national ban could take effect mid-2026. For adults, it signals tighter platform regulation ahead.
+
+---
+
+### AI: Novo Nordisk Partners with OpenAI — Denmark's Biggest AI Deal
+Denmark's pharma giant Novo Nordisk announced a strategic partnership with OpenAI (April 14) to integrate AI across its entire operation — drug discovery, clinical trials, manufacturing, supply chain, and commercial ops. Full deployment planned by end of 2026. The goal: accelerate identification of new obesity and diabetes treatments. OpenAI will also help build AI fluency across Novo's global workforce. This is one of the largest enterprise AI deals in Europe.
+
+**Life Impact: MEDIUM-HIGH** — Novo Nordisk is Denmark's largest company and a major employer. This signals Denmark becoming a hub for enterprise AI in pharma. If you work in tech/AI in Copenhagen, the talent demand ripple effects are real.
+
+---
+
+### AI: Anthropic Introduces "Dreaming" for Self-Improving Agents
+Anthropic unveiled "dreaming" on May 6 — a system where Claude Managed Agents review their own past sessions between jobs, extract patterns (recurring mistakes, converged workflows, team preferences), and write refined memory entries for future sessions. It doesn't change model weights; it's structured self-reflection. Legal AI company Harvey saw 6x improvement in task completion rates. Anthropic compares it to hippocampal memory consolidation during human sleep.
+
+**Life Impact: MEDIUM** — If you use or build AI agents, this is a significant capability leap. Agents that genuinely learn from their mistakes between sessions changes the economics of AI automation.
+
+---
+
+### AI: GPT-5.5 Instant + Apple Opens Up AI Platform
+OpenAI released GPT-5.5 Instant as the new default ChatGPT model — 50%+ reduction in hallucinations in high-stakes scenarios, better personalization using past chats and connected services like Gmail. Separately, Apple is preparing to let users choose third-party AI providers (Google, Anthropic) to power Apple Intelligence features across iOS 27, iPadOS 27, and macOS 27. Microsoft and OpenAI also restructured to a non-exclusive arrangement.
+
+**Life Impact: MEDIUM** — The Apple move could make Claude/Gemini available system-wide on iPhones. The OpenAI-Microsoft restructuring opens cloud AI competition. GPT-5.5's reduced hallucinations matters if you rely on ChatGPT for work.
+
+---
+
+### COPENHAGEN HOUSING: 13.7% Price Rise Forecast for 2026, Market Still Tightening
+UPDATE from April 7: Nykredit now forecasts apartment prices in Copenhagen will rise 13.7% across 2026 (then 3.1% in 2027). Nordhavn is the most expensive neighborhood at ~98,000 DKK/m², about 30,000 DKK/m² more than Valby (the cheapest in the ranking). The 20% YoY increase significantly exceeds wage growth and is an outlier among European capitals. The 80% price range for residential properties runs 3.0M–12.5M DKK. Central areas (Indre By) trade at 60,000–90,000 DKK/m². Your Boligsiden alert flagged a 2-room, 59m² apartment at Søndre Fasanvej 87D for 4,195,000 DKK yesterday.
+
+**Life Impact: VERY HIGH** — You're actively house-hunting. The 13.7% annual forecast means waiting costs roughly 1% per month in price appreciation on an average Copenhagen apartment. The political vacuum (no government = no new housing policy) adds uncertainty.
+
+---
+
+### 3D PRINTING: 256-Laser Metal Printer + Large-Format FDM News
+Eplus3D announced the EP-M3050, an ultra-large-format metal powder bed fusion system with 256 lasers and a 3050x3050mm build area (Z-axis customizable to 5000mm) — enabling one-piece manufacturing of massive structural components. On the consumer/prosumer side, Modix launched the MAMA-1000 with a 1m³ build volume and interchangeable filament/pellet heads. In healthcare, £125K in funding was awarded for optimizing 3D-printed custom facial reconstruction surgical plates.
+
+**Life Impact: LOW-MEDIUM** — The Modix MAMA-1000 is interesting if you're considering large-format printing. The metal AM developments are industrial-scale but signal where the industry is heading.
+
+---
+
+### CROSSFIT: Semifinals Season Underway — Age Group Online Semifinals Live
+The 2026 CrossFit Semifinals are running April–June with 12 global events. The Age-Group Online Semifinals ran May 7–11 for teenagers and masters divisions (leaderboard final by May 26). Big structural change this year: Masters and Teams now have live Games-qualifying spots at in-person Semifinals for the first time. Adaptive Online Semifinals are running May 14–17. Individual Online Semifinals June 11–15. The Games remain July 24–26 at SAP Center, San Jose. 30 men, 30 women, 20 teams will qualify.
+
+**Life Impact: LOW** — Relevant if you follow the competitive season. The live masters qualifying at in-person events is a welcome change.
+
+---
+
+### INNOVATION: Haven-1 Space Station Delayed, Humanoid Robot Shipments to Surge 700%
+Vast Space's Haven-1 — the world's first commercial space station — has been pushed from late 2026 to Q1 2027. It will launch on a SpaceX Falcon 9 with Starlink internet onboard (a first for a space station). Meanwhile, TrendForce projects global humanoid robot shipments will grow 700% in 2026, driven by manufacturing and logistics demand.
+
+**Life Impact: LOW** — Haven-1 is a milestone for commercial space but won't affect daily life yet. The humanoid robot surge could start affecting logistics/warehouse jobs within 2–3 years.
+
+---
+
+### LEGO: Jurassic Park Jeep Wrangler Out Now, Minas Tirith Announced
+The 77984 Jurassic Park Jeep Wrangler ($200) launched May 7 — this is the set from the LEGO email in your inbox. The UCS Mandalorian N-1 Starfighter (1,809 pieces, $250) dropped May 4. The big announcement: LEGO Icons Lord of the Rings Minas Tirith has been officially revealed. Also new: Toy Story Slinky Dog Bookends ($150) and a LEGO Batman: Legacy of the Dark Knight video game releasing May 22.
+
+**Life Impact: LOW** — Wallet impact only. The Minas Tirith announcement is likely the biggest news for LEGO fans this month.
+
+---
+
+### Sources
+- [Bloomberg - Denmark Coalition Talks Break Record](https://www.bloomberg.com/news/articles/2026-05-05/danish-coalition-talks-near-record-as-frederiksen-seeks-deal)
+- [Bloomberg - Danish Liberal Leader Gets Two Weeks](https://www.bloomberg.com/news/articles/2026-05-11/danish-liberal-leader-gets-two-weeks-to-try-to-form-a-government)
+- [NordiskPost - Denmark Government Venstre](https://www.nordiskpost.com/2026/05/09/denmark-government-venstre-troels-lund-poulsen-lead-new-coalition-talks/)
+- [US News - Denmark Coalition Talks Break Down](https://www.usnews.com/news/world/articles/2026-05-08/denmarks-coalition-talks-break-down-in-setback-for-prime-minister-frederiksen)
+- [CNN - Iran War Day 75](https://www.cnn.com/2026/05/13/world/live-news/trump-iran-war-news)
+- [Al Jazeera - Iran War Updates](https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz)
+- [Euronews - EU Social Media Ban for Children](https://www.euronews.com/my-europe/2026/05/12/von-der-leyen-opens-door-to-eu-wide-social-media-ban-for-children)
+- [UPI - EU Social Media Ban Denmark](https://www.upi.com/Top_News/US/2026/05/12/denmark-eu-social-media-ban/2961778594746/)
+- [CNBC - Novo Nordisk OpenAI Partnership](https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html)
+- [VentureBeat - Anthropic Dreaming](https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes)
+- [MarketingProfs - AI Update May 8](https://www.marketingprofs.com/opinions/2026/54655/ai-update-may-8-2026-ai-news-and-views-from-the-past-week)
+- [LLM Stats - AI Updates May 2026](https://llm-stats.com/llm-updates)
+- [TXM - Copenhagen Property Prices 2026](https://txmestate.com/news/copenhagen-real-estate-prices-2026-market-analysis-trends)
+- [Investropa - Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [3DPrint.com - News Briefs May 9](https://3dprint.com/325932/3d-printing-news-briefs-may-9-2026/)
+- [3DPrint.com - News Briefs May 14](https://3dprint.com/325991/3d-printing-news-briefs-5-14-2026/)
+- [CrossFit Games - Semifinals Overview](https://games.crossfit.com/semifinals/overview)
+- [TheProgrm - CrossFit Semifinals 2026](https://www.theprogrm.com/blog/crossfit-semifinals-2026)
+- [BBC Science Focus - Haven-1](https://www.sciencefocus.com/space/vast-haven-1-space-station)
+- [Jay's Brick Blog - LEGO May 2026](https://jaysbrickblog.com/news/buying-guide-every-new-lego-set-releasing-in-may-2026/)
+- [LEGO.com - Minas Tirith](https://www.lego.com/en-us/aboutus/news/2026/may/lego-icons-the-lord-of-the-rings-minas-tirith-set)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
