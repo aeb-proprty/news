@@ -1,5 +1,111 @@
 # Daily News Log
 
+## 2026-05-22
+
+### DANISH POLITICS (UPDATE): Troels Lund Poulsen Pushes VLAK Government — Løkke Meeting TODAY
+Since our last update, Frederiksen's coalition talks collapsed and the King appointed a new royal investigator. Troels Lund Poulsen (Venstre) took over on May 8 and has concluded that the way forward is a VLAK minority government — Venstre (18), Liberal Alliance (15), and Konservative (13) = 46 seats. Under negative parliamentarism, this can fly as long as no majority actively blocks it. Dansk Folkeparti's Messerschmidt has confirmed they won't bring it down. The critical unknown: Lars Løkke Rasmussen and Moderaterne (14 seats). Løkke has demanded his party be in any government and wants a broader centrist coalition — neither condition is met by VLAK. In his newsletter yesterday, Troels wrote that he's meeting Løkke TODAY (May 22) at 16:30 at Scandic Spectrum to get a definitive answer on whether Moderaterne will block the government. He framed it as "politics before persons." A midterregering with Socialdemokratiet was explored and rejected — Troels argues it won't deliver the offensive economic reform agenda the blue majority mandates.
+
+**Life Impact: VERY HIGH** — This could resolve today. A VLAK government means tax cuts, reform continuation, stricter immigration policy, and green investments — all with direct effects on your daily economy, housing regulation, and Copenhagen municipal policy. As a Venstre member, this is your party forming government.
+
+---
+
+### MIDDLE EAST (UPDATE): Ceasefire Holding Loosely, Hormuz Deal Negotiations Ongoing
+The April 8 ceasefire ended the active fighting phase (Operation Epic Fury ran Feb 28 – May 5). But the conflict has shifted to a standoff over the Strait of Hormuz. In early May, US and Iranian forces exchanged fire in the Strait — each side blaming the other. Trump dismissed it as "just a love tap" and insists the ceasefire holds. Iran has proposed a deal to reopen shipping in the Strait while deferring nuclear talks. Trump said he's reviewing the proposal but waiting for exact wording. The US blockade of Iranian ports remains in place, and Trump paused efforts to guide stranded vessels through the Strait while negotiations continue. Thousands dead across Iran, Lebanon, Israel, and Gulf states. Millions displaced. On May 19, Trump warned of attacks "in two or three days" if no deal materializes.
+
+**Life Impact: HIGH** — Oil prices and global shipping costs remain elevated. Energy costs in Denmark/EU are directly affected. A Hormuz deal would ease pressure; failure risks re-escalation.
+
+---
+
+### EU POLITICS: Mandatory FDI Screening, US Trade Deal, Rail Reform
+Three major EU developments this week:
+
+1. **Foreign Investment Screening**: Parliament approved mandatory screening of foreign investments in defense, semiconductors, AI, critical raw materials, and financial services (508-64-90 vote). All member states must now screen and notify the Commission on cross-border risk cases. National governments retain final say, but Brussels gets a stronger advisory role. Enters force 18 months after Council approval.
+
+2. **EU-US Trade Deal**: Council and Parliament agreed to eliminate tariffs on all US industrial goods and provide preferential access for certain US agricultural/seafood products, delivering on the EU-US Joint Statement commitments.
+
+3. **Cross-Border Rail Reform**: Commission proposed rules for single-ticket bookings across multiple rail operators with full passenger rights protection for missed connections — a long-awaited step toward seamless European rail travel.
+
+Also: €144M mobilized from the EU Solidarity Fund for Spain (wildfires), Romania (flooding), and Cyprus (wildfires) climate disaster recovery.
+
+**Life Impact: MEDIUM-HIGH** — The FDI screening directly affects investment in AI/tech companies operating in the EU. The US trade deal will affect prices on imported goods. Rail reform will make cross-border travel from Copenhagen significantly easier.
+
+---
+
+### AI: Google I/O Drops Gemini Omni, US Pushes Pre-Release Model Testing
+Google I/O 2026 was the big AI event this month. Two new models: **Gemini Omni** (creates anything from any input, starting with video — a leap in multimodality and world understanding) and **Gemini 3.5 Flash** (frontier intelligence with action capabilities). Google unveiled its agent-first development platform **Antigravity** and launched agentic experiences across products — information agents in Search, Gemini Spark, Daily Brief, and Universal Cart for AI-powered shopping.
+
+On the regulation front: the US is pushing aggressively for pre-release AI model testing. Microsoft and xAI have reportedly agreed to provide early model access to regulators before public release.
+
+Penn researchers also created a **hybrid light-matter particle** that could dramatically speed up AI computing while using far less energy — a hardware-level efficiency breakthrough complementing the neuro-symbolic software approach from our April update.
+
+**Life Impact: MEDIUM-HIGH** — Gemini Omni's multimodal capabilities will change how you interact with Google products. The US pre-release testing regime may slow down model releases but improve safety. The Penn research could eventually make AI cheaper and faster on local devices.
+
+---
+
+### SPACEX IPO: $1.75 Trillion Valuation, Includes xAI and X (Twitter)
+SpaceX filed its S-1 on May 20 — potentially the largest IPO in history. Ticker SPCX, Nasdaq debut targeted June 12, raising up to $75 billion. Key numbers: 2025 revenue $18.7B (+33% YoY), but losses are growing too. The real surprise: SpaceX now owns xAI, and xAI owns X (formerly Twitter), so the IPO bundles space launch, Starlink satellite internet, AI, and social media into one entity. Starship R&D alone cost $3B in 2025. SpaceX claims a total addressable market of $28.5 trillion. Retail investors can participate at the same price as institutions via Schwab, Fidelity, Robinhood, and others.
+
+**Life Impact: MEDIUM** — This reshapes the tech/AI landscape. If you hold index funds, SPCX will likely enter major indices quickly. The xAI/X ownership structure has implications for AI competition and social media governance.
+
+---
+
+### COPENHAGEN HOUSING (UPDATE): Forecasts Revised Sharply Upward, Supply at Record Low
+The trend from April has intensified. Nykredit now forecasts Copenhagen apartment prices will rise **13.7% in 2026** — dramatically higher than the 3-3.5% broad consensus we reported last time. The supply of apartments in Copenhagen has hit the **lowest level ever recorded**. Time on market is at levels not seen since the mid-2000s housing bubble. The market remains firmly a seller's market with shrinking inventory, falling listing counts, and strong demand. Broader national forecasts still center on 4-6%, but Copenhagen is significantly outperforming.
+
+**Life Impact: VERY HIGH** — You're actively searching on Boligsiden. The 13.7% forecast means waiting is expensive — roughly 700K+ DKK on a typical Copenhagen apartment over the year. Supply constraints are structural (green building regs from April update still in effect). If you're considering buying, the math is clear.
+
+---
+
+### 3D PRINTING: Eplus3D Breaks 3-Meter Barrier, Prusa Goes to Space
+Eplus3D announced the **EP-M3050** — an ultra-large-format metal powder bed fusion system with 256 lasers and X/Y dimensions of 3050mm x 3050mm (Z customizable up to 5000mm). This is the first time the 3-meter barrier has been broken in metal AM.
+
+**Modix** launched the **MAMA-1000** (1000x1000x1000mm build volume), a more compact addition to their large-format line. **Prusa Research** released a new filament designed specifically for use in space. **Bambu Lab** dropped a new BambuStudio beta with notable new features. **6K Additive** reported Q1 revenue doubled YoY to $4M, signaling growing demand for metal AM powder.
+
+On the medical front, Dr. Alessandro Borghi received £125K from the Academy of Medical Sciences to optimize 3D printed custom surgical plates for facial reconstruction.
+
+**Life Impact: LOW-MEDIUM** — The Bambu Lab BambuStudio beta is immediately relevant if you print. The Eplus3D and Modix machines are industrial, but signal where the tech is heading. Prusa's space filament is cool but niche.
+
+---
+
+### INNOVATION: Humanoid Robots 700% Growth, Sodium-Ion Batteries Go Commercial, SpaceX Goes Public
+TrendForce projects **global humanoid robot shipments will grow 700% in 2026**. CATL (world's largest battery manufacturer) is commercially deploying **sodium-ion batteries** as a large-scale lithium-ion alternative — potentially reshaping EV and energy storage economics. Japanese scientists achieved instant detection of quantum "W states," a milestone for quantum communication and teleportation. The US launched a **$2 billion quantum funding program** with equity stakes to secure quantum computing leadership.
+
+**Life Impact: MEDIUM** — Sodium-ion batteries could lower EV and home storage costs within 2-3 years. Humanoid robots are entering warehouses and factories now, with consumer applications further out. Quantum breakthroughs remain 5-10 year horizon for daily impact.
+
+---
+
+### CROSSFIT (UPDATE): Semifinals Rolling Through May, French Throwdown Done
+The Semifinal season is in full swing. Completed events: Magic City (Birmingham, May 1-3), South America (São José, May 1-3), Asia (Busan, May 1-3), and the **French Throwdown** (Paris, May 15-17) which punched 6 individual and 3 team tickets to the Games. The **Brisbane Semifinal** is happening right now (May 21-24). Age Group Online Semifinals ran May 7-11. The 2026 CrossFit Games remain scheduled for July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — Relevant if you follow the competitive season. The European semifinal scene has been strong this year.
+
+---
+
+### Sources
+- [NordiskPost - Troels Lund Poulsen VLAK Government](https://www.nordiskpost.com/2026/05/19/troels-lund-poulsen-will-try-to-form-vlak-minority-government/)
+- [NordiskPost - Løkke Changed Government Talks](https://www.nordiskpost.com/2026/05/09/lokke-shift-changed-denmark-coalition-talks/)
+- [The Local DK - Denmark Moves Towards Right-Wing Government](https://www.thelocal.dk/20260519/best-possibility-denmark-heads-towards-new-right-wing-government)
+- [US News - Denmark Coalition Talks](https://www.usnews.com/news/world/articles/2026-05-08/denmarks-coalition-talks-break-down-in-setback-for-prime-minister-frederiksen)
+- [Al Jazeera - Iran War Live Updates](https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies)
+- [CNBC - US and Iran Trade Fire in Hormuz](https://www.cnbc.com/2026/05/07/iran-war-hormuz-strait-ceasefire-trump.html)
+- [CNBC - Trump Reviewing Iranian Proposal](https://www.cnbc.com/2026/05/02/trump-iran-strait-of-hormuz.html)
+- [Invezz - EU FDI Screening Rules](https://invezz.com/news/2026/05/19/eu-parliament-approves-tougher-foreign-investment-screening-rules/)
+- [CyberNews - EU Foreign Investment Screening](https://cybernews.com/security/europe-screenings-foreign-investments-critical-sectors/)
+- [EUbusiness - EU Agenda May 2026](https://www.eubusiness.com/politics/eucalendar/)
+- [EU Council - Forward Look May 2026](https://www.consilium.europa.eu/en/press/press-releases/2026/05/13/forward-look-2026/)
+- [Google I/O 2026](https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/)
+- [TechCrunch - SpaceX IPO Filing](https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/)
+- [Fortune - SpaceX S-1 Teardown](https://fortune.com/2026/05/20/spacex-finally-files-ipo-prospectus-reveals-revenue-is-up-but-losses-are-too/)
+- [Investropa - Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [TXM - Copenhagen Housing Market 2026](https://txmestate.com/news/copenhagens-housing-market-in-2026-what-investors-and-homebuyers-should-know)
+- [3DPrint.com - News Briefs May 20](https://3dprint.com/326156/3d-printing-news-briefs-5-20-2026/)
+- [3DPrint.com - News Briefs May 9](https://3dprint.com/325932/3d-printing-news-briefs-may-9-2026/)
+- [TechStartups - Tech News May 21](https://techstartups.com/2026/05/21/top-tech-news-today-may-21-2026/)
+- [CrossFit Games - Semifinals](https://games.crossfit.com/semifinals/overview)
+- [Generation Iron - French Throwdown Results](https://generationiron.com/2026-french-throwdown-crossfit-semifinal-results/)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
