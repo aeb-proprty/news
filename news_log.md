@@ -1,5 +1,105 @@
 # Daily News Log
 
+## 2026-05-24
+
+### DANISH POLITICS: Frederiksen Gets Second Chance — King Frederik X Re-Appoints Her as Formateur
+**Continuing story — new developments.** The centre-right coalition attempt led by Troels Lund Poulsen (Liberal Party) collapsed on May 22 over disagreements on tax cuts vs. social spending, budget deficit handling, and the speed of green transition (including green taxes on agriculture). Yesterday (May 23), King Frederik X re-appointed Mette Frederiksen as formateur after she secured backing from both the Moderates and the red-bloc parties. She now has a realistic path to a third consecutive term — despite Social Democrats' historically poor March result. This is the first time since the election that one formateur has genuine cross-bloc support.
+
+**Life Impact: HIGH** — This is the clearest signal yet that Denmark will get a Frederiksen-led government. Expect continuity on housing regulation, green building mandates, and defense spending. Tax policy for middle-income earners remains the key open question — centre-right wanted cuts, and Frederiksen will need to offer something to keep the Moderates on board.
+
+---
+
+### EU POLITICS: EU-US Trade Deal Passes — Tariffs on US Industrial Goods Eliminated
+The Council and Parliament struck a deal on May 20 to implement the tariff elements of the August 2025 EU-US Joint Statement. All remaining EU customs duties on US industrial goods are eliminated, and preferential access is granted for certain US agricultural and seafood products. Key safeguards: if the US keeps tariffs above 15% on EU steel/aluminium derivatives by end of 2026, the EU can suspend concessions. The entire regulation sunsets at end of 2029 unless renewed.
+
+**Life Impact: MEDIUM-HIGH** — This reshapes EU-US trade. Consumer prices on some US goods may drop. Danish exporters face a more open transatlantic market but also more US competition in industrial sectors. The sunset clause means this is temporary — watch 2029.
+
+---
+
+### WORLD: Iran Deal "Largely Negotiated" — Strait of Hormuz May Reopen
+**Continuing story — major progress.** The April 8 ceasefire has held despite skirmishes. After the Trump-Xi summit (May 15), where China offered to help broker Hormuz access, Trump said on May 23 that a deal to reopen the Strait is "largely negotiated" and will be announced shortly. Phase one is a memorandum of understanding, followed by broader talks over 30-60 days. Iran's foreign ministry confirmed the framework. The conflict has choked global energy markets and spiked US inflation to multi-year highs.
+
+**Life Impact: HIGH** — If the Strait reopens, expect oil/energy prices to ease within weeks. This directly affects fuel costs, heating bills, and goods prices in Denmark. The conflict has been the biggest single driver of European energy price instability since it began.
+
+---
+
+### WORLD: Ebola Outbreak Declared Global Health Emergency
+WHO declared a Public Health Emergency of International Concern (PHEIC) on May 17 for an Ebola outbreak in DR Congo (Ituri Province) caused by the Bundibugyo virus. As of May 16: 8 confirmed cases, 246 suspected, ~80 suspected deaths. It has spread to Kampala, Uganda and Kinshasa. Critically, there are no approved vaccines or therapeutics specific to the Bundibugyo strain — unlike past Ebola-Zaire outbreaks where vaccines existed.
+
+**Life Impact: MEDIUM** — No immediate European risk, but WHO PHEIC status means airports will screen. The lack of a matching vaccine makes this more dangerous than recent outbreaks. Worth monitoring — the 2014 Ebola crisis showed how quickly these can escalate.
+
+---
+
+### WORLD: Putin and Xi Sign "Multipolar World" Declaration in Beijing
+Putin and Xi met in Beijing on May 20 and signed a joint declaration on building a "multipolar world and a new type of international relations," plus a large package of bilateral cooperation deals. This comes days after Russia and Belarus held joint nuclear drills, with Putin continuing thinly veiled nuclear threats against Ukraine.
+
+**Life Impact: MEDIUM** — The deepening Russia-China axis shapes the security environment Denmark is investing heavily in (defense spending was a key election issue). The nuclear drills are saber-rattling but keep European defense posture tense.
+
+---
+
+### AI: Anthropic and Gates Foundation Launch $200M Partnership
+Announced May 14. $200 million over four years in grants, API credits, and technical support to build AI tools for healthcare, education, and agriculture in underserved regions. Focus areas: polio, HPV, and eclampsia/preeclampsia in health; student progress tracking in education; locally relevant farming guidance in local languages for agriculture. Targets 4.6 billion people lacking essential health services.
+
+**Life Impact: LOW-MEDIUM** — Not directly personal, but signals AI's pivot from productivity tools to global infrastructure. If you're building with AI, this is the direction the field is heading.
+
+---
+
+### AI: Google I/O 2026 — Gemini Goes Agentic Across All Google Products
+At Google I/O, Google unveiled a fully agentic Gemini integrated into Search, Android, Chrome, Workspace, and YouTube — able to act, automate tasks, and operate across the ecosystem. OpenAI countered by extending Codex to mobile (monitor AI coding workflows from your phone) and launching a self-serve Ads Manager inside ChatGPT. Meanwhile, the US government is now requiring major AI companies (including Microsoft and xAI) to provide early model access for pre-release safety testing.
+
+**Life Impact: MEDIUM-HIGH** — Agentic Gemini in your Google apps means AI that does things for you, not just answers questions. This will change daily workflows within months. The government pre-release testing is a significant regulatory shift.
+
+---
+
+### 3D PRINTING: First Full-Length 3D Printed Bionic Arm Fitted to Above-Elbow Amputee
+UK-based Open Bionics fitted Praveen Gowtham, a 43-year-old New York physicist, with the world's first full-length 3D printed bionic arm for above-elbow amputees using their Hero FLEX system. He could immediately hold a dog leash, grip tools, and open a can unassisted. The Hero FLEX is now available across 800+ clinical locations in the US, UK, Europe, Australia, and New Zealand. A 2025 US ruling recognized 3D printing as a reimbursable prosthetics fabrication method.
+
+**Life Impact: LOW-MEDIUM** — A milestone for the 3D printing community. The reimbursement ruling is the real game-changer — it means insurance will cover 3D printed prosthetics, which could slash costs dramatically.
+
+---
+
+### 3D PRINTING: AI-Powered Voice-to-Object Printer Announced
+Timeplast closed an oversubscribed $5M crowdfunding round (nearly 10,000 new investors) and is developing the "Manifester" — a sub-$1,000, AI-powered 3D printer that turns voice commands into finished objects. They have 80+ proprietary filaments. Separately, UltiMaker launched the Factor 4 Plus professional printer, and Eplus3D announced the EP-M3050 ultra-large metal printer with 256 lasers and a 3050×3050mm build area.
+
+**Life Impact: LOW-MEDIUM** — The Manifester concept (voice-to-print) could be a game-changer for hobbyists if it delivers. The sub-$1,000 price point would make AI-assisted 3D printing mainstream.
+
+---
+
+### COPENHAGEN HOUSING: Prices Surge to 74,196 DKK/m² — Nykredit Forecasts 13.7% Rise in 2026
+**Continuing story — new data.** Average asking price is now 74,196 DKK/m² (up from ~66,226 DKK/m² reported in early April — a 12% jump in under two months). Average listing price: 6.36M DKK. Apartment inventory in the capital area is at its lowest level ever recorded. Nykredit now forecasts a 13.7% price increase for Copenhagen apartments in 2026, followed by 3.1% in 2027. Ejerlejligheder rose 24% through 2025.
+
+**Life Impact: VERY HIGH** — You're actively searching on Boligsiden. At this rate, every month of waiting costs ~1% in price. The record-low inventory is the core problem — there simply aren't enough apartments on the market. The Frederiksen government formation could affect housing policy, but structural supply constraints won't ease quickly.
+
+---
+
+### CROSSFIT: French Throwdown Results — European Tickets to the Games Punched
+The French Throwdown (Paris, May 15-17) wrapped up the European in-person Semifinal. Jayson Hopper dominated the men's field with two event wins. CrossFit Oslo Kriger won the team competition. Six individual tickets and three team invitations to the 2026 Games (July 24-26, San Jose) were awarded. Age-Group Online Semifinals are currently live. Remaining in-person Semifinals continue through June 15.
+
+**Life Impact: LOW** — Competitive season update. The Games field for San Jose is shaping up.
+
+---
+
+### Sources
+- [US News - Denmark Coalition Collapse](https://www.usnews.com/news/world/articles/2026-05-22/denmarks-centre-right-coalition-talks-break-down-prolonging-political-deadlock)
+- [YourNews - King Gives Frederiksen New Chance](https://yournews.com/2026/05/23/6998222/denmarks-king-gives-mette-frederiksen-new-chance-to-form-government/)
+- [Consilium - EU-US Trade Deal](https://www.consilium.europa.eu/en/press/press-releases/2026/05/20/eu-us-trade-council-and-parliament-strike-a-deal-to-implement-the-tariff-elements-of-the-joint-statement/)
+- [Euronews - EU Approves US Tariff Deal](https://www.euronews.com/my-europe/2026/05/20/eu-approves-trade-deal-with-the-us-despite-uncertainty-in-transatlantic-relations)
+- [CNBC - Iran Deal Largely Negotiated](https://www.cnbc.com/amp/2026/05/23/us-iran-war-talks.html)
+- [CNN - Iran Ceasefire](https://www.cnn.com/2026/05/04/politics/us-iran-ceasefire-strait-of-hormuz)
+- [WHO - Ebola PHEIC Declaration](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern)
+- [CNN - Ebola Explainer](https://www.cnn.com/2026/05/17/africa/ebola-outbreak-congo-uganda-explainer-intl)
+- [Al Jazeera - Putin-Xi Summit](https://www.aljazeera.com/news/2026/5/20/multipolar-world-what-xi-and-putin-announced-after-beijing-summit)
+- [Anthropic - Gates Foundation Partnership](https://www.anthropic.com/news/gates-foundation-partnership)
+- [IMFounder - AI Updates May 2026](https://imfounder.com/science-tech/ai/ai-updates-may-2026/)
+- [VoxelMatters - 3D Printed Bionic Arm](https://www.voxelmatters.com/new-york-amputee-becomes-first-recipient-of-3d-printed-full-length-bionic-arm/)
+- [3DPrint.com - News Briefs May 20](https://3dprint.com/326156/3d-printing-news-briefs-5-20-2026/)
+- [Boligsignal - København Boligpriser 2026](https://boligsignal.dk/blog/boligpriser-koebenhavn-2026)
+- [Nykredit - Boligprisprognose](https://www.nykredit.dk/dit-liv/bolig/boligprisprognose/)
+- [Generation Iron - French Throwdown Results](https://generationiron.com/2026-french-throwdown-crossfit-semifinal-results/)
+- [CrossFit Games - Semifinals Overview](https://games.crossfit.com/semifinals/overview)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
