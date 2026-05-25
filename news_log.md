@@ -1,5 +1,124 @@
 # Daily News Log
 
+## 2026-05-25
+
+### DANISH POLITICS: Frederiksen Gets Second Chance — Centre-Left Coalition Taking Shape
+*Continuing story — new developments since April 7.*
+The two-month deadlock is breaking. After center-right coalition talks collapsed on May 22, Frederiksen met King Frederik X on May 23 and was re-appointed as formateur. She is now pursuing a centre-left coalition with the Social Democrats, Green Left, Moderates, and Social Liberals, backed by the Red-Green Alliance and Alternative. Talks restarted May 24. This is the most concrete path to a government since the March 24 election.
+
+**Life Impact: HIGH** — A centre-left government would likely mean tighter housing regulation (relevant to your Copenhagen search), greener building requirements, and continued defense spending increases. Watch for coalition agreement details on housing and tax policy.
+
+---
+
+### DENMARK: Nets Payment Crash Paralyzed the Country on May 21
+The payment processor Nets — handling ~80% of all Danish card transactions — went down for five hours on May 21, from 9 AM to 2 PM. Card payments were rejected nationwide: shops, parking garages, train tickets, even Danes abroad couldn't withdraw cash. Nets' backup system failed to activate. Acting business minister Morten Bødskov demanded a report from the financial supervisory authority, calling it "serious" — this was the second major Nets outage in under a year (the previous was July 2025). Your Supervin email from the 24th referenced it directly.
+
+**Life Impact: HIGH** — Denmark's near-total dependence on a single payment processor is a systemic vulnerability. Worth keeping some cash on hand. The government may push for regulatory changes or backup requirements.
+
+---
+
+### IRAN-US: Peace Deal "Largely Negotiated," Ceasefire Holding
+*Continuing story — major shift since April 7.*
+The shooting war has given way to diplomacy. A fragile ceasefire has held since April 8, with skirmishes around the Strait of Hormuz. Trump said May 23 that a deal is "largely negotiated" covering the Strait, Iran's nuclear program, sanctions relief, and asset unfreezing. Key sticking point: the US proposed a 20-year uranium enrichment pause; Iran countered with 5 years (rejected). US gas is at $4.56/gallon — highest in four years. Gulf states are calling this the worst energy crisis in decades.
+
+**Life Impact: HIGH** — Energy prices remain elevated globally. A deal would ease oil markets and inflation. Failure would risk re-escalation. Watch fuel and heating costs.
+
+---
+
+### EU: Trade Deal with US Clears Major Hurdle
+The EU Council and Parliament agreed May 20 on regulations to implement the EU-US trade deal (originally from August 2025). The EU eliminates tariffs on US industrial goods; the US caps tariffs on most EU goods at 15%. Key safeguard: if the US doesn't lift steel/aluminum tariffs by end of 2026, the EU can suspend the deal. The agreement expires December 31, 2029. Final vote expected mid-June, ahead of Trump's July 4 deadline.
+
+**Life Impact: MEDIUM-HIGH** — This stabilizes EU-US trade and reduces uncertainty for European businesses and consumers. The 15% US cap on EU goods is a compromise — better than the threatened escalation, but still elevated.
+
+---
+
+### EU: Foreign Investment Screening & AI Act Implementation
+MEPs are voting on new rules to protect EU strategic sectors — defense, semiconductors, AI, critical raw materials, financial services — from risky foreign investments. Separately, the AI Act implementation is accelerating, with new compliance timelines being rolled out. New EU rules on short-term rental transparency (Airbnb etc.) are now active across Europe.
+
+**Life Impact: MEDIUM** — The foreign investment screening affects EU tech/defense companies and investment flows. The short-term rental rules may affect property markets in Copenhagen and other EU cities.
+
+---
+
+### AI: Novo Nordisk Partners with OpenAI Across Entire Business
+Denmark's pharma giant Novo Nordisk announced a strategic partnership with OpenAI (April 14) to integrate AI across drug discovery, clinical trials, manufacturing, supply chain, and corporate operations. Pilot programs are launching now with full integration targeted by end of 2026. This is part of Novo's race against Eli Lilly for weight-loss market dominance after losing its first-mover advantage. Workforce upskilling is a core deliverable.
+
+**Life Impact: MEDIUM-HIGH** — This is Denmark's largest company betting its future on AI integration. It signals the direction for Danish industry broadly and could accelerate drug development timelines for treatments affecting millions.
+
+---
+
+### AI: OpenAI Launches Ads in ChatGPT, Microsoft Exclusivity Ends
+OpenAI introduced a self-serve Ads Manager letting advertisers run campaigns inside ChatGPT, targeting $2.5 billion in ad revenue this year. Separately, OpenAI restructured its exclusive partnership with Microsoft, now free to distribute across rival cloud providers. Amazon is reportedly in talks to invest $10 billion in OpenAI. Meanwhile, researchers at Penn created a hybrid light-matter particle that could dramatically speed up AI computing while cutting energy use.
+
+**Life Impact: MEDIUM** — ChatGPT with ads changes the user experience of the most popular AI tool. The Microsoft breakup reshapes the AI cloud landscape.
+
+---
+
+### AI: US Government Pushing Pre-Release AI Testing
+The US government is aggressively pushing for testing of AI models before public release. Microsoft, xAI, and other major companies have agreed to provide early model access to regulators. This is a significant shift toward proactive AI safety regulation.
+
+**Life Impact: MEDIUM** — Sets a precedent that could influence EU AI Act enforcement and global AI governance norms.
+
+---
+
+### 3D PRINTING: Sub-$1,000 AI-Powered Printer & 3D-Printed Living Cornea
+Timeplast announced a sub-$1,000 AI-powered 3D printer called the "Manifester" that turns voice commands into finished objects — funded via an oversubscribed $5M crowdfunding campaign. In medical research, scientists successfully 3D printed a living cornea. On the industrial side, Eplus3D unveiled the EP-M3050 — a massive 256-laser metal printer with a 3050x3050mm build area. UltiMaker launched the Factor 4 Plus professional printer. Researchers at the European Synchrotron used X-rays to observe how 3D-printed metals fail under extreme impact at 750 m/s.
+
+**Life Impact: LOW-MEDIUM** — The Manifester is worth watching if the voice-to-print pipeline actually works at that price point. The living cornea is a medical milestone.
+
+---
+
+### COPENHAGEN HOUSING: Growth Moderating but Still a Seller's Market
+*Continuing story — update since April 7.*
+The 20% YoY price surge reported last time is expected to moderate to 4-6% nationally in 2026. Copenhagen remains firmly a seller's market with shrinking inventory and strong demand. Your Boligsiden saved search flagged a new listing: Hessensgade 15, st. 4., 2300 København S — 58 m², 2 rooms, 3,795,000 kr (65,431 DKK/m²). Rental vacancy is still 1-2% citywide.
+
+**Life Impact: VERY HIGH** — Prices are still climbing, just slower. If you're actively searching (and your Boligsiden alerts suggest you are), the market hasn't cooled enough to wait.
+
+---
+
+### CROSSFIT: Semifinals in Full Swing Globally
+*Continuing story — update since April 7.*
+The Semifinals are happening now across 12 global events (April-June). Recent/upcoming: Paris (May 15-17), Brisbane and Johannesburg (May 21-24). The geographic spread is wider than ever — South Korea, South Africa, Brazil, Australia alongside the US events. The adaptive division is now run by WheelWOD. Games are still set for July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — Relevant if you're following the competitive season. The Paris Semifinal just wrapped.
+
+---
+
+### LEGO: Minas Tirith Revealed — Lord of the Rings 25th Anniversary
+LEGO unveiled the Icons Lord of the Rings: Minas Tirith set as part of the 25th Anniversary Legacy Collection, designed for adult fans. A livestream Q&A with the design team happened May 12. Other May releases include the UCS Mandalorian N-1 Starfighter (1,809 pieces, $250) and a Jurassic Park Jeep Wrangler ($200).
+
+**Life Impact: LOW** — But given you're on the LEGO mailing list: the Minas Tirith set is a significant adult-fan release if you're into display builds.
+
+---
+
+### INNOVATION: Haven-1 Commercial Space Station Launching This Month
+Vast Space's Haven-1, a bus-sized commercial space station, is scheduled to launch in May 2026 on a SpaceX Falcon 9. It will initially support crews of four for 10-day missions, enabling paying customers to conduct microgravity research. Separately, humanoid robot shipments are projected to grow 700% in 2026.
+
+**Life Impact: LOW-MEDIUM** — The commercialization of space stations marks a shift from government-only space infrastructure. The robotics growth is more immediately relevant to industry and labor markets.
+
+---
+
+### Sources
+- [Copenhagen Post - Nets Outage](https://cphpost.dk/2026-05-21/news/round-up/card-payments-declined-due-to-an-outage-throughout-the-country/)
+- [Daily Northern - Minister Demands Nets Report](https://www.dailynorthern.com/20338/minister-demands-report-after-nets-payment-outage/)
+- [The Local DK - Nets Down](https://www.thelocal.dk/20260521/can-you-still-buy-things-in-denmark-if-payment-service-nets-is-down)
+- [CNN - Iran War Peace Talks May 24](https://www.cnn.com/2026/05/24/world/live-news/iran-war-news)
+- [CNBC - Trump Says Iran Deal Close](https://www.cnbc.com/2026/05/23/us-iran-war-talks.html)
+- [EU Council - EU-US Trade Deal](https://www.consilium.europa.eu/en/press/press-releases/2026/05/20/eu-us-trade-council-and-parliament-strike-a-deal-to-implement-the-tariff-elements-of-the-joint-statement/)
+- [Euronews - EU Approves US Tariff Deal](https://www.euronews.com/my-europe/2026/05/20/eu-approves-trade-deal-with-the-us-despite-uncertainty-in-transatlantic-relations)
+- [CNBC - Novo Nordisk OpenAI Partnership](https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html)
+- [Fierce Pharma - Novo Taps OpenAI](https://www.fiercepharma.com/pharma/novo-taps-openai-deploy-ai-across-rd-manufacturing-and-corporate-functions)
+- [Medium - AI News Week of May 18-24](https://medium.com/@davidakpovi/ai-news-week-of-may-18-to-may-24-2026-6cb451ecb766)
+- [devFlokers - AI Breakthroughs May 2026](https://www.devflokers.com/blog/ai-tech-breakthroughs-may-2026-developments)
+- [3DPrint.com - News Briefs May 23](https://3dprint.com/326191/3d-printing-news-briefs-5-23-2026/)
+- [3DPrint.com - News Briefs May 9](https://3dprint.com/325932/3d-printing-news-briefs-may-9-2026/)
+- [Investropa - Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [CrossFit Games - Semifinals Overview](https://games.crossfit.com/semifinals/overview)
+- [LEGO - Minas Tirith Reveal](https://www.lego.com/en-us/aboutus/news/2026/may/lego-icons-the-lord-of-the-rings-minas-tirith-set)
+- [Jay's Brick Blog - May 2026 Releases](https://jaysbrickblog.com/news/buying-guide-every-new-lego-set-releasing-in-may-2026/)
+- [politics-government.news-articles.net - Danish Coalition Collapse](https://politics-government.news-articles.net/content/2026/05/22/denmark-s-center-right-coalition-negotiations-collapse.html)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
