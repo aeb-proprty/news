@@ -1,5 +1,92 @@
 # Daily News Log
 
+## 2026-05-27
+
+### DANISH POLITICS: Frederiksen Back as Formateur — Four-Party Government Taking Shape
+UPDATE from April 7: The two-month deadlock is finally breaking. After the centre-right's Troels Lund Poulsen failed to form a VLAK government (talks collapsed May 22), King Frederik re-appointed Mette Frederiksen as royal investigator on May 23. The key shift: Frederiksen is now negotiating a four-party government with Socialdemokratiet, SF, Radikale Venstre, and the Moderates — the first time all four sit together at Marienborg. Intensive talks began May 25. Frederiksen said a government "should be formed soon" but gave no exact date. If successful, this would be a markedly different coalition than her previous broad-center government — more left-leaning, with the Moderates as the centrist anchor.
+
+**Life Impact: HIGH** — A left-leaning coalition with SF would likely push stricter housing regulation, green building mandates, and potentially rent controls in Copenhagen. Given your board seat at Fioniahus 2 and your active housing search, the coalition composition matters directly for both property values and building regulations.
+
+---
+
+### COPENHAGEN HOUSING: Nationalbanken Fires Warning Shot — Prices Up 25% YoY
+UPDATE from April 7: The situation has intensified. Yesterday (May 26), Nationalbanken released its financial stability report with a sharp warning: Copenhagen apartment prices surged 25% in the 12 months through April (up from the 20% we noted in April). Governor Ulrik Nødgaard said the growth is now "expectation-driven" and warned that vulnerability to a sharp price correction is increasing. The price surge is spilling over from Copenhagen to the rest of Denmark, increasing systemic risk for lenders. The bank noted that Middle East tensions, higher energy prices, and geopolitical uncertainty add further downside risk. Banks' profits remain high enough to absorb losses for now, but the tone was notably more cautious than in November.
+
+**Life Impact: VERY HIGH** — You're actively searching on Boligsiden. The central bank is essentially saying: prices could drop if expectations shift. This doesn't mean don't buy, but it means the risk profile has changed. A 25% annual gain is historically unsustainable. If you're buying to hold long-term, timing matters less; if you're stretching financially, the central bank is waving a yellow flag.
+
+---
+
+### MIDDLE EAST: US-Iran Peace Talks in Critical Phase, Strait of Hormuz Still Contested
+UPDATE from April 7: The hot war phase is largely over. A ceasefire was agreed April 7-8 (the day of our last update). Since then, negotiations have moved to Doha. The US proposed a 20-year pause on Iran's nuclear program; Iran countered with 5 years — the US rejected that. Key sticking point: re-opening the Strait of Hormuz. Trump is dangling Saudi-Israel normalization as part of a broader deal. US strikes on Iranian targets continued even during the ceasefire, and Iran's president ordered global internet access restored. Gas prices in the US hit $4.56/gallon, a four-year high. Rubio said a deal is "still possible" but warned the US "will find another way" if talks fail.
+
+**Life Impact: HIGH** — Energy prices remain elevated and directly affect Denmark/EU. A deal that re-opens the Strait of Hormuz would ease global oil prices and reduce inflationary pressure on the Danish economy. No deal means continued high energy costs, which feeds into the housing cost picture above.
+
+---
+
+### AI: Apple to Open Apple Intelligence to Claude, Gemini, and ChatGPT in iOS 27
+Apple is preparing to let users choose their AI provider for Apple Intelligence features. Internally called "Extensions," it will allow Google (Gemini), Anthropic (Claude), and OpenAI (ChatGPT) to power text generation, editing, and image tasks through App Store apps. Apple is already testing with these providers and has signed agreements. Expect details at WWDC in June, with public release in fall 2026.
+
+**Life Impact: MEDIUM-HIGH** — This is a massive distribution play for AI. If you're an iPhone user, you'll soon choose which AI brain powers your phone. For anyone building on these platforms professionally, this is a land-grab moment.
+
+---
+
+### EU POLITICS: Parliament Approves Mandatory Foreign Investment Screening
+The European Parliament voted 508-64 to require all EU member states to screen foreign investments in defense, semiconductors, AI, critical raw materials, and financial services. National governments keep the final say, but Brussels gets a stronger advisory role on cross-border risks. Needs European Council rubber-stamp, then 18 months to implementation.
+
+**Life Impact: MEDIUM** — This is the EU hardening its economic borders. If you work in tech/AI, foreign-funded acquisitions or investments in your sector will face new scrutiny. It also signals the EU is serious about strategic autonomy in AI and chips.
+
+---
+
+### AI: US Government Now Pre-Screening AI Models Before Release
+Microsoft, xAI, and other major AI companies have reportedly agreed to give US regulators early access to their models before public release. This is a significant shift from the voluntary-commitment era to something closer to mandatory pre-market testing — similar to how drugs or aircraft are regulated.
+
+**Life Impact: MEDIUM** — If this becomes standard globally (and the EU AI Act already points this way), it could slow the pace of AI releases but increase safety. For AI practitioners, compliance overhead is growing.
+
+---
+
+### 3D PRINTING: Sub-$1,000 AI-Powered Printer Announced; Mega Metal Printer Unveiled
+Timeplast closed an oversubscribed $5M crowdfunding round for "the Manifester" — an AI-powered 3D printer under $1,000 that turns voice commands into finished objects. Meanwhile, Chinese company Eplus3D unveiled the EP-M3050, a metal powder bed fusion system with 256 lasers and a 3050mm x 3050mm build plate (customizable Z-axis up to 5m). It printed a 2.8-meter casing in one piece. On the industry side, Rolls-Royce opened a dedicated AM facility in Bristol for aircraft engine components, and 6K Additive reported 100% revenue growth YoY.
+
+**Life Impact: LOW-MEDIUM** — The Manifester is one to watch for the home printer crowd if it delivers on the AI-to-print promise. The Eplus3D machine is industrial-only but signals where large-format metal printing is heading.
+
+---
+
+### CROSSFIT: Semifinals in Full Swing — French Throwdown Done, Torian Pro Just Wrapped
+UPDATE from April 7: The season has progressed from Quarterfinals to Semifinals. The French Throwdown (Paris, May 15-17) saw Jayson Hopper dominate the men's field, with Mirjam von Rohr edging Aimee Cringle for the women's title. CrossFit Oslo Kriger won the team competition. The Torian Pro in Brisbane (May 22-24) just concluded. Remaining Semifinals: Johannesburg wrapped this week. The 2026 CrossFit Games are July 24-26 at SAP Center, San Jose. Age-group and Adaptive Online Semifinals also completed in May.
+
+**Life Impact: LOW** — Season tracking info. The field for the Games is shaping up.
+
+---
+
+### INNOVATION: First Commercial Space Station Module Launching This Month
+Vast Space's Haven-1 is scheduled to launch in May 2026 on a SpaceX Falcon 9. The bus-sized habitat will initially support crews of four for 10-day missions, enabling paying customers to conduct microgravity research. Separately, global shipments of humanoid robots are projected to grow 700% in 2026 according to TrendForce.
+
+**Life Impact: LOW** — Cool milestones but not directly impactful yet. The humanoid robot growth rate is worth watching for its labor market implications over the next 2-3 years.
+
+---
+
+### Sources
+- [NordiskPost — Frederiksen second mandate](https://www.nordiskpost.com/2026/05/24/danish-government-mette-frederiksen-is-again-royal-investigator/)
+- [Bloomberg — Denmark coalition talks](https://www.bloomberg.com/news/articles/2026-05-23/denmark-s-frederiksen-nears-third-term-after-rival-talks-fail)
+- [US News — Centre-right talks collapse](https://www.usnews.com/news/world/articles/2026-05-22/denmarks-centre-right-coalition-talks-break-down-prolonging-political-deadlock)
+- [Bloomberg — Danish Central Bank housing warning](https://www.bloomberg.com/news/articles/2026-05-26/danish-central-bank-warns-of-housing-risks-as-price-gains-spread)
+- [Nationalbanken — Financial stability report](https://www.nationalbanken.dk/en/news-and-knowledge/press/archive/2026/global-tensions-and-rising-house-prices-dominate-the-risk-outlook-26-05-2026)
+- [Copenhagen Post — Housing warning signs](https://cphpost.dk/2026-05-27/news/round-up/central-bank-sees-rising-housing-market-warning-signs/)
+- [CNN — US-Iran peace talks](https://www.cnn.com/2026/05/24/world/live-news/iran-war-news)
+- [Al Jazeera — Iran negotiations](https://www.aljazeera.com/news/2026/5/25/rubio-says-us-will-find-another-way-if-iran-talks-fail)
+- [9to5Mac — Apple AI providers](https://9to5mac.com/2026/05/06/apple-may-have-just-made-one-of-the-most-important-new-siri-announcements/)
+- [Sherwood — Apple third-party AI](https://sherwood.news/tech/apple-to-let-users-choose-between-anthropic-google-and-openai-models/)
+- [CyberNews — EU investment screening](https://cybernews.com/security/europe-screenings-foreign-investments-critical-sectors/)
+- [Invezz — EU Parliament FDI vote](https://invezz.com/news/2026/05/19/eu-parliament-approves-tougher-foreign-investment-screening-rules/)
+- [3DPrint.com — May news briefs](https://3dprint.com/326156/3d-printing-news-briefs-5-20-2026/)
+- [Fabbaloo — 3D Printing industry](https://www.fabbaloo.com/news/whos-the-biggest-in-3d-printing-may-24-2026-2)
+- [Generation Iron — French Throwdown results](https://generationiron.com/2026-french-throwdown-crossfit-semifinal-results/)
+- [CrossFit Games — Semifinals schedule](https://games.crossfit.com/semifinals/schedule)
+- [imFounder — AI updates May 2026](https://imfounder.com/science-tech/ai/ai-updates-may-2026/)
+- [MarketingProfs — AI update May 8](https://www.marketingprofs.com/opinions/2026/54655/ai-update-may-8-2026-ai-news-and-views-from-the-past-week)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
