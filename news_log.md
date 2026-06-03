@@ -1,5 +1,64 @@
 # Daily News Log
 
+## 2026-06-03
+
+### DANISH POLITICS: Frederiksen Forms Four-Party Government After Record 69-Day Negotiations
+[Continued from 2026-04-07] Mette Frederiksen secured third term. Centre-left minority coalition: Social Democrats + Green Left (SF) + Social Liberals (Radikale) + Moderates (Løkke). 82 of 179 seats. Key policies: VAT halved on food, removed on fruit/veg. Free public transport under-22s. Pesticide ban. Marine nature national parks. Youth housing access. Child/youth psychiatry emergency plan. Defence strengthening. Greenland crisis with Trump remains top foreign policy challenge.
+**Life Impact: VERY HIGH**
+
+### US-IRAN: Ceasefire Collapsing — Strait of Hormuz Fully Closed
+[Continued from 2026-04-07] April ceasefire unraveling. Iran suspended talks June 1 over Israeli operations in Lebanon. Strait of Hormuz fully closed to Western shipping since May 4. IRGC toll regime ($2M/vessel). Trump claims talks continue despite Iran denial.
+**Life Impact: HIGH**
+
+### EU POLITICS: Parliament Clears EU-US "Turnberry" Trade Deal
+Trade committee approved (31-6) eliminating EU duties on most US industrial goods. Safeguard: Brussels can reverse if US doesn't align steel/aluminum duties by end 2026. Sunset clause: Dec 31, 2029. Plenary vote June 16.
+**Life Impact: MEDIUM-HIGH**
+
+### AI: Anthropic Files for IPO at ~$965B Valuation
+Confidential S-1 filed June 1. $65B Series H. Revenue ~$47B/yr run-rate (up from ~$10B). First operating profit expected Q2 (~$559M). Joining SpaceX and OpenAI as potential 2026 trillion-dollar listings.
+**Life Impact: MEDIUM**
+
+### AI: GitHub Copilot Token Billing Goes Live — Backlash
+June 1 switch to token-based billing for chat/agentic/review. Code completions remain unlimited. Developers report projected costs from ~$29 to $750+/mo. 400+ comments, ~900 downvotes on GitHub community thread.
+**Life Impact: MEDIUM-HIGH**
+
+### AI: Microsoft Build 2026 — Own Models (MAI-Thinking-1, MAI-Code-1-Flash)
+MAI-Thinking-1: 35B-param reasoning model, no OpenAI data. Claims Claude Opus parity on coding. MAI-Code-1-Flash: 5B coding model in all Copilot plans. Microsoft building own AI stack.
+**Life Impact: LOW-MEDIUM**
+
+### AI: OpenAI macOS Apps Must Update by June 12 (Supply Chain Attack)
+TanStack npm "Mini Shai-Hulud" attack May 11. Two OpenAI employee devices hit. Code-signing certs compromised. No user data exposed. All macOS apps (ChatGPT, Codex, Atlas) need update before June 12. Second forced cert rotation in 2026.
+**Life Impact: MEDIUM**
+
+### 3D PRINTING: Bambu Lab A2L Launched — $469 Large-Format
+Shipping June 1. 330x320x325mm build volume, 500mm/s, 300C nozzle, 49dB silent mode. $469 standalone, $569 with AMS Lite. Budget H2S alternative at half the price.
+**Life Impact: LOW-MEDIUM**
+
+### 3D PRINTING: California Requires Firearm Detection in 3D Printers
+First law of its kind. "Firearm blueprint detection algorithm" required by July 2028. Non-compliant printers banned from California sale.
+**Life Impact: LOW**
+
+### CROSSFIT: Individual Online Semifinals June 11-15
+Team Online Semifinals June 4-8. Individual June 11-15. 7 men + 7 women earn Games spots. Games July 24-26, San Jose.
+**Life Impact: LOW**
+
+### Sources
+- [Al Jazeera - Denmark New Government](https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists)
+- [NordiskPost - Four-Party Government](https://www.nordiskpost.com/2026/06/02/denmarks-new-four-party-government-announced/)
+- [Al Jazeera - Iran War Updates](https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges)
+- [CNBC - Iran Strait of Hormuz](https://www.cnbc.com/2026/06/01/iran-us-negotiations-strait-of-hormuz.html)
+- [Euronews - Turnberry Deal](https://www.euronews.com/my-europe/2026/06/02/trade-meps-back-euus-deal-despite-watered-down-safeguards)
+- [CNBC - Anthropic IPO](https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html)
+- [NPR - Anthropic IPO](https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large)
+- [TechCrunch - Copilot Billing](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)
+- [TechTimes - Microsoft MAI Models](https://www.techtimes.com/articles/317631/20260602/microsoft-build-2026-mai-thinking-1-first-house-reasoning-model-trained-without-openai-data.htm)
+- [AppleInsider - OpenAI Supply Chain](https://appleinsider.com/articles/26/05/14/another-openai-hack-puts-chatgpt-mac-users-on-an-update-deadline)
+- [3D Printing Industry - Bambu A2L](https://3dprintingindustry.com/news/new-bambu-lab-a2l-3d-printer-technical-specifications-and-pricing-252057/)
+- [The Register - California 3D Printing Bill](https://www.theregister.com/personal-tech/2026/06/01/california-passes-ban-on-3d-printed-firearms/5249148)
+- [CrossFit Games - Semifinals](https://games.crossfit.com/semifinals/overview)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
