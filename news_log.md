@@ -1,5 +1,98 @@
 # Daily News Log
 
+## 2026-06-06
+
+### DANISH POLITICS: Frederiksen Forms Centre-Left Coalition After Record 69-Day Talks
+UPDATE — Previously: Coalition talks were dragging after the March 24 snap election. Resolution: Frederiksen announced a minority government on June 2 consisting of Social Democrats, Socialist People's Party (Green Left), Social Liberals (Radikale Venstre), and the Moderates (Lars Løkke Rasmussen). They hold 82 of 179 seats — not a majority — and will rely on ad-hoc support from the Red-Green Alliance and Alternative. This is Frederiksen's third consecutive term. Notably, this is an all-women-led coalition. Key policies: free dental care for all Danes by 2030, VAT abolished on fruits/vegetables, free public transport for under-22s, a "strategic and balanced approach to AI," and firm rejection of any Greenland sale to Trump. Tough migration stance maintained despite centre-left orientation. Strong Ukraine support confirmed.
+
+**Life Impact: HIGH** — This directly affects your taxes, healthcare costs (free dental), food prices (lower VAT), and public transport. The AI policy stance will shape regulation in your sector. Government now in place — watch for first budget proposal.
+
+---
+
+### EU POLITICS: Turnberry Trade Deal Heads to Crucial Parliament Vote June 16
+The EU-US "Turnberry" trade deal — signed by Trump and von der Leyen in July 2025 — is heading for its final Parliament vote on June 16-17. The International Trade Committee voted to approve the implementing legislation on June 2. Under the deal: EU removes most customs duties on US imports, US tariffs on EU goods capped at 15%, EU commits to $600B investment in US strategic sectors and $750B in US energy purchases through 2028. Critical safeguard: the Commission can suspend the deal if the US doesn't lift steel/aluminium tariffs by end of 2026. The deal has been controversial — critics say the EU conceded too much under Trump's tariff pressure.
+
+**Life Impact: HIGH** — This reshapes EU trade for years. If passed, expect cheaper US imports but potential pressure on European manufacturing. Steel/aluminium tariff clause is the key watchpoint. Energy purchase commitments could affect European energy prices.
+
+---
+
+### EU POLITICS: Western Balkans Accession Stalls, Anti-Money Laundering Gaps Exposed
+Parliament's Foreign Affairs Committee flagged serious concerns: Serbia's rule of law deteriorating, North Macedonia's accession at a standstill, Bosnia's leaders obstructing reform. Meanwhile, the Commission opened infringement proceedings against Greece, Luxembourg, and Sweden for failing to transpose anti-money laundering rules, and against Germany for non-compliance with freedom of establishment regulations.
+
+**Life Impact: LOW-MEDIUM** — Longer-term EU expansion timeline. The AML infringements signal ongoing gaps in EU financial oversight.
+
+---
+
+### MIDDLE EAST: Iran War Day 96+ — Ceasefire Stalled, Khamenei Status Uncertain
+UPDATE — Previously: Day 38, Iran rejected ceasefire, Strait of Hormuz closed, spy commander assassinated. Since then: A ceasefire was agreed April 7-8 but has since frayed. Contradictory signals — Trump says deal possible "this weekend," Iran's FM says no "significant progress." Secretary Rubio told Congress that Supreme Leader Mojtaba Khamenei is alive but hasn't appeared publicly since reportedly being wounded in US-Israeli strikes. Iran attacked Kuwait airport and Bahrain in early June, drawing regional condemnation. US refusing sanctions relief except for nuclear concessions. Lebanon conflict remains a key obstacle to peace. Strait of Hormuz remains contested.
+
+**Life Impact: HIGH** — Energy prices remain volatile. No resolution in sight. The uncertainty around Khamenei's status and conflicting negotiation signals suggest this drags on. Watch oil prices and shipping costs.
+
+---
+
+### AI: Anthropic Raises $65B at $965B Valuation, Files for IPO
+Anthropic closed a $65B Series H round, valuing the company at $965 billion — surpassing OpenAI's $852B valuation for the first time. Run-rate revenue crossed $47B. Anthropic has confidentially filed for an IPO, potentially debuting on Wall Street this fall. Claude Opus 4.8 launched with improved reasoning, agentic coding, effort control, and dynamic workflows. Separately, xAI released Grok Build 0.1, a coding-focused model at $1/$2 per million tokens (in/out) running at 100+ tokens/sec. Microsoft launched MAI-Thinking-1, its own in-house AI model family, reducing dependence on OpenAI.
+
+**Life Impact: MEDIUM-HIGH** — The AI industry is consolidating around a few massive players. Anthropic's IPO signals AI is entering mainstream public markets. Grok Build is interesting for cheap agentic coding tasks. Microsoft building its own models means more competition and likely better pricing.
+
+---
+
+### AI: NVIDIA Cosmos 3, Physical AI Goes Open-Source
+NVIDIA unveiled Cosmos 3, calling it the first fully open "omnimodel" for physical AI — integrating vision reasoning, world simulation, and action generation into a single architecture. AI2 released MolmoAct 2 for robot control (400K+ downloads since May). SoftBank announced a €75B investment in AI data center capacity in France (5 GW target), with €45B committed to the first 3.1 GW phase by 2031.
+
+**Life Impact: MEDIUM** — Physical AI is the bridge between software AI and the real world (robotics, autonomous systems). SoftBank's data center investment signals Europe becoming a major AI compute hub.
+
+---
+
+### 3D PRINTING: Bambu Lab A2L Ships, Creality IPO Soars 80%
+Bambu Lab launched the A2L on June 1 — a large-format printer (330x320x325mm, 105% more volume than standard) starting at $469. Features adaptive vibration compensation (Core-XY quality on a bed slinger), sub-49dB silent mode, and a modular cutting/plotting expansion kit. The A2L Combo with AMS Lite is $569. Separately, Creality debuted on the Hong Kong Stock Exchange on May 29 under ticker 3388.HK — IPO was 3,829x oversubscribed, shares opened at HK$33.88, up 80% from the HK$18.80 IPO price. Prusa added open-source "ColorMix" to PrusaSlicer enabling dozens of color tones from a few loaded filaments.
+
+**Life Impact: MEDIUM** — The A2L is a significant value proposition if you want large-format without spending P1S/X1 money. Creality's IPO success validates consumer 3D printing as a serious market. PrusaSlicer ColorMix is immediately useful.
+
+---
+
+### COPENHAGEN HOUSING: Market Normalizing — 4-6% Growth Expected in 2026
+UPDATE — Previously: Prices up 20% YoY at ~62,900 DKK/m² median. Update: The explosive 20% annual growth of 2025 is cooling. Experts forecast 4-6% growth in 2026 — still rising but normalizing. The market remains firmly a seller's market with 2-3 months of supply (balanced is 5-6 months). Strongest demand continues around M4 metro stations: Sydhavn, Mozarts Plads, Sluseholmen, Enghave Brygge. Central rental vacancy still near 0%.
+
+**Life Impact: HIGH** — If you've been watching the market, the pace is slowing but prices aren't dropping. M4-adjacent neighborhoods remain the hottest areas. Still very much a seller's market.
+
+---
+
+### CROSSFIT: Team Online Semifinals Live Now, Individual Online June 11-15
+UPDATE — Previously: Quarterfinals done, semifinals ahead. The in-person Semifinals are complete — 23 men and 23 women qualified so far. Team Online Semifinals are running June 4-8 (5 workouts). Top 7 teams join 13 already-qualified teams at the Games. Individual Online Semifinals are June 11-15 with 7 remaining individual spots. Notable: two-time champ Justin Medeiros and retiring veteran Pat Vellner both need to qualify through online — Medeiros stumbled at Torian Pro, Vellner fell short at NorCal Classic. Games: July 24-26, SAP Center, San Jose.
+
+**Life Impact: LOW** — Online Semifinals are worth following if you want to see Medeiros and Vellner fight for their spots. Games tickets on sale.
+
+---
+
+### Sources
+- [Denmark Coalition - InformedClearly](https://informedclearly.com/en/politics/53904/denmark-frederiksen-coalition-third-term-2026)
+- [Denmark Women-Led Coalition - Courthouse News](https://www.courthousenews.com/denmarks-frederiksen-opens-third-term-with-women-led-coalition/)
+- [Denmark Pro-Ukraine Stance - European Pravda](https://www.eurointegration.com.ua/eng/news/2026/06/5/7239050/)
+- [EU-US Turnberry Deal - Euronews](https://www.euronews.com/my-europe/2026/05/20/eu-approves-trade-deal-with-the-us-despite-uncertainty-in-transatlantic-relations)
+- [EU Turnberry Committee Vote - EU Perspectives](https://euperspectives.eu/2026/06/eu-lawmakers-clear-turnberry-deal-in-committee/)
+- [EU Agenda Week Ahead - EUbusiness](https://www.eubusiness.com/politics/eucalendar/)
+- [EU Infringements June 2026 - EUbusiness](https://www.eubusiness.com/eulaw/june-2026-eu-infringements-package-key-decisions/)
+- [Iran War Day 96 - Al Jazeera](https://www.aljazeera.com/news/2026/6/3/whats-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks)
+- [Iran Talks Uncertainty - CNN](https://www.cnn.com/2026/06/04/world/live-news/iran-trump-war-news)
+- [Iran Attacks Kuwait/Bahrain - CNN](https://www.cnn.com/2026/06/02/world/live-news/iran-trump-israel-lebanon-war-intl-hnk)
+- [Anthropic Series H - Anthropic](https://www.anthropic.com/news/series-h)
+- [Anthropic IPO Filing - Fortune](https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/)
+- [Anthropic Valuation - CNBC](https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html)
+- [AI June 2026 Overview - TheAITrack](https://theaitrack.com/ai-news-june-2026-in-depth-and-concise/)
+- [AI News Roundup - AIApps](https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/)
+- [Bambu Lab A2L Launch - PRNewswire](https://www.prnewswire.com/news-releases/bambu-lab-launches-a2l-creative-playground-extra-large-302785582.html)
+- [Bambu Lab A2L - 3Dnatives](https://www.3dnatives.com/en/bambu-lab-launches-the-a2l-01062026/amp/)
+- [Creality IPO - 3DPrint.com](https://3dprint.com/326267/asia-am-watch-creality-launches-177m-hong-kong-ipo-as-hkex-trading-debut-nears/amp/)
+- [Creality HKEX Debut - China Money Network](https://www.chinamoneynetwork.com/2026/05/29/creality-3d-technology-makes-historic-debut-on-hong-kong-stock-exchange)
+- [3D Printing News Briefs - 3DPrint.com](https://3dprint.com/326455/3d-printing-news-briefs-6-4-2026/amp/)
+- [Copenhagen Housing - Investropa](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [Copenhagen Housing - TXM Estate](https://txmestate.com/news/copenhagens-housing-market-in-2026-what-investors-and-homebuyers-should-know)
+- [CrossFit Online Semifinals - The Barbell Spin](https://thebarbellspin.com/crossfit-games/do-or-die-the-crossfit-games-favorites-relying-on-the-online-semifinals/)
+- [CrossFit Team Semifinals - CrossFit Games](https://games.crossfit.com/article/2026-team-online-semifinals-workouts-released)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
