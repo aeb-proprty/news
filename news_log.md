@@ -1,5 +1,91 @@
 # Daily News Log
 
+## 2026-06-07
+
+### DANISH POLITICS: "Four-Leaf Clover" Government Takes Office — Frederiksen's Historic Third Term
+UPDATE — The 69-day coalition negotiations are over. On June 2, Frederiksen announced a minority centre-left coalition of Social Democrats, SF (Green Left), Moderates, and Radikale Venstre — holding 82 of 179 seats. King Frederik X received the new government on June 3. For the first time in Danish history, women hold the majority of cabinet seats (11 of 21 ministers). Key appointments: Lars Løkke Rasmussen (Foreign Affairs), Peter Hummelgaard (Finance), Pia Olsen Dyhr (Economy & Interior), Nicolai Wammen (Justice), Jeppe Bruus (Defence). Government priorities: defense spending above 3% of GDP, extending conscription to women, abolishing the EU defence opt-out, a pioneering tax on agricultural emissions, animal welfare reform, and managing the Greenland/Trump diplomatic tension.
+
+**Life Impact: VERY HIGH** — This government directly shapes your taxes (new growth/taxation ministry under Jakob Engel-Schmidt), housing regulation, climate policy, and Denmark's EU/NATO posture. The agricultural emissions tax and green building requirements will ripple into Copenhagen housing costs. Defense spending above 3% means fiscal trade-offs elsewhere.
+
+---
+
+### EU POLITICS: Turnberry Trade Deal Heads to Plenary Vote June 16
+The European Parliament's trade committee approved legislation implementing the EU-US "Turnberry deal" struck at Trump's Scottish golf resort last July. Under the deal, the EU drops customs duties on most US industrial goods while US tariffs on EU goods are capped at 15%. Lawmakers secured a kill switch: the Commission can suspend the deal if the US doesn't lift steel/aluminium tariffs by end of 2026. The agreement sunsets December 31, 2029. Final plenary vote expected June 16-17 in Strasbourg. Critics call the deal lopsided — the EU opens more than it gets back.
+
+**Life Impact: MEDIUM-HIGH** — If ratified, expect cheaper US goods in Danish stores but potentially increased competitive pressure on EU manufacturers. The steel/aluminium tariff deadline at year-end is the real tripwire — if it fails, the whole deal could unravel.
+
+---
+
+### IRAN-US WAR: Day 100 — Negotiations Deadlocked, Regional Spillover Worsens
+UPDATE — The conflict has escalated dramatically since early April. The war is now ~100 days old. The US struck Iranian coastal defense sites after Iran launched drones threatening Strait of Hormuz shipping. Iran retaliated with missiles and drones hitting not just Israel but Bahrain, Kuwait, Jordan, Oman, Qatar, Saudi Arabia, and UAE. Iran's supreme leader's adviser says talks are deadlocked over a $24 billion demand and warns of wider war. The conflict has spawned a parallel 2026 Lebanon war (2,000+ civilian/militant casualties). Trump says negotiations continue but outcomes are unclear.
+
+**Life Impact: HIGH** — Oil prices remain elevated and volatile. The Strait of Hormuz threat directly impacts European energy costs. The Lebanon spillover adds refugee and humanitarian pressure on the EU. Watch your energy bills and fuel prices.
+
+---
+
+### AI: Anthropic Raises $65B, Nears $1 Trillion Valuation, Files for IPO
+Anthropic closed a $65B Series H round at a $965B post-money valuation — surpassing OpenAI's $852B for the first time. Led by Altimeter, Dragoneer, Greenoaks, and Sequoia, with $15B from cloud providers including $5B from Amazon. Annualized revenue has hit $47B. Anthropic also confidentially filed for an IPO. Meanwhile, Claude Opus 4.8 launched May 28 with improved honesty, better agentic reliability (4x fewer unremarked code flaws), and a new "Dynamic Workflows" feature for large-scale parallel sub-agent execution. Anthropic teased Mythos-class models — currently limited to cybersecurity work under Project Glasswing — coming to all customers in weeks.
+
+**Life Impact: MEDIUM-HIGH** — As a Claude/OpenAI user, the AI arms race directly improves the tools you use. Opus 4.8's agentic improvements are immediately relevant if you use Claude Code. Mythos could be a step-change when it arrives. The near-trillion valuations signal AI is becoming infrastructure, not hype.
+
+---
+
+### AI: Trump Signs AI Executive Order — Voluntary Pre-Release Government Access
+On June 2, Trump signed "Promoting Advanced Artificial Intelligence Innovation and Security," directing federal agencies to build a framework for frontier AI deployment. Companies are asked to voluntarily submit their most powerful models for government testing up to 30 days before public release (down from 90 days in an earlier draft that was shelved over innovation concerns). The order also creates an "AI cybersecurity clearinghouse" and directs agencies to develop benchmarks for AI cyber capabilities.
+
+**Life Impact: LOW-MEDIUM** — US-only policy, but sets a precedent. If the EU follows with mandatory (not voluntary) requirements, it could slow model releases in Europe. For now, the 30-day window is short enough that it shouldn't meaningfully delay new model access.
+
+---
+
+### AI: ChatGPT Hits 1 Billion Monthly Users — Fastest App Ever
+ChatGPT crossed 1 billion monthly active users in May 2026, roughly three years after launch — faster than Google Maps, TikTok, Instagram, or YouTube reached the same milestone. For context, Claude has 56 million monthly users but is growing at 640% year-over-year vs ChatGPT's 62%.
+
+**Life Impact: LOW** — Milestone story. The real signal is that AI assistants are now as mainstream as social media. The Claude growth rate suggests competitive pressure will keep both products improving fast.
+
+---
+
+### COPENHAGEN HOUSING: Nykredit Forecasts 13.7% Price Surge in 2026
+UPDATE — Prices remain at ~62,900-66,226 DKK/m² median/average, consistent with the April picture. But Nykredit now forecasts a 13.7% increase for Copenhagen apartments in 2026 (with 3.1% in 2027), significantly above the 3-3.5% general consensus. Nordhavn remains the most expensive neighbourhood at 98,000 DKK/m² — 30,000 DKK/m² more than Valby, the cheapest. The structural supply squeeze from green building regulations continues to constrain new construction.
+
+**Life Impact: VERY HIGH** — If Nykredit's 13.7% forecast holds, a 5.3M DKK apartment in January could be 6M+ by year-end. The gap between Nordhavn and more affordable areas like Valby is widening. If you're considering buying, delay costs ~1% per month at current trajectories.
+
+---
+
+### 3D PRINTING: Snapmaker Multi-Color, Industrial Metal Printers, Cement Breakthroughs
+Snapmaker released Orca V2.3.3 Beta with native Full Spectrum support — intermediate colors via alternating filament layers and visual blending. New hardened steel hotend options and four new filaments (TPU 95A HF, PETG HF, Silk PLA, Silk Dual-Color PLA). Mastrex launched the MX300, a $185K industrial metal LPBF printer (300x300x350mm, dual 500W lasers, aluminum/Inconel/stainless). Princeton researchers achieved 187x higher fracture toughness in 3D-printed cement composites. Axtra3D expanding European operations with a new 17,000 sq ft facility in Vicenza, Italy.
+
+**Life Impact: LOW** — The Snapmaker multi-color update is fun if you use their ecosystem. The Princeton cement research is far out but could eventually affect construction costs. The industrial metal printers remain well out of hobbyist range.
+
+---
+
+### CROSSFIT: Team Online Semifinals Underway, Individual Online Starts June 11
+UPDATE — The in-person Semifinal tour is wrapping up after events in Tennessee, California, Brazil, South Korea, Alabama, Paris, Brisbane, and Johannesburg. Team Online Semifinals are running right now (June 4-8, scores due Monday June 8 at noon PT). Individual Online Semifinals start June 11-15 (7 men and 7 women earn Games spots). The 2026 Games remain set for July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — Relevant if you follow the competitive season. The Individual Online Semifinals next week will determine who's going to San Jose.
+
+---
+
+### Sources
+- [InformedClearly - Denmark Coalition](https://informedclearly.com/en/politics/53904/denmark-frederiksen-coalition-third-term-2026)
+- [NordiskPost - Denmark Ministers](https://www.nordiskpost.com/2026/06/03/denmark-new-government-ministers/)
+- [YourNews - Frederiksen Third Term](https://yournews.com/2026/06/01/7021247/frederiksen-secures-third-term-as-denmark-forms-new-centre-left-government/)
+- [Euronews - EU-US Turnberry Deal](https://www.euronews.com/my-europe/2026/06/02/trade-meps-back-euus-deal-despite-watered-down-safeguards)
+- [EU Perspectives - Turnberry Compromise](https://euperspectives.eu/2026/06/eu-lawmakers-clear-turnberry-deal-in-committee/)
+- [Al Jazeera - Iran War Day 96+](https://www.aljazeera.com/news/2026/6/3/whats-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks)
+- [CNN - Iran Coastal Strikes](https://www.cnn.com/2026/06/06/world/video/iran-us-strikes-coast-vrtc-digvid)
+- [RNZ - Iran Talks Deadlocked](https://www.rnz.co.nz/news/world/597436/iran-supreme-leader-s-adviser-says-talks-deadlocked-over-24-billion-warns-of-wider-war)
+- [Anthropic - Series H](https://www.anthropic.com/news/series-h)
+- [Fortune - Anthropic IPO Filing](https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/)
+- [TechCrunch - Opus 4.8](https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/)
+- [NPR - Trump AI Order](https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order)
+- [Scientific American - Trump AI Order](https://www.scientificamerican.com/article/trumps-new-ai-executive-order-drastically-shifts-the-administrations-stance-on-the-tech/)
+- [PYMNTS - ChatGPT 1B Users](https://www.pymnts.com/artificial-intelligence-2/2026/chatgpt-hits-1-billion-users-faster-than-any-app-in-history/)
+- [Investropa - Copenhagen Housing](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [3DPrint.com - June 6 News](https://3dprint.com/326493/3d-printing-news-briefs-6-6-2026/)
+- [CrossFit Games - Semifinals](https://games.crossfit.com/semifinals/overview)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
