@@ -1,5 +1,118 @@
 # Daily News Log
 
+## 2026-06-11
+
+### DANISH POLITICS: Frederiksen Forms Third Government — Centre-Left, Women-Led, Greenest Ever
+**UPDATE from April 7** — The 69-day deadlock is over. On June 2, Frederiksen announced a minority coalition of Social Democrats, Green Left (SF), Social Liberals (Radikale), and the Moderates (Løkke). They hold 82 of 179 seats — no majority, relying on ad-hoc left-wing support. Key policies: free dental care for all by 2030, zero VAT on fruit/vegetables, free public transport for under-22s, *lower* corporate tax, *abolish* the top income tax bracket, and defence spending stays above 3% of GDP. The government calls itself the greenest in Danish history, with clean water and energy security as centrepieces. Greenland sovereignty remains the top foreign policy issue against Trump's continued pressure.
+
+**Life Impact: VERY HIGH** — This is your government for the next term. Tax bracket changes, free dental, cheaper food, and green housing regulation all hit your wallet directly. The defence spending commitment means continued pressure on other budget areas.
+
+---
+
+### FOLKEMØDET STARTS TODAY (June 11-13, Bornholm)
+You have tickets. The festival runs through Saturday with 460+ events. Dansk Industri, KL (municipalities), and cultural organizations all have packed programs. Theme areas include democracy, emergency preparedness, and future welfare. Full program at program.folkemoedet.dk.
+
+**Life Impact: HIGH** — You're going. Check the program app for schedule conflicts.
+
+---
+
+### 3DAYSOFDESIGN HAPPENING NOW (June 10-12, Copenhagen)
+The design festival is live across eight Design Districts in Copenhagen right now, with 460+ brands showing. Theme: "Make This Moment Matter." 60,000+ attendees expected. Free entry to all showrooms, exhibitions, and talks. Illums Bolighus on Amagertorv is one of the venues (per your email). Last day is tomorrow.
+
+**Life Impact: MEDIUM** — If you're in Copenhagen before heading to Bornholm, today is the last full day to catch it.
+
+---
+
+### EU: Migration Pact Goes Live TOMORROW (June 12)
+After five years of debate, the EU Pact on Migration and Asylum becomes fully operational June 12. Key mechanics: member states must collectively provide 21,000 relocations or €420M in payments/operational support annually. Cyprus, Greece, Italy, and Spain are classified as under migratory pressure and will receive solidarity. New biometric Eurodac system, border screening procedures, and a fundamental rights monitoring mechanism go live. Implementation is uneven — Germany, Ireland, Czechia are ready; others still passing legislation. Denmark's EU asylum opt-out means parts don't apply directly, but the political ripple effects are real.
+
+**Life Impact: MEDIUM** — Denmark's opt-out insulates you from direct impact, but the pact will reshape EU migration debates at Folkemødet and beyond. Politically significant for the new Danish government's positioning.
+
+---
+
+### EU POLITICS: Big Voting Week in Parliament
+MEPs are holding final votes on the EU-US trade deal, new genomic plant rules, and automotive circularity rules. The Council is pushing to strengthen the Carbon Border Adjustment Mechanism (CBAM) and reach agreement on European Business Wallets (digital identity). Transport ministers are discussing fleet decarbonisation beyond 2030.
+
+**Life Impact: LOW-MEDIUM** — The EU-US trade deal vote matters for Danish exporters. CBAM strengthening affects manufacturing costs across Europe. Business Wallets will eventually replace many physical ID processes.
+
+---
+
+### HUNGARY: Orbán's 16-Year Era is Over — Magyar Wins Supermajority
+**UPDATE from April 7** — The race that was "neck-and-neck" in April turned into a landslide. Péter Magyar's Tisza Party won 141 of 199 seats (53.6%) on April 12 — the highest vote count any Hungarian party has ever received. Turnout was 79.6%, a record since 1990. Orbán conceded. Magyar has a two-thirds supermajority, enough to amend Hungary's constitution. This fundamentally changes EU dynamics: the Hungarian veto on Ukraine aid, rule-of-law proceedings, and EU enlargement is gone.
+
+**Life Impact: MEDIUM-HIGH** — The EU can now act more decisively on Ukraine, defence, and rule of law. Expect faster decision-making in Brussels, which affects Denmark's position in the Council.
+
+---
+
+### IRAN-US WAR: Fragile Ceasefire, Strikes Still Exchanged
+**UPDATE from April 7** — Since the Day 38 escalation, a ceasefire was declared but keeps breaking down. Initial US-Iran talks in Pakistan (April) failed. Trump extended the ceasefire open-ended but kept the US blockade in full force. As of June 7-8, Israel and Iran traded their worst strikes in months. By June 10, both sides paused again — Israel stopped short of acknowledging a ceasefire; Iran warned it would resume if Israeli strikes in Lebanon continue. Tehran says it's open to talks if the US is "honest and sincere." The Strait of Hormuz blockade remains.
+
+**Life Impact: HIGH** — Oil prices remain volatile. The blockade keeps energy costs elevated. A real peace deal would bring relief, but don't count on it yet.
+
+---
+
+### AI: WWDC 2026 — Apple Rebuilds Siri with Google Gemini, Opens to Claude
+Apple's biggest AI announcement: Siri AI is rebuilt from scratch with a custom 1.2-trillion-parameter Gemini model under the hood. It now has deep on-screen awareness, cross-app context (pulling from Mail/Messages during calls), and a standalone app with conversation history. The new Extensions system lets users choose between ChatGPT, Gemini, and Claude as Siri backends. Apple Intelligence expands across all OS 27 releases — Safari tab management, one-tap password updating, AI-powered message replies, smarter Home security alerts, and new generative photo editing. Also: new parental controls for kids' digital safety.
+
+**Life Impact: HIGH** — If you're in the Apple ecosystem (your developer email suggests yes), this changes how you interact with your devices daily. The Claude integration means your preferred AI follows you into Apple apps. As a developer, the Foundation Models framework is a new platform to build on.
+
+---
+
+### AI: Market Shifts — ChatGPT Dominates, GPT-Rosalind for Biotech, Colorado Regulates
+ChatGPT holds 54.7% of global AI web visits. Gemini is second at 27.4%. Claude is third at 8.2% but grew 306% in one quarter. OpenAI released GPT-Rosalind (June 4) — purpose-built for drug discovery and life sciences. JPMorgan reclassified AI from "experimental R&D" to "core infrastructure" with a $19.8B tech budget. Colorado's Consumer Protections for AI Act takes effect June 30 — requiring risk management, impact assessments, and disclosure for high-risk AI systems. First major US state-level AI regulation.
+
+**Life Impact: MEDIUM** — The AI market is maturing fast. If you build AI products, the Colorado law signals where EU-style regulation is heading in the US. JPMorgan's reclassification is a signal that enterprise AI is now mainstream infrastructure, not experimental.
+
+---
+
+### 3D PRINTING: Formlabs Fuse X1 ($85K Industrial SLS), Stratasys Buys Markforged
+Formlabs announced the Fuse X1 on June 9 — a large-format SLS printer (330×330×565mm build volume, 120W fiber laser) priced from $84,999, shipping Q4 2026. Claims 3x throughput and half the cost-per-part vs comparable industrial machines. Features computer-vision failure detection that can exclude defective parts mid-build without aborting the job. Separately, Stratasys is acquiring Markforged from Nano Dimension for $42.5M cash — consolidating the industrial FFF market. Markforged's Continuous Carbon Fiber tech goes to Stratasys; Nano keeps the metal binder jetting line. Also: Snapmaker's Orca V2.3.3 Beta introduced native full-spectrum color mixing for FFF — community-developed virtual color blending by alternating filament layers.
+
+**Life Impact: MEDIUM** — The Fuse X1 is priced for serious prosumer/small business — relevant if Byens Profiler ever moves to SLS for architectural models. The Stratasys-Markforged consolidation signals the industry is maturing. Snapmaker's color mixing is immediately fun for hobbyist prints.
+
+---
+
+### COPENHAGEN HOUSING: Nykredit Forecasts 13.7% Growth for 2026
+**UPDATE from April 7** — Prices remain elevated at ~66,000 DKK/m² average. Nykredit's latest forecast is the most bullish: +13.7% for Copenhagen apartments in 2026, settling to +3.1% in 2027. Other analysts are more conservative at 2-4.5%. Supply remains at record lows, especially centrally. Nordhavn leads at ~98,000 DKK/m²; Valby is the most affordable at ~68,000 DKK/m². The new government's green building regulations will continue to constrain new supply, supporting prices.
+
+**Life Impact: VERY HIGH** — If you're considering buying, the market isn't cooling. The new government's green policies will keep construction costs elevated and supply tight. The spread between Nordhavn and outer districts is widening — location bets matter more than ever.
+
+---
+
+### CROSSFIT: Individual Online Semifinals START TODAY
+**UPDATE from April 7** — 23 athletes already qualified via in-person Semifinals. The final 7 men and 7 women spots are decided now: the Individual Online Semifinals opened today (June 11) with five workouts due by June 15. Notable: two-time Games champion Justin Medeiros failed to qualify at the Torian Pro and must compete here. Team leaderboard finalized by June 22. The 2026 CrossFit Games remain July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — Competitive season milestone. Watch Medeiros' comeback attempt if you follow the individual competition.
+
+---
+
+### Sources
+- [Informed Clearly - Denmark Coalition](https://informedclearly.com/en/politics/53904/denmark-frederiksen-coalition-third-term-2026)
+- [Al Jazeera - Denmark New Government](https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists)
+- [State of Green - Denmark Greenest Government](https://stateofgreen.com/en/news/denmarks-new-government-aims-to-be-the-greenest-in-history/)
+- [Brussels Morning - Denmark Coalition Priorities](https://brusselsmorning.com/denmark-coalition-government-202/98745/)
+- [Folkemødet Program](https://program.folkemoedet.dk/)
+- [3daysofdesign Copenhagen](https://www.3daysofdesign.dk/)
+- [EU Migration Pact - European Commission](https://home-affairs.ec.europa.eu/news/commission-reports-progress-implementing-pact-migration-and-asylum-2026-05-08_en)
+- [Press Review - EU Migration Pact Goes Live](https://pressreview.eu/eu-migration-pact-fully-operational-june-2026-21000-relocations/)
+- [EU Council Forward Look June 2026](https://www.consilium.europa.eu/en/press/press-releases/2026/06/05/forward-look-2026/)
+- [CNN - Hungary Election Result](https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar)
+- [Al Jazeera - Magyar Wins Hungary](https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz)
+- [CNN - Iran Ceasefire June 7-8](https://www.cnn.com/2026/06/07/world/live-news/iran-war-trump-israel-lebanon)
+- [Al Jazeera - Iran War Updates](https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf)
+- [Apple Newsroom - WWDC 2026](https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/)
+- [TechCrunch - WWDC 2026](https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/)
+- [BuildFastWithAI - AI News June 8](https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026)
+- [LLM Stats - AI Updates June 2026](https://llm-stats.com/llm-updates)
+- [Formlabs - Fuse X1](https://formlabs.com/3d-printers/fuse-x1/)
+- [3D Printing Industry - Fuse X1 Launch](https://3dprintingindustry.com/news/formlabs-launches-fuse-x1-technical-specifications-and-pricing-252208/)
+- [BusinessWire - Stratasys Markforged Acquisition](https://www.businesswire.com/news/home/20260527498834/en/Stratasys-to-Acquire-MarkForged-Inc.-Expanding-Aerospace-Defense-and-Industrial-Production-Capabilities)
+- [3DPrint.com - News Briefs June 10](https://3dprint.com/326563/3d-printing-news-briefs-6-10-2026/)
+- [Investropa - Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [Investropa - Denmark Price Forecasts](https://investropa.com/blogs/news/denmark-price-forecasts)
+- [Barbell Spin - CrossFit Online Semifinals](https://thebarbellspin.com/crossfit-games/2026-individual-crossfit-online-semifinals-workouts-revealed/)
+- [CrossFit Games - Online Semifinals Workouts](https://games.crossfit.com/article/2026-individual-online-semifinals-workouts-released)
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
