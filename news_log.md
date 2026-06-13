@@ -1,5 +1,118 @@
 # Daily News Log
 
+## 2026-06-13
+
+### DANISH POLITICS: Frederiksen III Government Sworn In — Your Party Is a Supporting Partner
+*Continuing story — major update since April 7*
+
+The 69-day deadlock is over. On June 3, Mette Frederiksen formed her third cabinet: a centre-left minority coalition of Social Democrats, Green Left (SF), Moderates, and Social Liberals. Key: **Alternativet is a formal supporting party** (not in cabinet, but part of the parliamentary majority). This is the first time Alternativet has had influence over government policy since its founding.
+
+Policy priorities: free dental care for all Danes by 2030, scrapping sales tax on fruits and vegetables, free public transport for under-22s, defence spending held above 3% of GDP, extended conscription to women, and what the government calls "the greenest agenda in Danish history." Immigration policy remains strict. The Greenland/US crisis is the top foreign policy challenge.
+
+**Life Impact: VERY HIGH** — You just joined ÅU. Your party now has real leverage over government policy on climate and welfare. The green policy push and free transit for young people are direct outcomes of Alternativet's support. This shapes your daily life in Copenhagen: housing regulation, transit, food prices, climate policy.
+
+---
+
+### IRAN WAR: Peace Deal Text Finalized — Awaiting Khamenei's Sign-Off
+*Continuing story — major update since April 7*
+
+Yesterday (June 12), Pakistan PM Shehbaz Sharif announced that the US and Iran have agreed on a "final text" of a peace deal framework to end the war that began February 28. The April 7-8 ceasefire (which was the big news last time) held but fighting shifted to brinkmanship over the Strait of Hormuz. Pakistan brokered talks in Islamabad. The last missing piece: Iran's Supreme Leader must sign off. There are conflicting reports about whether the deal includes a nuclear weapons ban.
+
+The war disrupted global shipping, halted Middle East flights, and spiked energy prices. If signed, this would be the most consequential US-Iran agreement since the 2015 JCPOA.
+
+**Life Impact: HIGH** — A signed deal would stabilize oil prices and shipping routes, bringing down energy and consumer goods costs in Denmark/EU. If it collapses, expect another price spike. Watch this weekend.
+
+---
+
+### EU POLITICS: Parliament Votes on EU-US Trade Deal June 16 — Trump Threatens 25% Car Tariffs
+The European Parliament will vote Monday on ratifying the "Turnberry Deal" struck between Trump and von der Leyen last summer. The trade committee approved it 31-6 on June 2. Trump has threatened 25% tariffs on EU cars if the deal isn't implemented by July 4. The deal includes a sunset clause and a mechanism letting Parliament or any member state trigger suspension if the US doesn't lift steel/aluminium tariffs by end of 2026.
+
+This is the most consequential EU-US trade agreement in a decade. Danish exporters — especially in food, pharma, and wind energy — are directly affected.
+
+**Life Impact: HIGH** — Denmark is an export-heavy economy. The deal's terms on agricultural goods, industrial tariffs, and the steel/aluminium provision will ripple through Danish jobs and prices. The car tariff threat affects anyone buying American or EU-made vehicles.
+
+---
+
+### AI: New Frontier Models Drop, Training Costs Collapse
+GPT-5.5 Instant, Gemini 3.5 Flash, and Claude Opus 4.8 all launched in June, pushing performance benchmarks further. But the bigger story is cost: **Orion trained a 100B-parameter model for $1.25/hour**, and MiniMax's M3 model cuts per-token compute to 1/20th of previous models (9x faster prefilling, 15x faster decoding at 1M token context).
+
+NVIDIA unveiled Cosmos 3 — the first "omnimodel" for physical AI that integrates vision reasoning, world simulation, and action generation in a single architecture. This is the hardware-software convergence that makes autonomous robots and self-driving actually viable.
+
+The trend: AI is getting dramatically cheaper and faster, shifting from "who has the best model" to "who deploys agents that actually do useful work."
+
+**Life Impact: MEDIUM-HIGH** — If you're building with AI (your Apple Developer emails suggest you might be), the cost collapse means capabilities that required enterprise budgets 6 months ago are now accessible to individuals. Agent-based workflows are becoming practical for solo developers.
+
+---
+
+### APPLE: WWDC 2026 — Siri AI Overhaul, iOS 27 "Golden Gate"
+Apple announced iOS 27, macOS 27 "Golden Gate," and a ground-up rebuild of Siri called "Siri AI" — described as "profoundly more intelligent, knowledgeable, and capable." Apple Intelligence now understands personal context and what apps can do. Search across iOS, iPadOS, and macOS has been rebuilt. New parental controls and cross-platform iCloud shared albums (including Android/Windows) were also announced. WWDC sessions run through today (June 13).
+
+**Life Impact: MEDIUM** — You're on the Apple Developer list, so this is directly relevant. The Siri AI upgrade and rebuilt search/Spotlight could meaningfully change how you use your devices daily. Developer betas are available now.
+
+---
+
+### 3D PRINTING: Bambu Lab A2L Ships — $469 Large-Format; Prusa Open-Sources ColorMix
+Bambu Lab launched the **A2L** on June 1: 330x320x325mm build volume (105% larger than standard), 500mm/s print speed, 300°C nozzle, supports up to 19 colors via 4 AMS units. Priced at **$469/€379**. This is the large-format printer the community has been asking for at a price point that undercuts everything comparable.
+
+Separately, **Prusa Research open-sourced ColorMix** — a color-mixing engine for PrusaSlicer 2.9.6 and EasyPrint that turns 5 spools into dozens of visible tones. Unlike community approaches using RGB approximation, Prusa calibrated theirs with a colorimeter on real FDM prints. MIT-licensed on GitHub. Snapmaker also shipped Full Spectrum support in Orca V2.3.3 Beta.
+
+**Life Impact: MEDIUM** — You're on the Creality mailing list so you're actively in the 3D printing ecosystem. The A2L is a strong contender if you want to go larger. ColorMix is free and works today if you use PrusaSlicer.
+
+---
+
+### COPENHAGEN HOUSING: Prices Still Rising But Growth Rate Slowing — Fewest Listings in 5 Years
+*Continuing story — update since April 7*
+
+The 20% YoY jump reported in April has moderated. Forecasts for 2026 now range from Nykredit's bullish 13.7% to a consensus of 4-6% nationally. Copenhagen remains a "two-speed" market — inner city prices far outpace the rest of the country. A 2-bedroom in the brokvartererne now routinely exceeds 3M DKK. Average days on market: 14-21 days (7 days for well-priced inner city units).
+
+The critical constraint: **fewest listings in 5 years**. The supply squeeze from green building regulations (reported in April) is now compounded by sellers holding because they expect further appreciation.
+
+**Life Impact: VERY HIGH** — You live at Carl Th. Zahles Gade in KBH S. The supply crunch in the brokvartererne directly affects your neighborhood. If you're considering buying, the window continues to narrow. The new government's housing and green building policies will either ease or tighten this further.
+
+---
+
+### CROSSFIT: Individual Online Semifinals Happening Now (June 11-15)
+*Continuing story — update since April 7*
+
+The 2026 competitive season is in full swing. Team Online Semifinals wrapped June 4-8. **Individual Online Semifinals are live right now** (June 11-15) — this is the last online qualifier before the Games. Medical eligibility forms were due yesterday (June 12). The 2026 CrossFit Games remain set for July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — Relevant if you follow the competitive season. The individual semifinals leaderboard is updating live through Sunday.
+
+---
+
+### INNOVATION: Quantum Milestones — UAE's First Quantum Computer, 303km QKD Link in Sweden
+Two quantum computing milestones this week: The UAE's Technology Innovation Institute launched a program to build the country's first quantum computer using superconducting qubits (June 9). And a Swedish research team deployed a **303km trusted-node Quantum Key Distribution link** across southeastern Sweden using multi-core fiber (June 8) — the longest such link in Scandinavia.
+
+Also: The EU launched a new Innovation Platform this week, a centralized portal connecting startups and innovators with EU funding calls and services.
+
+**Life Impact: LOW-MEDIUM** — The Swedish QKD link is relevant for Nordic tech infrastructure. The EU Innovation Platform could be useful if you're building anything that qualifies for EU funding.
+
+---
+
+### Sources
+- [Al Jazeera — Denmark New Government](https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists)
+- [Courthouse News — Frederiksen III Women-Led Coalition](https://www.courthousenews.com/denmarks-frederiksen-opens-third-term-with-women-led-coalition/)
+- [Brussels Morning — Denmark Coalition Priorities](https://brusselsmorning.com/denmark-coalition-government-202/98745/)
+- [State of Green — Greenest Government](https://stateofgreen.com/en/news/denmarks-new-government-aims-to-be-the-greenest-in-history/)
+- [Washington Post — Iran Peace Deal Text](https://www.washingtonpost.com/world/2026/06/12/pakistan-prime-minister-says-us-iran-deal-text-finalized/)
+- [CBS News — Iran Deal Live Updates](https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/)
+- [Euronews — EU-US Trade Deal](https://www.euronews.com/my-europe/2026/06/02/trade-meps-back-euus-deal-despite-watered-down-safeguards)
+- [LexisNexis — EU Parliament Trade Vote](https://www.lexisnexis.com/en-gb/legal/news/eu-parliament-trade-committee-approves-eu-us-trade-deal)
+- [Crescendo AI — Latest AI News](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+- [LLM Stats — AI Model Releases June 2026](https://llm-stats.com/ai-news)
+- [Apple Newsroom — WWDC 2026](https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/)
+- [CNBC — WWDC 2026](https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html)
+- [3DPrint.com — News Briefs June 2026](https://3dprint.com/326493/3d-printing-news-briefs-6-6-2026/)
+- [3D Printing Industry — Bambu Lab A2L](https://3dprintingindustry.com/news/bambu-lab-teases-new-3d-printer-a2l-ahead-of-june-1-reveal-251951/)
+- [Fabbaloo — Prusa ColorMix](https://www.fabbaloo.com/news/prusa-open-sources-colormix-for-dozens-of-tones)
+- [Boligsignal — KBH Priser 2026](https://boligsignal.dk/blog/boligpriser-koebenhavn-2026)
+- [Nordea — Boligprisprognose](https://www.nordea.com/da/nyhed/ny-boligprisprognose-priserne-ventes-at-stige-yderligere-i-2026-og-2027)
+- [CrossFit Games — 2026 Season](https://games.crossfit.com/article/2026-crossfit-games-season-dates-and-details-division)
+- [Velites — CrossFit Semifinals 2026](https://eu.velitessport.com/blogs/news/crossfit-semifinals-2026)
+- [EU Council — Forward Look June 2026](https://www.consilium.europa.eu/en/press/press-releases/2026/06/05/forward-look-2026/)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
