@@ -1,5 +1,95 @@
 # Daily News Log
 
+## 2026-06-14
+
+### DANISH POLITICS: Frederiksen III Government Takes Office — Alternativet Made It In
+Continuing from April 7. After 2+ months of deadlock, Mette Frederiksen formed her third government on June 3. Centre-left minority coalition: Social Democrats, Green Left, Moderates, and Social Liberals, with external support from Red-Green Alliance and Alternativet. Alternativet cleared the 2% threshold with 2.6% and 5 seats. Franciska Rosenkilde will push climate policy. Coalition plans to boost purchasing power via taxes on large shareholders, maintains restrictive migration policy. Greenland crisis persists; Operation Arctic Endurance ongoing.
+
+**Life Impact: HIGH**
+
+---
+
+### US-IRAN WAR: Major Escalation, Then a Ceasefire Deal
+Continuing from April 7 (Day 38). June 9-10: US strikes multiple targets inside Iran. Iran's IRGC retaliated hitting US airbases in Kuwait and Bahrain; Kuwait closed airspace. Strait of Hormuz declared "closed to all vessels" by IRGC. June 12: Pakistan's PM announced US and Iran agreed on ceasefire deal wording. Global shipping, flights, and energy markets severely disrupted.
+
+**Life Impact: HIGH**
+
+---
+
+### RUSSIA: Putin's Grip Weakening — Economy Contracts, Internal Dissent
+GDP contracted 1.8% in first two months of 2026. Kremlin lawyer Ilya Remeslo called for Putin's resignation, was psychiatric-hospitalized but freed after 30 days (internal factions protected him). Diminished Victory Day parade. RUSI describes 2026 as "window of maximum danger" — hybrid escalation expected.
+
+**Life Impact: MEDIUM**
+
+---
+
+### EU POLITICS: Foreign Investment Screening, Carbon Border, Innovation Platform
+Parliament approved new foreign investment screening rules (replacing measures expiring June 30). Council working on strengthening CBAM (Carbon Border Adjustment Mechanism). New EU-wide innovation/startup support platform launched. European Council agenda: Ukraine, defense, multi-year budget, migration.
+
+**Life Impact: MEDIUM**
+
+---
+
+### AI: OpenAI Disproves Math Conjecture, JPMorgan Core Infra, IPO Tsunami
+OpenAI model disproved a central conjecture in discrete geometry. JPMorgan reclassified AI from experimental R&D to core infrastructure ($19.8B budget, 2,000 staff). Goldman Sachs projects $160B in 2026 IPO proceeds. SpaceX (~$1.5T), OpenAI (~$1T), Anthropic (~$300B) leading. AI IPO class collectively burning >$25B/year. CoreWeave up 212% from March 2025 IPO.
+
+**Life Impact: MEDIUM-HIGH**
+
+---
+
+### APPLE: WWDC 2026 — Siri AI Overhaul, iOS 27, macOS Golden Gate
+WWDC ran June 8-12. Siri AI rebuilt from scratch with cross-app context awareness. iOS 27, macOS "Golden Gate" announced. Spotlight/Mail/Photos search rebuilt. iCloud shared albums support full-res on Android/Windows. Safari AI tab management. Messages AI reply suggestions.
+
+**Life Impact: MEDIUM**
+
+---
+
+### 3D PRINTING: Prusa Open-Sources ColorMix, Snapmaker Multi-Color
+Prusa announced open-source ColorMix engine for PrusaSlicer and EasyPrint. Snapmaker Orca V2.3.3 Beta adds native Full Spectrum color mixing. Axtra3D expanded European operations (Vicenza, Italy). Chinese patent proposes variable extrusion head eliminating nozzle changes.
+
+**Life Impact: LOW-MEDIUM**
+
+---
+
+### COPENHAGEN HOUSING: Nykredit Forecasts 13.7% Price Rise in 2026
+Prices remain ~62,900 DKK/m² median. Nykredit expects 13.7% rise in 2026 (vs national 4-6% consensus). Two-speed market between Copenhagen and rest of Denmark accelerating. 80m² apartment averages 5.3M DKK. Supply constraints from green building reqs remain structural.
+
+**Life Impact: VERY HIGH**
+
+---
+
+### CROSSFIT: Individual Online Semifinals Live (June 11-15)
+Individual Online Semifinals happening June 11-15. Team Semifinals wrapped June 4-8. Masters event June 12-14 in Colombia. 20th CrossFit Games: July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW**
+
+---
+
+### Sources
+- [Al Jazeera - Denmark New Government](https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists)
+- [Wikipedia - Frederiksen III Cabinet](https://en.wikipedia.org/wiki/Frederiksen_III_Cabinet)
+- [DR - Alternativet Folketingsvalg 2026](https://www.dr.dk/nyheder/politik/folketingsvalg/baade-alternativet-og-borgernes-parti-staar-til-komme-ind)
+- [CNN - US Strikes Iran June 9-10](https://www.cnn.com/2026/06/09/world/live-news/iran-war-trump-israel)
+- [CNN - Iran War June 4](https://www.cnn.com/2026/06/04/world/live-news/iran-trump-war-news)
+- [Britannica - 2026 Iran War](https://www.britannica.com/event/2026-Iran-war)
+- [Carnegie - Putin Losing Grip](https://carnegieendowment.org/podcasts/the-world-unpacked/putin-is-losing-his-grip-on-russia)
+- [RUSI - Russia Hybrid Escalation](https://www.rusi.org/explore-our-research/publications/commentary/russia-losing-time-putins-2026-hybrid-escalation)
+- [European Parliament - News](https://www.europarl.europa.eu/news/en)
+- [EU Council - Forward Look June](https://www.consilium.europa.eu/en/press/press-releases/2026/06/05/forward-look-2026/)
+- [Crescendo AI - Latest AI News](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+- [Built In - 2026 IPO Watchlist](https://builtin.com/articles/top-tech-ipos-2026)
+- [Klover - AI IPO Landscape](https://www.klover.ai/complete_2026_ai_ipo_landscape_every_company_every_bet_every_risk_indepth_analysis_2026/)
+- [Apple - WWDC 2026](https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/)
+- [TechCrunch - WWDC Everything Announced](https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/)
+- [3DPrint.com - June 6 Briefs](https://3dprint.com/326493/3d-printing-news-briefs-6-6-2026/)
+- [3DPrint.com - June 13 Briefs](https://3dprint.com/326827/3d-printing-news-briefs-6-13-2026/)
+- [Investropa - Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [Investropa - Copenhagen Forecasts](https://investropa.com/blogs/news/copenhagen-price-forecasts)
+- [TXM - Copenhagen Housing 2026](https://txmestate.com/news/copenhagens-housing-market-in-2026-what-investors-and-homebuyers-should-know)
+- [Velites - CrossFit Semifinals 2026](https://eu.velitessport.com/blogs/news/crossfit-semifinals-2026)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
