@@ -1,5 +1,95 @@
 # Daily News Log
 
+## 2026-06-17
+
+### IRAN-US WAR: Framework Deal Reached, Strait of Hormuz Reopening
+Trump and Iran announced a framework agreement to end 3+ months of war and reopen the Strait of Hormuz. A signing ceremony is set for Friday in Switzerland, with Pakistan as key mediator. Trump authorized "toll free opening" of the Strait and immediate removal of the US naval blockade. Oil prices dropped $4+/barrel on the news. However, critical issues remain unresolved and are deferred to further negotiations. Global markets surged.
+
+**Life Impact: VERY HIGH** — Energy prices should start easing if the deal holds. If you drive or heat with gas/oil, this hits your wallet directly. The Strait handles ~20% of global oil/gas — its reopening is the single biggest factor in near-term fuel cost relief. Watch whether the Friday signing actually happens.
+
+---
+
+### DANISH POLITICS: Frederiksen III Government Formed — Coalition Deadlock Over
+After 2+ months of negotiations following the March snap election, Mette Frederiksen formed her third government on June 3. The center-left minority coalition includes Social Democrats, Socialist People's Party (SF), Radikale Venstre, and Moderates — controlling 82 of 179 seats (needs 90 for majority, so relies on support agreements). For the first time in Danish history, women outnumber men in cabinet (11 of 21 ministers). Key names: Pia Olsen Dyhr (SF), Lars Løkke Rasmussen (Moderates), Martin Lidegaard (Radikale). The Greenland/Trump crisis remains the immediate foreign policy challenge.
+
+**Life Impact: HIGH** — This government directly shapes your tax, housing, and climate policy. The minority position means legislation will require cross-bloc deals, making policy outcomes less predictable. Housing regulation and green building requirements are likely to tighten further under this coalition.
+
+---
+
+### G7 SUMMIT: Evian Wrapping Up Today — Ukraine Back on Agenda
+The G7 summit (June 15-17, Evian-les-Bains, France) has been dominated by the Iran deal and Ukraine. Trump met Zelenskyy as European leaders pushed to keep Ukraine front and center. The EU is preparing the first payment under a €90 billion support loan covering two-thirds of Ukraine's needs for 2026-2027. Russia wants the Anchorage Agreement as starting point for settlement; Ukraine and Europe want a new framework. AI regulation and economic growth also on the agenda.
+
+**Life Impact: MEDIUM** — The €90B EU loan means continued EU fiscal commitment to Ukraine, funded partly by member states. Denmark's new government is explicitly pro-Ukraine, so expect continued Danish contributions. The broader geopolitical framing affects energy prices and EU defense spending.
+
+---
+
+### EU: €3 Customs Duty on ALL Low-Value Imports Starts July 1
+From July 1, 2026, every item entering the EU valued at €150 or less will be hit with a flat €3 customs duty per item. This kills the old exemption where sub-€150 goods entered duty-free. The €3 rate is temporary (until July 2028), after which normal tariff rates apply based on product classification. Multiple identical items under one tariff code may count as one charge, but different product categories in the same parcel each trigger the duty separately. This is specifically targeting cheap e-commerce imports (Temu, Shein, AliExpress, etc.) and addresses valuation fraud and parcel splitting.
+
+**Life Impact: HIGH** — This directly affects you. Your BrickLink purchases from non-EU sellers will now cost €3 more per item category. AliExpress/Temu orders for 3D printing parts, electronics, hobby supplies — all hit. If you order small items frequently, the cumulative cost adds up fast. Consider batching orders or sourcing EU-based alternatives where possible before July 1.
+
+---
+
+### EU: Five Countries Push Stronger Democratic Safeguards for Future Members
+Germany, France, Netherlands, Belgium, and Luxembourg are pushing for tougher mechanisms to act faster against democratic and legal breaches in future EU members. This is explicitly framed as "lessons learned from the Orbán era" — a safeguard so the EU can respond more quickly if a member state backslides on rule of law. Separately, the EU launched a new Innovation Platform connecting startups with funding and services, and Parliament approved new foreign investment screening rules replacing measures expiring June 30.
+
+**Life Impact: LOW-MEDIUM** — Institutional plumbing, but important for EU coherence. The innovation platform could be relevant if you're building anything startup-adjacent.
+
+---
+
+### AI: Agentic AI Hits Enterprise Mainstream
+Gartner now projects 40% of enterprise applications will integrate AI agents by end of 2026. McKinsey reports 62% of organizations experimenting with agents but only 23% have scaled them. JPMorgan Chase reclassified AI from "experimental R&D" to "core infrastructure" with a $19.8B tech budget and 2,000 dedicated AI staff. Tempus (clinical AI) upgraded its oncology platform to use agentic AI for autonomous multi-step drug development workflows. The shift is from chatbots to systems that execute — research, coding, legal, payments, support.
+
+**Life Impact: MEDIUM-HIGH** — If you work in tech or build AI-adjacent tools, this is your market reality now. The "agent" framing has moved from hype to budget line items. The JPMorgan signal is important: when banks reclassify something from R&D to infrastructure, adoption is no longer optional for competitors.
+
+---
+
+### 3D PRINTING: Prusa Open-Sources ColorMix — Dozens of Colors from 5 Spools
+Prusa released ColorMix under MIT license, integrated into PrusaSlicer 2.9.6 and EasyPrint. It creates new shades by printing alternating layers of different filament colors, using a halftone model calibrated against real FFF prints. With 5 CMYKW spools you get dozens of shades via a painting interface. Currently only calibrated on Prusament PLA on Prusa XL — other materials/brands less accurate. Prusa is launching a dedicated Prusament CMYKW filament set. Separately, a Chinese patent describes intelligent FFF recovery from nozzle clogs and filament breaks, and Axtra3D opened a major new facility in Italy.
+
+**Life Impact: MEDIUM** — If you have a Prusa with MMU or a multi-material setup, this is immediately usable and genuinely changes what's possible with FDM color printing. The MIT license means the community will extend calibration to other printers/materials quickly. The CMYKW filament set is worth watching for.
+
+---
+
+### COPENHAGEN HOUSING: Market Update — Nykredit Forecasts 13.7% Rise in 2026
+Prices remain at ~62,900 DKK/m² median. The big new data point: Nykredit forecasts Copenhagen apartment prices will rise 13.7% across 2026, significantly above the national consensus of 4-6%. Time-on-market has hit levels not seen since the mid-2000s bubble. Supply of apartments for sale is at the lowest level ever recorded. The structural drivers from the April update remain: green building requirements adding 8-12% to construction costs, new supply down ~15%. No signs of the supply squeeze easing.
+
+**Life Impact: VERY HIGH** — If you're considering buying or your ejerforening is dealing with property valuations (as your Fionia Hus 2 board work suggests), the 13.7% Nykredit forecast is aggressive but backed by the record-low supply data. If you're selling, this is favorable. If buying, every month of delay costs real money.
+
+---
+
+### CROSSFIT: Individual Online Semifinals Just Wrapped
+The online Individual Semifinals ran June 11-15, with Team Semifinals June 4-8. Colombia hosted a Masters Semifinal June 12-14. The remaining live Semifinals continue through June. The 2026 Games (July 24-26, SAP Center, San Jose) mark the 20th anniversary of the CrossFit Games.
+
+**Life Impact: LOW** — Relevant if you're following the competitive season. The 20th anniversary Games should be a bigger production than usual.
+
+---
+
+### Sources
+- [NBC News - US and Iran Framework Deal](https://www.nbcnews.com/news/us-news/deal-reached-united-states-iran-war-rcna350039)
+- [PBS - Iran US Initial Deal](https://www.pbs.org/newshour/world/iran-and-u-s-reach-an-initial-deal-to-extend-the-ceasefire-and-open-the-strait-of-hormuz-but-challenges-remain)
+- [NPR - US Iran Deal Updates](https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates)
+- [Al Jazeera - Denmark New Government](https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists)
+- [Wikipedia - Frederiksen III Cabinet](https://en.wikipedia.org/wiki/Frederiksen_III_Cabinet)
+- [European Pravda - Denmark Government](https://www.eurointegration.com.ua/eng/news/2026/06/5/7239050/)
+- [NPR - G7 Summit Ukraine](https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit)
+- [Euronews - G7 Summit](https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal)
+- [EU Taxation and Customs - Low Value Import Duty](https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en)
+- [Global VAT Compliance - EU €3 Duty](https://www.globalvatcompliance.com/globalvatnews/eu-low-value-customs-duty/)
+- [Euronews - Five EU Countries Push Safeguards](https://www.euronews.com/my-europe/2026/06/10/five-eu-countries-push-tougher-safeguards-for-future-members-to-avoid-orban-repeat)
+- [Crescendo AI - Latest AI News](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+- [AIapps - AI News June 2026](https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/)
+- [Prusa Blog - ColorMix](https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/)
+- [Notebookcheck - Prusa ColorMix](https://www.notebookcheck.net/3D-printer-revolution-Prusa-ColorMix-offers-new-possibilities-for-color-printing.1311230.0.html)
+- [3DPrint.com - News Briefs June 2026](https://3dprint.com/326493/3d-printing-news-briefs-6-6-2026/)
+- [Investropa - Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [TXM Estate - Copenhagen Prices 2026](https://txmestate.com/news/copenhagen-real-estate-prices-2026-market-analysis-trends)
+- [CrossFit Games - 2026 Season](https://games.crossfit.com/article/2026-crossfit-games-season-dates-and-details-division)
+- [Velites - CrossFit Semifinals 2026](https://eu.velitessport.com/blogs/news/crossfit-semifinals-2026)
+- [WEF - Technology Pioneers 2026](https://www.weforum.org/stories/2026/06/meet-the-2026-technology-pioneers/)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
