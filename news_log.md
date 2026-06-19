@@ -1,5 +1,95 @@
 # Daily News Log
 
+## 2026-06-19
+
+### IRAN-US WAR: Peace Deal Signing Today in Geneva — Strait of Hormuz Reopening
+**UPDATE from Apr 7 (Day 38 escalation).** The war is effectively over. On June 14, the US and Iran reached a 14-point memorandum of understanding — the "Islamabad MOU" — to end 100+ days of conflict. Trump and Iranian President Pezeshkian have both signed electronically. The formal signing ceremony is today (June 19) in Geneva. Key terms: the Strait of Hormuz reopens without tolls, the US lifts its naval blockade on Iranian ports, and a 60-day window begins for negotiations on Iran's nuclear program and sanctions relief. Oil markets have already begun stabilizing, though experts warn the nuclear negotiations will be the real test. The war halted Middle East flights, rerouted global shipping, and caused fuel shortages across Asia.
+
+**Life Impact: HIGH** — Oil and energy prices should begin normalizing. If you're flying through or near the Middle East, airspace reopening will restore routes. The 60-day nuclear negotiation window is the next milestone to watch.
+
+---
+
+### EU POLITICS: Parliament Approves EU-US Trade Deal (440-151)
+The European Parliament approved the EU-US trade deal on June 16 — 440 votes in favor, 151 against, 50 abstentions. The deal eliminates EU tariffs on most US industrial and agricultural goods, while the US caps tariffs on European imports at 15%. This fulfills the EU's obligations under last year's Turnberry deal, preventing Trump's threatened escalation. Safeguard clauses let the EU suspend the deal if the US breaches the 15% ceiling. Next step: formal ratification by all 27 member states.
+
+**Life Impact: MEDIUM-HIGH** — Consumer prices on US goods in Denmark should drop. The 15% cap provides stability, but ratification by all 27 states is not guaranteed. Watch for Danish parliamentary debate on ratification.
+
+---
+
+### EU POLITICS: Migration Returns Deal & Foreign Investment Screening
+The Council and Parliament clinched a deal on faster EU-wide procedures for returning undocumented migrants — a controversial measure that splits the political spectrum. Separately, Parliament approved new foreign investment screening rules replacing measures expiring June 30, with specific protections for the EU steel industry. Also agreed: stronger air passenger rights (compensation for 3-hour delays, faster reimbursement, fee-free child seating, price transparency). Coming up: EU summit to discuss Ukraine, defense, the next multi-year budget, and strengthening the carbon border adjustment mechanism (CBAM).
+
+**Life Impact: MEDIUM** — The passenger rights improvements are immediately useful if you fly within Europe. CBAM strengthening will affect prices of carbon-intensive imports. The migration deal will shape Danish political debate.
+
+---
+
+### DANISH POLITICS: Frederiksen III Government Formed — Policy Priorities Set
+**UPDATE from Apr 7 (coalition talks ongoing).** After the longest government formation in Danish history (March 24 → June 3), Frederiksen secured her third term leading a left-leaning minority coalition: Social Democrats + Socialist People's Party (SF/Green Left) + Social Liberals (Radikale Venstre) + Moderates. Key policy commitments: free dental care for all Danes by 2030, sales tax elimination on fruit and vegetables, free public transport for under-22s, rapid military buildup, and diplomatic talks with the US over Greenland. Frederiksen was ranked by Politico as Europe's second most powerful person and made Time's 100 Most Influential list for 2026.
+
+**Life Impact: HIGH** — The tax-free fruit/vegetables and dental care plans directly affect household budgets. Free youth transport reshapes Copenhagen commuting patterns. Military spending will affect the national budget. These policies will roll out over the coming months.
+
+---
+
+### COPENHAGEN HOUSING: Prices Surge Further — Now 75,777 DKK/m² Average
+**UPDATE from Apr 7 (62,900 DKK/m² median).** The market has accelerated. Average asking price is now 75,777 DKK/m² in Copenhagen. Year-on-year increases: +25.4% in Copenhagen municipality, +22.9% in Frederiksberg. Nykredit forecasts a further 17.4% increase through 2026. Supply remains at record lows, driven by limited new construction and high demand from migration, international workers, and investors. An 80m² apartment now averages over 6 million DKK. The gap between Copenhagen and the rest of Denmark continues widening — most regions see only single-digit growth.
+
+**Life Impact: VERY HIGH** — If you own in Copenhagen, your equity is rising fast. If you're looking to buy, the window is tightening further — 17.4% forecast growth means waiting costs roughly 1 million DKK per year on an average apartment. The structural supply shortage shows no signs of easing.
+
+---
+
+### AI: Claude Opus 4.8, GPT-5.5 Instant, Meta's AI Restructuring
+**UPDATE from Apr 7 (MCP milestone, neuro-symbolic breakthrough).** Major model releases: Anthropic launched Claude Opus 4.8 (May 28) with stronger agentic coding and improved honesty — it flags uncertainties better and makes fewer unsupported claims. OpenAI released GPT-5.5 Instant. Google shipped Gemini 3.5 Flash. MiniMax M3 cut per-token compute to 1/20th of predecessors with 1M-token context. NVIDIA unveiled Cosmos 3, the first open "omnimodel" for physical AI combining vision, world simulation, and action generation. Meta laid off ~8,000 employees and reassigned 7,000 to AI teams in a major restructuring. The agentic AI shift continues — AI moving from chat to autonomous task completion in coding, legal, payments, and research.
+
+**Life Impact: MEDIUM** — Opus 4.8's improved reliability matters if you use Claude for work. The agentic shift means AI tools you use daily are getting substantially more capable at executing multi-step tasks autonomously.
+
+---
+
+### INNOVATION: NVIDIA RTX Spark Superchip & Photonic Computing Breakthrough
+NVIDIA unveiled the RTX Spark Superchip at Computex — moving beyond GPUs into full AI PC silicon for laptops and mini-PCs, combining Blackwell RTX graphics with Grace CPU. Expected in Windows devices from major OEMs. Separately, scientists created a chip that generates, steers, and reads light-based information in a single device — a major leap toward ultra-fast, energy-efficient photonic computing. The WEF announced 100 Technology Pioneers for 2026, with innovations spanning nuclear fusion, lunar resource extraction, and neurosurgical robotics. Micro-datacenters using breakthrough cooling tech are appearing at suburban scale for neighborhood AI needs.
+
+**Life Impact: MEDIUM** — The RTX Spark could make local AI processing viable on consumer laptops within a year. Photonic computing is further out but represents a fundamental shift in computing efficiency.
+
+---
+
+### CROSSFIT: Online Semifinals Complete, 7 Spots Left for the Games
+**UPDATE from Apr 7 (quarterfinals done).** The Individual Online Semifinals ran June 11-15 — five workouts to determine the final seven men and seven women heading to the 2026 Games. After 10 in-person Semifinals, 23 athletes per gender have already qualified. Notable names like Jayson Hopper, James Sprague, Danielle Brandon, and Lucy Campbell are in. Justin Medeiros has not yet qualified. The Games remain set for July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — Competitive season tracking. The Games in July will be the main event.
+
+---
+
+### 3D PRINTING: Metal Printers Getting Cheaper, Color Printing Improving
+Mastrex launched the MX300 metal LPBF 3D printer at $185,000 — pushing metal printing closer to accessible pricing. Sinterit introduced the BIANCO2, a compact SLS printer with RF CO₂ laser and open materials. Snapmaker Orca V2.3.3 Beta added Full Spectrum support, enabling intermediate colors by alternating filament layers. Sandvik released a copper alloy powder for space manufacturing applications. Axtra3D expanded in the EU with a larger Italian facility.
+
+**Life Impact: LOW** — The Snapmaker color update is useful if you have one. Metal printing is still expensive but trending down. No major consumer breakthroughs this cycle.
+
+---
+
+### Sources
+- [NBC News - US Iran Deal](https://www.nbcnews.com/news/us-news/deal-reached-united-states-iran-war-rcna350039)
+- [Al Jazeera - Iran MOU Signed](https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides)
+- [CNN - Iran Deal June 14](https://www.cnn.com/2026/06/14/world/live-news/iran-war-trump-israel)
+- [NPR - US Iran Deal Updates](https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates)
+- [Global Banking & Finance - EU Parliament Approves Trade Deal](https://www.globalbankingandfinance.com/european-parliament-votes-approve-eu-us-trade-deal/)
+- [IndexBox - EU Parliament Vote](https://www.indexbox.io/blog/european-parliament-approves-eu-us-trade-agreement/)
+- [Euronews - EU-US Deal Safeguards](https://www.euronews.com/my-europe/2026/06/02/trade-meps-back-euus-deal-despite-watered-down-safeguards)
+- [EU Council - Migration Returns Deal](https://www.consilium.europa.eu/en/press/press-releases/2026/06/01/council-and-parliament-reach-deal-on-returns-of-illegally-staying-third-country-nationals/)
+- [EU Council - Forward Look June](https://www.consilium.europa.eu/en/press/press-releases/2026/06/05/forward-look-2026/)
+- [House of Commons - Denmark Election](https://commonslibrary.parliament.uk/research-briefings/cbp-10847/)
+- [Courthouse News - Frederiksen Third Term](https://www.courthousenews.com/denmarks-frederiksen-opens-third-term-with-women-led-coalition/)
+- [Informed Clearly - Denmark Coalition](https://informedclearly.com/en/politics/53904/denmark-frederiksen-coalition-third-term-2026)
+- [DinBoligAgent - Copenhagen Prices](https://www.dinboligagent.dk/boligpriser/koebenhavn)
+- [BoligSignal - Copenhagen 2026](https://boligsignal.dk/blog/boligpriser-koebenhavn-2026)
+- [Nykredit - Boligprisprognose](https://www.nykredit.dk/dit-liv/bolig/boligprisprognose/)
+- [Anthropic - Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
+- [Crescendo AI - Latest AI News](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+- [LLM Stats - AI News June 2026](https://llm-stats.com/ai-news)
+- [WEF - Technology Pioneers 2026](https://www.weforum.org/stories/2026/06/meet-the-2026-technology-pioneers/)
+- [CrossFit Games - Semifinals](https://games.crossfit.com/article/2026-individual-online-semifinals-workouts-released)
+- [3DPrint.com - June 18 News Briefs](https://3dprint.com/327155/3d-printing-news-briefs-6-18-2026/)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
