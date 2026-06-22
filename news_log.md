@@ -1,5 +1,82 @@
 # Daily News Log
 
+## 2026-06-22
+
+### IRAN/US WAR: MoU Signed to End Conflict, But Talks Stall in Switzerland
+*Continuing from Apr 7 — was day 38 of escalation; now resolved into ceasefire framework.*
+The 109-day US-Israel war against Iran and its allies (Feb 28 – Jun 17) has formally ended with a Memorandum of Understanding signed by Trump and Pezeshkian on June 17. The MoU aims to bring full formal peace within 60 days. However, as of June 21, follow-up talks in Switzerland are already shaky — Trump issued new threats mid-negotiation. During the war: Supreme Leader Khamenei was assassinated, Dubai International Airport was hit by drone strikes (temporarily closing the world's busiest hub), the Strait of Hormuz was disrupted, and global shipping was rerouted away from both the Strait and the Red Sea. Hezbollah rejected a separate Lebanon-Israel ceasefire plan on June 4.
+
+**Life Impact: VERY HIGH** — Oil prices and shipping costs spiked during the war and are only now stabilizing. If you flew through Dubai or the Middle East recently (your SAS Copenhagen-Geneva flight suggests active travel), route disruptions may still linger. Energy prices in Denmark/EU remain elevated. The 60-day peace clock is ticking — failure means renewed crisis.
+
+---
+
+### DANISH POLITICS: Frederiksen Forms Third Government, Greenland Crisis Persists
+*Continuing from Apr 7 — coalition talks were ongoing; now resolved.*
+Mette Frederiksen announced a centre-left minority government on June 1, ending 2+ months of deadlock after the March snap election. She secured a third consecutive term as PM. The government faces immediate crises: the Greenland standoff with the US (Trump threatened 25% tariffs on Denmark by June 1 but reversed course at Davos in January, pledging no force or tariffs — though the sovereignty dispute remains unresolved), a military buildup driven by the Ukraine war, and managing Denmark's defense posture in a rapidly shifting European security landscape.
+
+**Life Impact: HIGH** — Government is now formed, so policy direction is set. Watch for the new coalition's housing policy, defense spending (affects taxes), and how they navigate the Greenland situation. The tariff threat was walked back but could resurface.
+
+---
+
+### EU: European Council Sets Defense & Expansion Agenda, AI Act Gets Major Overhaul
+*Continuing from Apr 7 — Parliament had just simplified AI rules; now the full amendment package is agreed.*
+The June 18-19 European Council reaffirmed support for Ukraine, welcomed the second accession conferences with both Ukraine and Moldova (fundamentals cluster opened for both on June 15), and pushed for faster delivery of air defense systems and drones. On the legislative front, the "Digital Omnibus" amendments to the EU AI Act were provisionally agreed on May 7 — the first amendments since adoption. Key changes: high-risk AI obligations delayed 16 months (to Dec 2027), AI regulatory sandboxes postponed 1 year, and two new prohibitions added (AI-generated non-consensual intimate imagery and CSAM, effective Dec 2026). Separately, new EU air passenger rules secured: compensation for 3-hour delays maintained, faster reimbursement, fee-free child seating, and flight price transparency. The Council also debated the 2028-2034 budget framework.
+
+**Life Impact: HIGH** — The AI Act delays give builders/users more runway before compliance kicks in. If you work with AI in the EU, the Dec 2027 deadline for high-risk systems is the new mark. The air passenger rules directly affect your travel. Ukraine/Moldova accession will reshape the EU over the coming decade.
+
+---
+
+### AI: Claude Opus 4.8, GPT-5.5, Gemini 3.5 — Plus 100B Models for $1.25/hr
+Major model releases this month: Anthropic's Claude Opus 4.8, OpenAI's GPT-5.5 Instant, and Google's Gemini 3.5 Flash all set new benchmarks. On the efficiency front, Orion trained a 100-billion-parameter model for just $1.25/hour, and MiniMax M3 cut per-token compute to 1/20th of previous models with 9x faster prefilling on 1M-token contexts. Agentic AI is the dominant theme — Zoom launched ZoomMate ($20/user/month) integrating autonomous AI directly into live meetings with Salesforce/Jira/ServiceNow connections. Five Eyes nations (US/AU/CA/NZ/UK) jointly published agentic AI security guidance identifying five risk categories.
+
+**Life Impact: MEDIUM-HIGH** — Model competition is driving prices down and capabilities up fast. The Orion cost breakthrough means powerful AI is accessible to small teams/individuals. ZoomMate signals AI agents entering everyday work tools. The Five Eyes security guidance suggests regulation of agentic AI is coming.
+
+---
+
+### COPENHAGEN HOUSING: Record Low Supply, Families Fleeing to Suburbs
+*Continuing from Apr 7 — prices were up 20% YoY; trend deepening.*
+Prices remain at ~62,900 DKK/m² median. The new data point: time-on-market has dropped to levels not seen since the mid-2000s housing bubble, and apartment supply in Copenhagen hit the lowest level ever recorded. København K saw a 9.5% price surge from December to June alone. Nykredit now forecasts 13.7% price growth for Copenhagen in 2026 (revised up), with 3.1% in 2027. A demographic shift is underway: more people are leaving Copenhagen and Frederiksberg than moving in — primarily couples in their 30s with young children seeking houses with gardens within commuting distance. This outflow is reinforcing the suburban/commuter belt market.
+
+**Life Impact: VERY HIGH** — If you're considering buying in Copenhagen, the supply crunch is now at historic extremes. The family exodus to suburbs could signal either a coming correction in city prices (less demand) or continued suburban price growth (more competition there). The 13.7% annual forecast is aggressive — the window continues to narrow.
+
+---
+
+### 3D PRINTING: Stratasys Acquires Markforged, Holographic Printing Arrives
+Stratasys announced a $42.5M all-cash acquisition of Markforged (from Nano Dimension) on May 27, consolidating two major players in industrial FFF/continuous carbon fiber printing. Nano Dimension keeps the Metal Binder Jetting line. Expected to close H2 2026. In research news, a holographic 3D printing method can now solidify millimeter-scale objects in seconds and centimeter-scale objects in minutes — enabling cell-compatible biomedical printing. Mastrex launched the MX300 metal LPBF printer at $185K with dual 500W lasers. Snapmaker released Orca V2.3.3 Beta with native Full Spectrum multi-color support via filament layer alternation.
+
+**Life Impact: LOW-MEDIUM** — The Stratasys-Markforged consolidation matters if you use industrial printers (fewer vendors, but potentially better integrated platforms). The Snapmaker Full Spectrum feature is cool for hobbyists. Holographic printing is lab-stage but could be transformative for medical applications.
+
+---
+
+### CROSSFIT: Online Semifinals Wrap Up, Games Field Set for San Jose
+*Continuing from Apr 7 — Quarterfinals were just done; now Semifinals complete.*
+Individual Online Semifinals ran June 11-15, with the top 2,000 worldwide from Quarterfinals competing in 5 workouts. Team Online Semifinals were June 4-8. The final seven men and seven women qualified through the online route. The leaderboard was finalized by June 29 (pending). The 2026 CrossFit Games field is now set: 30 men, 30 women, and 20 teams will compete July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — The competitive season is winding toward the Games. If you follow specific athletes, the qualified field should be public shortly.
+
+---
+
+### Sources
+- [Al Jazeera — Denmark New Government](https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists)
+- [European Council — June 18-19 Conclusions](https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/)
+- [Inside Privacy — EU AI Act Digital Omnibus](https://www.insideprivacy.com/artificial-intelligence/eu-ai-act-update-timeline-relief-targeted-simplification-and-new-prohibitions/)
+- [Al Jazeera — Iran MoU Signing](https://www.aljazeera.com/news/liveblog/2026/6/17/iran-war-live-israel-kills-four-in-lebanon-as-trump-criticises-netanyahu)
+- [Al Jazeera — Iran-US Talks Switzerland](https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon)
+- [Britannica — 2026 Iran War](https://www.britannica.com/event/2026-Iran-war)
+- [CNN — Iran War June 4](https://www.cnn.com/2026/06/04/world/live-news/iran-trump-war-news)
+- [Investropa — Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [Daily Northern — Copenhagen Suburbanization](https://www.dailynorthern.com/22739/copenhagen-housing-market-pushes-buyers-to-suburbs/)
+- [TXM — Copenhagen Property Prices 2026](https://txmestate.com/news/copenhagen-real-estate-prices-2026-market-analysis-trends)
+- [AIApps — AI News June 2026](https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/)
+- [AI Startup Edge — AI News June 2026](https://aistartupedge.com/ai-news-june-2026/)
+- [3DPrint.com — June 20 News Briefs](https://3dprint.com/327335/3d-printing-news-briefs-6-20-2026/)
+- [BusinessWire — Stratasys Markforged Acquisition](https://www.businesswire.com/news/home/20260527498834/en/Stratasys-to-Acquire-MarkForged-Inc.-Expanding-Aerospace-Defense-and-Industrial-Production-Capabilities)
+- [CrossFit Games — 2026 Semifinals Overview](https://games.crossfit.com/semifinals/overview)
+- [Barbell Spin — Online Semifinals Workouts](https://thebarbellspin.com/crossfit-games/2026-individual-crossfit-online-semifinals-workouts-revealed/)
+- [E3G — EU Leaders June European Council](https://www.e3g.org/news/eu-leaders-face-mounting-geopolitical-pressures-at-june-european-council/)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
