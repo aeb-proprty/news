@@ -1,5 +1,101 @@
 # Daily News Log
 
+## 2026-06-25
+
+### US-IRAN: War Winding Down — Roadmap for Final Deal Signed
+UPDATE from April 7 (Day 38, Iran had rejected ceasefire): The situation has transformed. On June 15 the US and Iran announced an initial deal to end the war and reopen the Strait of Hormuz. On June 19, Trump signed a 14-point Memorandum of Understanding extending the ceasefire. By June 22, mediators Pakistan and Qatar announced both sides agreed to a "roadmap" for a final deal within 60 days, with technical talks continuing at Burgenstock, Switzerland. A communication line is now in place for safe commercial passage through the Strait of Hormuz. A framework to end military operations in Lebanon was also agreed. Nuclear monitoring and sanctions working groups have been established.
+
+**Life Impact: HIGH** — The Strait reopening directly eases global oil/energy prices. If this holds, expect fuel and shipping costs to stabilize. The Lebanon framework also reduces regional instability.
+
+---
+
+### UK POLITICS: Keir Starmer Resigns — Andy Burnham Expected as Next PM
+Starmer announced his resignation on June 22, less than two years after Labour's landslide victory. The crisis built through poor May 2026 local elections and internal Labour dissatisfaction. To make way for Burnham, sitting MP Josh Simons resigned from Makerfield; Burnham won the by-election on June 18 and immediately challenged for the leadership. Leadership nominations open July 9. The UK will have its seventh PM in 10 years.
+
+**Life Impact: MEDIUM** — UK political instability affects EU-UK relations, trade, and the broader European political landscape. Watch for shifts in UK defense and immigration policy under Burnham.
+
+---
+
+### DENMARK: Frederiksen Forms Centre-Left Minority Government
+UPDATE from April 7 (coalition talks dragging on): Resolved. On June 1, Mette Frederiksen announced a centre-left minority government, securing her third consecutive term. The two months of deadlock after the fractured March election are over. The Greenland/Trump crisis remains the top foreign policy issue, though Trump de-escalated in January at Davos, pledging not to use force or tariffs. Greenland PM Jens-Frederik Nielsen maintains "Greenland is not for sale." The government's immediate priorities: defense buildup, managing the US relationship, and the European security environment.
+
+**Life Impact: HIGH** — Government is now in place. Tax policy, housing regulation, defense spending, and green policy can now move forward. The minority status means policy compromises — watch for how the Greens (now 2nd largest) influence housing and climate rules.
+
+---
+
+### HUNGARY: Parliament Bars Orbán's Return With Retroactive Term Limits
+UPDATE from April 7 (Magyar polling neck-and-neck with Orbán): Magyar won the April election and is now PM. On June 15, his Tisza Party-led parliament passed a constitutional amendment capping PM terms at two four-year stints — retroactive, meaning Orbán (who served ~20 years total) is permanently disqualified. Parliament is also unwinding Orbán's public trusts that controlled billions in assets. Hungary dropped its opposition to EU-Ukraine membership talks, which opened on June 15.
+
+**Life Impact: MEDIUM-HIGH** — Orbán's removal already unlocked EU-Ukraine accession talks. This reshapes EU consensus on defense, migration, and enlargement — all of which affect Denmark and the EU broadly.
+
+---
+
+### EU: European Council Summit Sets Defense and Ukraine Agenda
+The June 18-19 summit adopted conclusions on Ukraine (welcomed the second accession conference and opening of the fundamentals cluster), defense (faster delivery of air defense, drones, ammunition), and the next multi-year budget. Energy ministers are working on the European grids package. Environment ministers discussed amending CO2 emission standards for cars/vans. EU-Brazil Investment Forum took place. MEPs voted to strengthen European defense capabilities.
+
+**Life Impact: MEDIUM** — Defense spending increases and energy grid reforms will affect EU budgets and energy policy. The car emissions revision could impact vehicle pricing in Denmark.
+
+---
+
+### AI: Claude Opus 4.8, GPT-5.5 Instant, and the Great American AI Act
+Major model releases this month: Anthropic's Claude Opus 4.8, OpenAI's GPT-5.5 Instant, and Google's Gemini 3.5 Flash all set new performance benchmarks. OpenAI launched "Dreaming V3" memory architecture rolling out to ChatGPT Plus/Pro users (June 4). MiniMax M3 slashes per-token compute to 1/20th of previous models with 9x faster prefilling. Orion trained a 100B-parameter model for just $1.25/hour. On the governance side, a 269-page discussion draft of the "Great American AI Act" was introduced in Congress on June 4 — the most significant US AI regulation attempt yet.
+
+**Life Impact: MEDIUM-HIGH** — The efficiency breakthroughs (MiniMax, Orion) will drive down AI costs significantly. The US AI Act could set global precedent that interacts with the EU AI Act. If you use AI tools daily, these model upgrades are immediately relevant.
+
+---
+
+### INNOVATION: Polariton Computing and Microsoft Quantum Leap
+University of Pennsylvania created "polaritons" — hybrid light-matter particles that could dramatically speed up AI computing while using far less energy, using light instead of electrons through silicon chips. Microsoft unveiled upgrades to its Majorana 2 quantum chip at Build Conference (June), achieving 20-second parity lifetime and 1,000x improvement in switching time reliability. Sodium-ion batteries (made from salt) are gaining traction as cheaper, safer alternatives to lithium for grid storage and EVs.
+
+**Life Impact: MEDIUM** — Polariton computing and quantum advances are pre-commercial but signal where the next computing revolution is heading. Sodium-ion batteries could reduce EV and energy storage costs within 2-3 years.
+
+---
+
+### COPENHAGEN HOUSING: Prices Now ~75,000 DKK/m², Up 14% YoY
+UPDATE from April 7 (prices at ~62,900 DKK/m²): Prices have jumped further. Average apartment price in Copenhagen is now around 75,000 DKK/m², with central/waterfront areas well above that. Median home price ~5.6M DKK (~€749K). Nykredit forecasts 13.7% growth for full-year 2026, then 3.1% in 2027. Supply is at record lows, especially in the capital. Trading activity is up while inventory shrinks — firmly a seller's market. Best value remains in outer districts like Valby/Vanløse with good metro access.
+
+**Life Impact: VERY HIGH** — If you're in the Fioniahus cooperative or considering moves, this market continues to tighten. The 14% annual growth is substantial. The price per m² jump from ~63K to ~75K in under 3 months warrants attention (may reflect different data sources, but the trend is clear).
+
+---
+
+### 3D PRINTING: Holographic Bioprinting and Magnetoelectronic Prints
+EPFL researchers developed holographic tomographic volumetric additive manufacturing — using light-phase control to bioprint tissue-like structures at near-clinical scale, significantly larger than previous holographic methods. Separately, researchers achieved fully 3D printed magnetoelectronics that let printed parts sense their own motion, enabling self-aware 4D mechatronics. Mastrex launched the MX300 metal LPBF printer at $185K (300x300x350mm build volume, dual 500W lasers, industrial alloys). Sinterit announced the BIANCO2 SLS printer. Amazon Prime Day 2026 is bringing deals from Bambu Lab, Anycubic, ELEGOO, and Creality.
+
+**Life Impact: LOW-MEDIUM** — The holographic bioprinting is a research milestone. The magnetoelectronic prints could eventually enable self-sensing mechanisms. If you're looking at printers, watch the Prime Day deals.
+
+---
+
+### CROSSFIT: Online Semifinals Wrapping Up — Games Tickets on the Line
+Team Online Semifinals ran June 4-8; scores locked and under video review until June 22 finalization deadline. CrossFit Body Blueprint leads (36 pts), with Solidarity CrossFit Basecamp (40) and Q21 CrossFit (42) close behind. CrossFit Reykjavík holds 5th. Individual Online Semifinals leaderboard is live — top 7 men and top 7 women qualify for the Games. Finalization by June 29. The 2026 Games (20th edition) remain set for July 24-26 at SAP Center, San Jose.
+
+**Life Impact: LOW** — Semifinal results are being finalized this week. If you're following the competitive season, the individual qualifiers will be confirmed by June 29.
+
+---
+
+### Sources
+- [Al Jazeera - Denmark New Government](https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists)
+- [European Council Conclusions June 18-19](https://www.consilium.europa.eu/en/press/press-releases/2026/06/19/european-council-conclusions-18-and-19-june-2026/)
+- [Bloomberg - Hungary Unwinding Orbán System](https://www.bloomberg.com/news/articles/2026-06-15/hungary-starts-unwinding-orban-system-with-term-limit-clawback)
+- [Helsinki Times - Hungary Term Limits](https://www.helsinkitimes.fi/world-int/28940-hungarian-parliament-bars-orban-return-with-new-term-limit.html)
+- [NBC News - Starmer Resigns](https://www.nbcnews.com/world/united-kingdom/keir-starmer-resigns-prime-minister-andy-burnham-labour-party-britain-rcna257534)
+- [CNN - Starmer Resignation](https://www.cnn.com/2026/06/22/world/live-news/keir-starmer-uk-pm)
+- [CNBC - US-Iran Roadmap](https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html)
+- [NPR - US-Iran Deal](https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates)
+- [NPR - US-Iran MOU](https://www.npr.org/2026/06/19/nx-s1-5863544/trump-us-iran-agreement)
+- [Investropa - Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [TXM - Copenhagen Housing Market 2026](https://txmestate.com/news/copenhagens-housing-market-in-2026-what-investors-and-homebuyers-should-know)
+- [Crescendo AI - AI News](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+- [LLM Stats - AI Updates June 2026](https://llm-stats.com/llm-updates)
+- [3DPrint.com - News Briefs June 24](https://3dprint.com/327529/3d-printing-news-briefs-6-24-2026/)
+- [3DPrint.com - News Briefs June 20](https://3dprint.com/327335/3d-printing-news-briefs-6-20-2026/)
+- [Creative Bloq - 3D Printing Prime Day 2026](https://www.creativebloq.com/3d/live/live-3d-printing-prime-week-deals-have-landed-im-covering-all-discounts-from-bambu-lab-anycubic-elegoo-creality-and-more)
+- [CrossFit Games - 2026 Overview](https://games.crossfit.com/finals/overview)
+- [CF Network News](https://cfnetworknews.com/news)
+- [WEF - Technology Pioneers 2026](https://www.weforum.org/stories/2026/06/meet-the-2026-technology-pioneers/)
+- [Multipural World - June 2026 Headlines](https://multipluralworld.com/world-news-headlines-and-analysis-for-june-2026/)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
