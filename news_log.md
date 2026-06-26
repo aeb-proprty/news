@@ -1,5 +1,124 @@
 # Daily News Log
 
+## 2026-06-26
+
+### GEOPOLITICS: Iran Drone-Strikes Cargo Ship Exiting Strait of Hormuz
+Iran's IRGC struck the Singapore-flagged cargo ship "Ever Lovely" with a drone as it exited the Strait of Hormuz on June 25. The UN's International Maritime Organization paused vessel evacuation operations. Iran declared a new Hormuz transit route "unacceptable," while US Secretary Rubio told the Gulf Cooperation Council in Bahrain there is "zero support" among Gulf states for Iranian transit fees. Iran and Oman announced talks on "future administration" of the Strait.
+
+**Life Impact: HIGH** — Strait of Hormuz disruption directly affects global oil prices and shipping costs. Energy prices in Denmark/EU will feel this. Watch your fuel and heating bills.
+
+---
+
+### GEOPOLITICS: Ukraine Drone Strike Hits Moscow Refinery
+Ukraine launched an unprecedented drone strike on Gazprom's Moscow Refinery on June 24, triggering a major explosion. Russia now faces its worst fuel crisis in years. The attack represents a significant escalation in Ukraine's deep-strike campaign.
+
+**Life Impact: MEDIUM-HIGH** — Could accelerate the war's trajectory in either direction. EU energy markets are sensitive to Russian fuel supply disruptions. Possible upward pressure on gas prices.
+
+---
+
+### EU POLITICS: Council Finalizes EU-US "Turnberry Deal" Trade Agreement
+The EU Council on June 25 formally adopted regulations implementing the August 2025 "Turnberry Deal." Key terms: 15% US tariff ceiling on most EU goods, EU eliminates tariffs on all US industrial goods, and preferential access for US agricultural products. Includes safeguard mechanisms for import surges. Regulations expire end of 2029. Tensions persist over threatened US tariffs on French wines over digital services tax proposals.
+
+**Life Impact: HIGH** — This directly affects prices on imported goods in both directions. Cheaper US industrial goods in EU stores, but potential pressure on EU agricultural producers. Food prices could shift.
+
+---
+
+### EU POLITICS: AI Act Omnibus Amendments Pass, Transparency Rules Aug 2
+The EU Parliament approved Digital Omnibus amendments to the AI Act on June 16, delaying some high-risk system provisions. Article 50 transparency requirements for AI-generated content take effect August 2, 2026. The Commission published a Code of Practice on AI-Generated Content and appointed a 60-member Scientific Panel. EU defense spending hit an estimated 381 billion euros in 2025, and the new AGILE program (115M euros) launched to accelerate defense tech for SMEs/startups.
+
+**Life Impact: MEDIUM-HIGH** — If you build or use AI tools professionally, the August 2 transparency deadline is 5 weeks away. The defense tech AGILE program could be relevant for startups in the space.
+
+---
+
+### DANISH POLITICS: New Coalition's First Folketinget Debate — Migration Takes Center Stage
+The four-party centre-left minority coalition (Social Democrats, SF, Radikale Venstre, Moderates) was formally appointed June 3 with 82 of 179 seats, relying on Enhedslisten support. On June 24, PM Frederiksen and Liberal leader Troels Lund Poulsen clashed on migration in the first question time since the election. Frederiksen pledged migration policy "will not be loosened" and cited a planned deportation reform targeting criminals with foreign backgrounds. Key coalition platform items: abolishing VAT on fruit/vegetables, free dental care, free public transport for under-22s. The Greenland-US crisis remains unresolved — DKK 27.4 billion committed to Arctic defense, 76% of Greenlanders oppose becoming part of the US. DPP MP Allan Feldt was stripped of spokesperson roles after controversial social media posts.
+
+**Life Impact: HIGH** — VAT removal on fruit/vegetables will directly lower grocery bills. Free dental care is a major personal finance shift. Migration policy and Greenland defense spending shape Denmark's political direction for years.
+
+---
+
+### AI: Google Talent Exodus Accelerates — Key Researchers Jump to Anthropic and OpenAI
+Bloomberg reports Jonas Adler and Alexander Pritzel, key Gemini contributors, are leaving Google for Anthropic (June 24). This follows Nobel laureate John Jumper's departure to Anthropic and Noam Shazeer leaving for OpenAI — four senior AI departures from Google in six days. Andrej Karpathy (OpenAI co-founder) also joined Anthropic's pre-training team in May. Pre-IPO equity is the primary draw.
+
+**Life Impact: MEDIUM** — Signals a meaningful shift in where frontier AI capability concentrates. Anthropic is becoming the destination for top talent, which may accelerate its model lead.
+
+---
+
+### AI: Fable 5 Ban Continues — China Responds with $7.4B AI Funding Surge
+Anthropic's Claude Fable 5 and Mythos 5 remain offline since June 12 after a US Commerce Department emergency export-control directive targeting Chinese access. Anthropic couldn't selectively verify user nationality and had to shut down both models entirely. China responded with a record $7.4 billion in single-week AI funding. Zhipu AI's GLM-5.2 (MIT-licensed) now tops open-model rankings running on Huawei chips.
+
+**Life Impact: MEDIUM-HIGH** — If you use Fable 5 or Mythos 5, they're still unavailable. The broader AI decoupling between US and China is reshaping which tools are available where. Open-weight alternatives are gaining ground.
+
+---
+
+### AI: First US Federal AI Framework Drafted + Colorado Law June 30
+The bipartisan Great American AI Act (GAAIA) draft, released June 4, would require frontier model disclosures, third-party audits, and whistleblower protections. Trump's June 2 executive order asks companies to voluntarily submit models for government testing 30 days pre-release. Colorado's comprehensive AI law takes effect June 30. The agentic AI market is projected at $206.5 billion in 2026 (up 139% YoY), though only 15% of enterprises report being fully prepared.
+
+**Life Impact: MEDIUM** — US AI regulation will shape what AI products look like globally. The agentic AI spending surge signals rapid tool evolution ahead.
+
+---
+
+### POLESTAR: Barred from US Sales Under Connected Vehicle Rule
+The Trump administration blocked Polestar from selling new EVs in the US under the Connected Vehicle Rule targeting Chinese-linked software/hardware. Polestar is pivoting to Europe (already 80% of sales) and will only sell remaining US stock of Polestar 3 and 4.
+
+**Life Impact: MEDIUM-HIGH** — If you own or are considering a Polestar, this strengthens Polestar's European focus, which could mean better service/support in Denmark. But it also signals financial pressure on the company — watch for impacts on resale value and long-term viability.
+
+---
+
+### COPENHAGEN HOUSING: Prices at ~75K DKK/sqm, Up 14% YoY
+Average apartment price is approximately DKK 75,000/sqm. A typical 80sqm apartment costs ~DKK 6M. Nykredit forecasts +13.7% for Copenhagen in 2026, slowing to +3.1% in 2027. Mortgage rates: average 3.11% on new loans (March 2026), up 0.35pp on variable-rate. Realkredit Danmark lowered its admin margin on fixed-rate loans (0.68% to 0.57%). Rental vacancy remains at 1-2%. Enghave Brygge Syd breaking ground (1,000 new homes). Nordhavn, Sydhavn, Carlsberg Byen all active. Stricter environmental rules have increased construction costs 8-12%, reducing new supply by ~15%.
+
+**Life Impact: VERY HIGH** — Prices have climbed further since the April update (from ~63K to ~75K/sqm). The Realkredit Danmark margin cut is a small positive for fixed-rate borrowers. Supply remains structurally constrained. If you're buying, the math keeps getting harder.
+
+---
+
+### 3D PRINTING: Prusa CORE One L Ships to Strong Reviews; Elegoo Centauri 2 Launches
+The Prusa CORE One L (300x300x330mm, enclosed CoreXY, $1,799) is shipping and drawing strong reviews — 200% more build volume in only 10% larger footprint, forced-convection chamber hitting 60C 25% faster. Reviewers call it the most reliable large-format CoreXY available. Elegoo launched the Centauri 2 series on June 24 — open-frame CoreXY with CANVAS multicolor system (4-color, instant switching, RFID filament recognition), speeds up to 500mm/s, starting at $299 for base / $379 for Combo — undercutting Bambu Lab on multicolor pricing. Bambu Lab now holds nearly 50% of home 3D printer sales in 2026. Prime Day deals: Bambu P1S at $399 (from $699), Creality K2 Pro combo at $944 (from $1,295).
+
+**Life Impact: MEDIUM** — The CORE One L is worth attention if you want a reliable large-format enclosed printer. The Elegoo Centauri 2 at $299 with multicolor is a significant price disruption. Prime Day deals are ending today (June 26).
+
+---
+
+### CROSSFIT: Semifinals Complete, Games Start July 22
+Semifinal results are in. Syndicate Crown winners: Saxon Panchik (men), Lydia Fish (women). Copa Sur: Kalyan Souza and Anikha Greer. Online Semifinals ran June 4-15; results under review through late June. CrossFit Body Blueprint dropped from 1st to 11th after HQ penalties during Team Online review. Games start July 22 with offsite Bay Area events; main competition at SAP Center July 24-26. Dave Castro confirmed the original hopper from the 2007 Games returns for Friday night.
+
+**Life Impact: LOW** — Relevant if you follow the competitive season. Games are less than a month out. The 2007 hopper return is a fun throwback.
+
+---
+
+### INNOVATION: LEGO Opens Global Manufacturing Innovation Centre
+LEGO officially opened Kornmarken Campus on June 24, its first dedicated global manufacturing innovation centre, investing in next-generation production technologies.
+
+**Life Impact: LOW** — A Danish company milestone. Could signal new product capabilities down the line.
+
+---
+
+### INNOVATION: NASA's Daring Swift Telescope Rescue Launches Tomorrow
+Katalyst Space will launch its LINK robotic spacecraft on June 27 on the final-ever Pegasus XL rocket to rescue NASA's 22-year-old Swift Observatory from orbital decay. The $30M mission, built in 250 days, will raise Swift's orbit over 2-3 months. First commercial in-orbit satellite rescue attempt.
+
+**Life Impact: LOW** — Pure cool factor. If it works, it opens the door to routine satellite life extension.
+
+---
+
+### Sources
+- [Al Jazeera - Iran War Live Updates](https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live)
+- [CNBC - Ukraine Drone Strike Moscow](https://www.cnbc.com/2026/06/24/ukraine-russia-drone-strikes-moscow-escalation.html)
+- [EU Council - EU-US Trade Final Approval](https://www.consilium.europa.eu/en/press/press-releases/2026/06/25/eu-us-trade-council-gives-final-approval/)
+- [EU Parliament - AI Act Omnibus](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1024)
+- [The Local DK - Danish Politics Debate](https://www.thelocal.dk/20260624/danish-party-leaders-discuss-migration-policy)
+- [Bloomberg - Google AI Talent to Anthropic](https://www.bloomberg.com/news/articles/2026-06-24/google-ai-staffers-to-anthropic)
+- [The Next Web - Fable 5 Ban](https://thenextweb.com/news/claude-fable-5-curbs-china-ai-labs)
+- [TechCrunch - Polestar US Ban](https://techcrunch.com/2026/06/25/trump-admin-bars-polestar-from-selling-its-new-evs-in-the-us/)
+- [Investropa - Copenhagen Housing](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [Nationalbanken - Mortgage Rates](https://www.nationalbanken.dk/en/news-and-knowledge/data-and-statistics/banking-and-mortgage-lending/lending/20260430)
+- [TechRadar - Prusa CORE One L Review](https://www.techradar.com/pro/original-prusa-core-one-l-3d-printer-review)
+- [PR Newswire - Elegoo Centauri 2](http://www.prnewswire.com/news-releases/elegoo-launches-open-frame-centauri-2-series-302809189.html)
+- [CrossFit Games - Semifinals](https://games.crossfit.com/leaderboard/semifinals/2026)
+- [LEGO Newsroom - Kornmarken Campus](https://www.lego.com/en-us/aboutus/newsroom)
+- [Space.com - NASA Swift Rescue](https://www.space.com/space-exploration/launches-spacecraft/nasa-swift-rescue)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
