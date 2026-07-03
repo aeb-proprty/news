@@ -1,107 +1,94 @@
 # Daily News Log
 
-## 2026-04-07
+## 2026-07-03
 
-### DANISH POLITICS: Coalition Talks Drag On After Historic Election
-The March 24 snap election left no bloc with a majority. Mette Frederiksen's Social Democrats won 38 seats but with their worst vote share (21.9%) since 1903. The Green Left surged to become the second-largest party (20 seats), and the Danish People's Party made significant gains. The Moderates are now kingmaker. Coalition negotiations are ongoing with no resolution yet. The Greenland/Trump crisis was the catalyst for the snap election and gave Frederiksen a rally-round-the-flag boost.
+### RUSSIA-UKRAINE: Deadliest Strike on Kyiv Since Full-Scale Invasion
+Russia hit Kyiv overnight with 74 missiles and 496 long-range drones — Kyiv's mayor called it "the most massive attack" of the war. At least 30 killed and 90+ injured. A nine-storey residential building was destroyed (64 apartments). Russia claims it targeted military-industrial plants, but ballistic missiles hit civilian areas — a war crime pattern. The strike was likely retaliation for Ukrainian drone attacks in June that disabled Moscow's oil refinery. Ukraine's long-range air campaign is causing fuel shortages inside Russia, and its spring ground offensive has failed to achieve operationally significant gains. Zelenskyy promised a retaliatory raid; drones targeted Crimea overnight.
 
-**Life Impact: HIGH** — A new government will directly affect tax policy, housing regulation, immigration rules, and Denmark's defense posture. If you're in Copenhagen, coalition outcomes on housing and green policy matter immediately.
-
----
-
-### EU POLITICS: Parliament Simplifies AI Rules, Bans Nudifier AI
-The European Parliament agreed on proposals to simplify the EU AI Act's application dates for high-risk systems and voted to ban AI "nudifier" systems outright. Separately, Parliament and Council reached agreement on a major EU Customs Code reform targeting e-commerce and product safety. New EU-wide anti-corruption criminal law framework was also adopted.
-
-**Life Impact: MEDIUM-HIGH** — The AI rule simplification directly affects anyone working with or building AI systems in the EU. The customs reform will affect online shopping from non-EU sellers.
+**Life Impact: MEDIUM** — No direct personal impact, but the escalation cycle raises the risk of broader conflict and continued energy market disruption in Europe. Watch gas prices.
 
 ---
 
-### EU POLITICS: Hungary's Orbán Faces Serious Electoral Challenge
-Péter Magyar, a former Orbán ally turned opposition leader, is polling neck-and-neck with Orbán ahead of Hungary's election. A Magyar victory could unblock EU-Ukraine aid and shift the EU's internal political dynamics significantly.
+### US-IRAN: Ceasefire Holds, Talks Paused for Khamenei Funeral
+*Continuation from April 7 — the conflict has evolved significantly.* The war effectively ended with a ceasefire. On June 17, the US and Iran signed a 60-day memorandum of understanding to negotiate final terms. Key issues on the table: Strait of Hormuz reopening, Iran's frozen assets, sanctions relief, and Tehran's nuclear programme. Talks are currently paused — Ayatollah Khamenei was killed in US-Israeli strikes on Feb. 28, and funeral processions run July 4-9. Qatar and Pakistan reported "positive progress" from indirect Doha talks this week. Next direct meeting to be scheduled after July 9.
 
-**Life Impact: MEDIUM** — An Orbán loss would reshape EU consensus-building, potentially accelerating decisions on defense, migration, and Ukraine support that affect all EU citizens.
-
----
-
-### MIDDLE EAST: US-Iran Conflict Escalates, Day 38
-Iran rejected a US-proposed 45-day ceasefire. Trump demanded Iran reopen the Strait of Hormuz. Both sides exchanged missile attacks. Iran's top spy commander Maj. Gen. Majid Khademi was assassinated. Supreme Leader Khamenei struck a defiant tone. A gunfight erupted outside the Israeli consulate in Istanbul (2 gunmen killed). Lebanon humanitarian crisis deepens with 1M+ displaced.
-
-**Life Impact: HIGH** — Strait of Hormuz closure affects global oil prices and energy costs directly. Escalation risks broader regional war with global economic consequences. Watch fuel prices.
+**Life Impact: HIGH** — The Strait of Hormuz situation directly affects global oil prices and European energy costs. A final deal would stabilize fuel and shipping costs. Failure risks re-escalation.
 
 ---
 
-### AI: Neuro-Symbolic AI Cuts Energy Use 100x While Boosting Accuracy
-Researchers published a breakthrough combining neural networks with symbolic (human-like logical) reasoning. The system helps AI think in steps rather than brute-force, achieving both better accuracy AND roughly 100x less energy consumption. This is significant because AI's growing energy footprint has been a major concern.
+### EU: Google Loses Final Appeal — €4.1B Android Antitrust Fine Confirmed
+The European Court of Justice dismissed Google's last appeal against the €4.1 billion (€4.7B) antitrust fine for abusing Android's market dominance. Google forced device manufacturers to pre-install Search and Chrome as exclusive defaults. The ruling is legally binding and final. This is the EU's biggest-ever antitrust penalty and a landmark win for Brussels regulators.
 
-**Life Impact: MEDIUM** — If this scales, it could dramatically lower the cost and environmental impact of AI services you use daily, and make AI viable in more edge/local devices.
-
----
-
-### AI: MCP Hits 97M Installs, Moves to Linux Foundation
-Anthropic's Model Context Protocol crossed 97 million installs in March. Every major AI provider now ships MCP-compatible tooling. The Linux Foundation announced it will take MCP under open governance — a major step toward it becoming a true industry standard.
-
-**Life Impact: MEDIUM** — MCP becoming a standard means better AI tool interoperability. If you build or use AI tools, this ecosystem matters.
+**Life Impact: MEDIUM** — Signals the EU will keep enforcing against Big Tech. Could lead to more browser/search choice on Android devices and embolden further regulatory action on AI platforms.
 
 ---
 
-### AI: Google Releases Gemma 4 Open Models
-Google launched Gemma 4, open models (Apache 2.0) built for reasoning and agentic workflows. Also unveiled TurboQuant at ICLR 2026 for dramatically reducing AI memory overhead.
+### EU: New €3 Customs Duty on E-Commerce Parcels from July 1
+From July 1, the EU charges a temporary €3 customs duty on all imported parcels worth up to €150, primarily targeting e-commerce from non-EU sellers (Temu, Shein, AliExpress etc.). Aims to protect consumers, support EU businesses, and ensure fair competition. This is part of the broader EU Customs Code reform agreed earlier this year.
 
-**Life Impact: LOW-MEDIUM** — More capable open-source AI models available for local/private use.
-
----
-
-### AI: Utah First State to Let AI Renew Drug Prescriptions
-Utah became the first US state to allow AI systems to directly renew drug prescriptions — moving AI from diagnostic support into actual treatment decisions.
-
-**Life Impact: LOW** — US-only for now, but signals the direction of AI in healthcare globally. Denmark/EU will likely debate similar policies.
+**Life Impact: MEDIUM-HIGH** — If you order from non-EU e-commerce platforms, expect small surcharges on every order starting now. This is a real, immediate pocket-impact.
 
 ---
 
-### COPENHAGEN HOUSING: Prices Jump 20% YoY, Seller's Market Deepens
-Copenhagen apartment prices hit ~62,900 DKK/m² median (~66,226 DKK/m² average), up 20% in one year. Rental vacancy is 1-2% citywide, near 0% in central areas. New construction permits face stricter environmental requirements, adding 8-12% to building costs and reducing new housing supply by ~15%. Forecasts suggest 3-3.5% further annual growth, with a possible 6-10% upside in well-connected neighborhoods.
+### DANISH POLITICS: Frederiksen Forms Minority Coalition — Third Term Begins
+*Continuation from April 7 — coalition talks concluded.* On June 3, Mette Frederiksen was formally appointed to lead a minority coalition: Social Democrats + Socialist People's Party + Radikale Venstre + Moderates (82 of 179 seats). Key policies: animal welfare reform, climate action (70% emissions cut by 2030), pioneering tax on agricultural emissions. Defence spending stays above 3% of GDP, conscription extended to women, EU defence opt-out abolished. Frederiksen continues to firmly reject Trump's Greenland acquisition push, which remains a rallying point for Danish sovereignty.
 
-**Life Impact: VERY HIGH** — If you're looking to buy in Copenhagen, the window is tightening. Supply constraints from green building regs are structural and won't ease soon. Renting is equally squeezed.
-
----
-
-### 3D PRINTING: AI-to-3D Pipeline Matures, Cancer Drug Delivery Breakthrough
-Meshy's Image-to-3D (Meshy-6 engine) is now integrated into Bambu Lab's MakerWorld ecosystem. MIT built a tool to preview FFF print quality before printing (saving failed prints). University of Mississippi demonstrated 3D-printed drug carriers that deliver chemo directly to tumors. AML3D got a $1.84M US Navy contract for submarine parts. ELEGOO showing Jupiter 2 large-format resin printer at RAPID+TCT (April 14-16, Boston).
-
-**Life Impact: LOW-MEDIUM** — The Meshy/MakerWorld integration is immediately useful if you have a Bambu printer. The MIT preview tool could save filament waste. Medical applications are longer-term.
+**Life Impact: HIGH** — The new government's agricultural emissions tax, housing-related policies, and climate goals will affect cost of living, food prices, and building regulations in Copenhagen directly.
 
 ---
 
-### INNOVATION: Agentic AI Era Begins, Biotech Computing Emerges
-2026 marks the transition from AI assistants to Agentic AI — systems that autonomously execute tasks, not just answer questions. Biotech computing (merging biological processes with computing) is emerging as a new field promising lower energy consumption. 86% of new global energy capacity in 2025 was renewable, with solar dominating.
+### AI: Fable 5 Returns Globally After US Export Control Drama
+*New story.* Anthropic launched Fable 5 on June 9. Three days later, the US government imposed export controls after an Amazon research report showed a prompt could bypass some safeguards. Anthropic worked with the government and Amazon to train a new safety classifier. On June 30, the Commerce Department lifted controls. Fable 5 went back online globally July 1, initially at 50% usage caps (full capacity returns July 7). Meanwhile, Trump's administration is operating a de facto licensing system for frontier AI models — despite calling the rules "voluntary." OpenAI's GPT-5.6 Sol is restricted to "trusted partners" only.
 
-**Life Impact: MEDIUM** — Agentic AI will change how you interact with software within the next year. The renewable energy shift helps stabilize long-term energy costs.
-
----
-
-### CROSSFIT: Quarterfinals Done, Semifinals Ahead
-The 2026 CrossFit Open is complete. Quarterfinals wrapped March 26-30. The 2026 Games will be July 24-26 at SAP Center, San Jose. Mayhem Classic Semifinal paying out $59K total. Veteran Arielle Loewen withdrew from the first Semifinal. Sadly, Rob Orlando passed away at 50 after a two-year cancer battle.
-
-**Life Impact: LOW** — Relevant if you follow the competitive season. RIP Rob Orlando — a significant figure in the community.
+**Life Impact: MEDIUM-HIGH** — If you use Claude/AI tools professionally, the export control episode shows how quickly access can be disrupted. The broader de facto licensing regime affects which AI tools you can rely on.
 
 ---
 
-### Sources
-- [ScienceDaily - AI Energy Breakthrough](https://www.sciencedaily.com/releases/2026/04/260405003952.htm)
-- [Al Jazeera - Denmark Election](https://www.aljazeera.com/news/2026/3/24/polls-open-in-key-denmark-elections-clouded-by-trumps-greenland-threat)
-- [YouGov - Danish Election Model](https://yougov.com/en-gb/articles/54384-2026-danish-general-election-final-call-yougov-lss-election-model-shows-close-but-stable-race-between-left-and-right-blocs)
-- [European Parliament - News](https://www.europarl.europa.eu/news/en)
-- [EPC - Danish Elections EU Impact](https://www.epc.eu/events/danish-elections-what-impact-on-european-politics-and-security/)
-- [CNN - Iran War Day 38](https://www.cnn.com/2026/04/06/world/live-news/iran-war-us-trump-oil)
-- [Investropa - Copenhagen Housing](https://investropa.com/blogs/news/copenhagen-housing-prices)
-- [Colliers - Copenhagen Residential Market](https://www.colliers.com/en-dk/news/koebenhavns-boligmarked-midt-i-den-kommunale-valgkamp)
-- [3DPrint.com - News Briefs](https://3dprint.com/325020/3d-printing-news-briefs-4-4-2026/)
-- [Ole Miss - 3D Printed Cancer Drug Delivery](https://olemiss.edu/news/2026/04/3d-printing-could-change-how-cancer-drugs-reach-tumors/index.html)
-- [Fabbaloo - 3D Printing](https://www.fabbaloo.com/news/whos-the-biggest-in-3d-printing-april-5-2026)
-- [ELEGOO - RAPID+TCT 2026](https://www.prnewswire.com/news-releases/elegoo-to-showcase-new-products-and-real-world-3d-printing-applications-at-rapid--tct-2026-302732476.html)
-- [CrossFit Games - 2026 Overview](https://games.crossfit.com/open/overview)
-- [Prism News - CrossFit Quarterfinals](https://www.prismnews.com/hobbies/crossfit/crossfit-games-releases-official-2026-quarterfinal-workout-videos-for-athletes)
-- [Crescendo AI - Latest AI News](https://www.crescendo.ai/news/latest-ai-news-and-updates)
-- [MIT Technology Review - Breakthrough Technologies 2026](https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/)
-- [Nature - Technologies to Watch 2026](https://www.nature.com/articles/d41586-026-00188-6)
-- [UK in a Changing Europe - Denmark Election Analysis](https://ukandeu.ac.uk/squeezed-from-all-sides-what-denmarks-election-tells-us-about-the-crisis-of-the-european-centre-parties/)
+### AI: Claude Sonnet 5 Launches, Anthropic Science Breakthrough
+Anthropic launched Claude Sonnet 5 on June 30 — now the default for all Free and Pro users. Described as the "most agentic Sonnet ever." At Anthropic's AI for Science event, they showed deterministic tools pushing AI biology accuracy from 16.9% to 92.8%. Separately, California signed a deal giving all state agencies access to Claude at 50% discount — a significant government AI adoption milestone.
+
+**Life Impact: MEDIUM** — If you use Claude, Sonnet 5 is already your default and reportedly a significant upgrade for coding and agentic tasks.
+
+---
+
+### US ECONOMY: Jobs Market Slows Sharply — Only 57K Added in June
+America added just 57,000 jobs in June, well below expectations and the lowest since the 2024 slowdown. Leisure and hospitality drove the decline (post-World Cup recruitment spree petered out). Unemployment fell to 4.2%. Tech sector layoffs total 142,000 year-to-date as companies redirect headcount to AI infrastructure. The weak number makes a Fed rate hike this year less likely.
+
+**Life Impact: MEDIUM** — A weaker US economy affects global markets and the dollar-krone exchange rate. The AI-driven tech layoff trend is relevant if you work in tech or with US clients.
+
+---
+
+### COPENHAGEN HOUSING: Prices Up 14% YoY, Market Remains Tight
+*Update from April 7 — the trend continues but growth has moderated slightly.* Average apartment price is now ~75,000 DKK/m² in central areas. Median home price: 5.6M DKK. Nykredit forecasts 13.7% growth in 2026, then 3.1% in 2027. Vacancy rate remains 1-2%. The market is firmly a seller's market with shrinking inventory. The new coalition's green building regulations continue to constrain new supply.
+
+**Life Impact: VERY HIGH** — Still one of the tightest housing markets in Europe. If you're looking to buy or move, prices keep climbing and supply keeps shrinking. The slight moderation from the 20% YoY in April to 14% now suggests the peak growth rate may be passing, but absolute prices are still rising.
+
+---
+
+### VENEZUELA: Earthquake Death Toll Reaches 2,295 — Humanitarian Crisis Deepens
+Twin magnitude 7.2 and 7.5 earthquakes hit Venezuela on June 24. As of July 2: 2,295 confirmed dead, 11,200+ injured, ~58,870 buildings damaged or destroyed. USGS models suggest actual death toll could exceed 100,000. International rescue operations continue but the American-backed government is chronically ill-equipped. Police were caught stealing from ruins. Deep public anger at the regime and military. A 3-year-old boy was pulled alive from rubble after 6 days.
+
+**Life Impact: LOW** — No direct personal impact, but this is the largest natural disaster of 2026 and may affect global aid budgets and Latin American political dynamics.
+
+---
+
+### 3D PRINTING: NASA Prints Metal in Space, Rolls-Royce Opens AM Facility
+Auburn University and NASA demonstrated printing conductive metal structures in microgravity without liquid inks — generating, depositing, and sintering metal nanoparticles on demand. Rolls-Royce opened an additive manufacturing development cell in Bristol for next-gen aircraft engine components, funded by UK MoD. UltiMaker launched the Factor 4 Plus for continuous factory production. 3D Prod acquired Sculpteo, creating one of the largest MJF printer fleets. Queen's University students developed 3D-printed prosthetics for migrants with a harness that moves individual fingers without electronics.
+
+**Life Impact: LOW-MEDIUM** — The NASA space-printing tech is a milestone for manufacturing in space. The Sculpteo acquisition consolidates the on-demand printing market. The prosthetics work shows 3D printing's humanitarian potential.
+
+---
+
+### CROSSFIT: Games Three Weeks Away — July 24-26 in San Jose
+*Update from April 7.* All Semifinals have concluded. The 2026 CrossFit Games take place July 24-26 at the SAP Center in San Jose, California. Athletes who qualified through Semifinals are now in final preparation. Age-Group Online Semifinals qualifiers have also been announced.
+
+**Life Impact: LOW** — Mark your calendar if you follow the competitive season. Three weeks out.
+
+---
+
+### WORLD: America Turns 250, Tesla Surges, Ebola Returns
+Quick hits: America celebrates its 250th birthday on July 4 — Trump speaks at Mount Rushmore, NYC mayor Zohran Mamdani gives a counter-speech. Tesla delivered 25% more cars in Q2 than a year ago (Europe up 57% YoY), but shares fell 7.5%. An Ebola outbreak in the DRC has infected 1,400+ with 438+ dead. Canada announced a 1,000km oil pipeline to its west coast to reduce US dependency. Record US heatwave prompts the Energy Dept to order data centers onto backup power.
+
+**Life Impact: LOW** — Mostly US-centric. The data center power order is a signal of how AI infrastructure competes with basic grid needs.
+
+---
