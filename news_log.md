@@ -1,107 +1,103 @@
 # Daily News Log
 
-## 2026-04-07
+## 2026-07-08
 
-### DANISH POLITICS: Coalition Talks Drag On After Historic Election
-The March 24 snap election left no bloc with a majority. Mette Frederiksen's Social Democrats won 38 seats but with their worst vote share (21.9%) since 1903. The Green Left surged to become the second-largest party (20 seats), and the Danish People's Party made significant gains. The Moderates are now kingmaker. Coalition negotiations are ongoing with no resolution yet. The Greenland/Trump crisis was the catalyst for the snap election and gave Frederiksen a rally-round-the-flag boost.
+### IRAN-US WAR: Strait of Hormuz Erupts Again — Biggest Escalation Since Ceasefire
+The ceasefire has collapsed. On July 6-7, Iran's IRGC fired missiles at three commercial ships in the Strait of Hormuz — a Qatari LNG tanker, a Saudi crude carrier, and a third vessel — the biggest single day of Hormuz attacks since the war began. The US responded July 8 with strikes on 80+ targets including Iranian air defenses, coastal radar, anti-ship missile sites, and 60+ IRGC small boats. Washington reimposed oil sanctions on Iran. Iran retaliated by hitting ~85 targets at US military sites in Kuwait and Bahrain. This all comes during a mass funeral for Supreme Leader Khamenei (killed Feb 28), which began July 4. Trump said the US would "win the war one way or the other." Brent crude spiked. Israel is being frozen out of US-Iran negotiations — its concerns about Iran's nuclear program, missiles, and proxies remain unresolved.
 
-**Life Impact: HIGH** — A new government will directly affect tax policy, housing regulation, immigration rules, and Denmark's defense posture. If you're in Copenhagen, coalition outcomes on housing and green policy matter immediately.
-
----
-
-### EU POLITICS: Parliament Simplifies AI Rules, Bans Nudifier AI
-The European Parliament agreed on proposals to simplify the EU AI Act's application dates for high-risk systems and voted to ban AI "nudifier" systems outright. Separately, Parliament and Council reached agreement on a major EU Customs Code reform targeting e-commerce and product safety. New EU-wide anti-corruption criminal law framework was also adopted.
-
-**Life Impact: MEDIUM-HIGH** — The AI rule simplification directly affects anyone working with or building AI systems in the EU. The customs reform will affect online shopping from non-EU sellers.
+**Life Impact: VERY HIGH** — Direct oil price impact on everything from fuel to groceries. The Hormuz escalation threatens ~20% of global oil transit. If you drive, heat your home, or buy anything shipped, this hits your wallet. Watch energy bills closely.
 
 ---
 
-### EU POLITICS: Hungary's Orbán Faces Serious Electoral Challenge
-Péter Magyar, a former Orbán ally turned opposition leader, is polling neck-and-neck with Orbán ahead of Hungary's election. A Magyar victory could unblock EU-Ukraine aid and shift the EU's internal political dynamics significantly.
+### DANISH POLITICS: Trump Revives Greenland Annexation Threat at NATO Ankara Summit
+At the NATO summit in Ankara (July 7-8), Trump told the room Greenland "should be controlled by the United States, not by Denmark," and threatened to pull US troops from Europe over the issue. PM Frederiksen responded firmly: "This is not going to happen." Greenland was not on the formal summit agenda. Separately, Migration Minister Bødskov is touring Italy and Germany to build support for offshore "departure centres" for rejected asylum seekers outside the EU — expects an agreement with a host country by year-end, with the first centre operational in 2027. Denmark's new four-party coalition (Social Democrats, SF, Radikale, Moderates) was seated June 3 after record-length negotiations.
 
-**Life Impact: MEDIUM** — An Orbán loss would reshape EU consensus-building, potentially accelerating decisions on defense, migration, and Ukraine support that affect all EU citizens.
-
----
-
-### MIDDLE EAST: US-Iran Conflict Escalates, Day 38
-Iran rejected a US-proposed 45-day ceasefire. Trump demanded Iran reopen the Strait of Hormuz. Both sides exchanged missile attacks. Iran's top spy commander Maj. Gen. Majid Khademi was assassinated. Supreme Leader Khamenei struck a defiant tone. A gunfight erupted outside the Israeli consulate in Istanbul (2 gunmen killed). Lebanon humanitarian crisis deepens with 1M+ displaced.
-
-**Life Impact: HIGH** — Strait of Hormuz closure affects global oil prices and energy costs directly. Escalation risks broader regional war with global economic consequences. Watch fuel prices.
+**Life Impact: HIGH** — The Greenland situation keeps Denmark at the center of transatlantic tension and drives defense spending upward (3.5% GDP by 2030). The departure-centre policy, if realized, would be a historic shift in EU migration policy. Both shape the tax and security landscape.
 
 ---
 
-### AI: Neuro-Symbolic AI Cuts Energy Use 100x While Boosting Accuracy
-Researchers published a breakthrough combining neural networks with symbolic (human-like logical) reasoning. The system helps AI think in steps rather than brute-force, achieving both better accuracy AND roughly 100x less energy consumption. This is significant because AI's growing energy footprint has been a major concern.
+### EU POLITICS: Record Defense Budget + AI Act Finalized + Ukraine Accession Advances
+Three big EU moves this week: (1) Von der Leyen announced the 2028-2034 EU budget will allocate over €200B to defense (€131B capabilities, €71B military mobility) — the largest defense allocation in EU history, with programs potentially mobilizing €950B by 2030. (2) The Council gave final approval to the AI Act "Digital Omnibus" simplification package — formal publication expected this month, deferring high-risk AI obligations 16 months to December 2027. (3) The Council agreed Ukraine and Moldova can open Cluster 6 (External Relations) accession talks, with a ceremony expected July 14 — helped by Hungary's reduced obstruction after its April government change. The 15% EU-US tariff ceiling took full effect July 1; autos dropped from 27.5% to 15%, but steel/aluminum remain at 50%.
 
-**Life Impact: MEDIUM** — If this scales, it could dramatically lower the cost and environmental impact of AI services you use daily, and make AI viable in more edge/local devices.
-
----
-
-### AI: MCP Hits 97M Installs, Moves to Linux Foundation
-Anthropic's Model Context Protocol crossed 97 million installs in March. Every major AI provider now ships MCP-compatible tooling. The Linux Foundation announced it will take MCP under open governance — a major step toward it becoming a true industry standard.
-
-**Life Impact: MEDIUM** — MCP becoming a standard means better AI tool interoperability. If you build or use AI tools, this ecosystem matters.
+**Life Impact: HIGH** — The defense budget shift means EU money flowing to defense instead of other priorities. The AI Act delay gives builders more runway. Ukraine accession will reshape EU economics long-term. The tariff ceiling stabilizes trade costs for now.
 
 ---
 
-### AI: Google Releases Gemma 4 Open Models
-Google launched Gemma 4, open models (Apache 2.0) built for reasoning and agentic workflows. Also unveiled TurboQuant at ICLR 2026 for dramatically reducing AI memory overhead.
+### NATO: Ankara Summit Focused on Defense Spending and Iran Backdrop
+The 36th NATO summit convened in Ankara (July 7-8) with all 32 members, plus Zelenskyy and South Korea's Lee Jae-myung. Secretary General Rutte pushed for 5% of GDP on defense by 2035 (3.5% military + 1.5% security). The Iran-US conflict loomed over everything — Trump attended while simultaneously managing the Hormuz strikes. Canada announced it chose German firm TKMS for its next submarine fleet.
 
-**Life Impact: LOW-MEDIUM** — More capable open-source AI models available for local/private use.
-
----
-
-### AI: Utah First State to Let AI Renew Drug Prescriptions
-Utah became the first US state to allow AI systems to directly renew drug prescriptions — moving AI from diagnostic support into actual treatment decisions.
-
-**Life Impact: LOW** — US-only for now, but signals the direction of AI in healthcare globally. Denmark/EU will likely debate similar policies.
+**Life Impact: MEDIUM-HIGH** — Defense spending targets affect tax policy across all NATO members, including Denmark. The 5% target is aggressive and will squeeze other budget priorities.
 
 ---
 
-### COPENHAGEN HOUSING: Prices Jump 20% YoY, Seller's Market Deepens
-Copenhagen apartment prices hit ~62,900 DKK/m² median (~66,226 DKK/m² average), up 20% in one year. Rental vacancy is 1-2% citywide, near 0% in central areas. New construction permits face stricter environmental requirements, adding 8-12% to building costs and reducing new housing supply by ~15%. Forecasts suggest 3-3.5% further annual growth, with a possible 6-10% upside in well-connected neighborhoods.
+### UK POLITICS: Farage Resigns, Triggers Clacton By-Election Amid Finance Scandal
+Nigel Farage resigned as MP for Clacton on July 7, then immediately announced he'd seek re-election in the safe seat, framing it as "people versus the establishment." He's being investigated for alleged breaches of parliamentary finance rules — undeclared benefits from convicted fraudster George Cottrell (staff pay, a rented townhouse). Labour, Conservatives, Lib Dems, and Restore Britain all said they'll boycott the contest, aiming to focus scrutiny on his behavior rather than split the opposition.
 
-**Life Impact: VERY HIGH** — If you're looking to buy in Copenhagen, the window is tightening. Supply constraints from green building regs are structural and won't ease soon. Renting is equally squeezed.
-
----
-
-### 3D PRINTING: AI-to-3D Pipeline Matures, Cancer Drug Delivery Breakthrough
-Meshy's Image-to-3D (Meshy-6 engine) is now integrated into Bambu Lab's MakerWorld ecosystem. MIT built a tool to preview FFF print quality before printing (saving failed prints). University of Mississippi demonstrated 3D-printed drug carriers that deliver chemo directly to tumors. AML3D got a $1.84M US Navy contract for submarine parts. ELEGOO showing Jupiter 2 large-format resin printer at RAPID+TCT (April 14-16, Boston).
-
-**Life Impact: LOW-MEDIUM** — The Meshy/MakerWorld integration is immediately useful if you have a Bambu printer. The MIT preview tool could save filament waste. Medical applications are longer-term.
+**Life Impact: LOW-MEDIUM** — Mainly a UK domestic story, but Reform UK's trajectory matters for broader European populist movements and any future UK-EU relationship shifts.
 
 ---
 
-### INNOVATION: Agentic AI Era Begins, Biotech Computing Emerges
-2026 marks the transition from AI assistants to Agentic AI — systems that autonomously execute tasks, not just answer questions. Biotech computing (merging biological processes with computing) is emerging as a new field promising lower energy consumption. 86% of new global energy capacity in 2025 was renewable, with solar dominating.
+### GAZA: Hamas Dissolves Administrative Arm, Israel Dismisses It
+On July 6, Hamas announced it is dissolving its Gaza governing administration, transferring power to the UN-backed National Committee for the Administration of Gaza (NCAG) — a technocratic body under UNSC Resolution 2803 tied to the US-brokered 20-point peace plan. Israeli FM Saar dismissed the move as a "trick," insisting Hamas hasn't committed to disarmament and its members "remain in their position."
 
-**Life Impact: MEDIUM** — Agentic AI will change how you interact with software within the next year. The renewable energy shift helps stabilize long-term energy costs.
+**Life Impact: MEDIUM** — If genuine, this is a historic step toward post-war Gaza governance. If not, the conflict continues to drive energy prices and regional instability.
 
 ---
 
-### CROSSFIT: Quarterfinals Done, Semifinals Ahead
-The 2026 CrossFit Open is complete. Quarterfinals wrapped March 26-30. The 2026 Games will be July 24-26 at SAP Center, San Jose. Mayhem Classic Semifinal paying out $59K total. Veteran Arielle Loewen withdrew from the first Semifinal. Sadly, Rob Orlando passed away at 50 after a two-year cancer battle.
+### AI: Anthropic Hits $30B Revenue, UN Governance Summit, Illinois Regulation, xAI Voice Agents
+Multiple AI stories this week: (1) Anthropic announced an expanded multi-gigawatt compute partnership with Google and Broadcom; its run-rate revenue surpassed $30B (up from ~$9B end of 2025), with 1,000+ business customers paying $1M+. (2) The UN Global Dialogue on AI Governance opened July 6 in Geneva with 169 countries — Yoshua Bengio warned AI "is outpacing both scientific understanding and governments' ability to adapt." (3) Illinois signed the AI Safety Measures Act (July 6), joining California and New York — together covering ~40% of the US AI market, requiring catastrophic-risk frameworks and 72-hour incident reporting. (4) xAI launched Voice Agent Builder in beta — no-code production voice agents with Grok Voice, free phone number, sub-second latency, 25+ languages. (5) Meta is launching a cloud business selling excess GPU capacity, competing with AWS/Azure/GCP. (6) Microsoft launched Frontier Company, a $2.5B enterprise AI deployment unit with 6,000 specialists. (7) Chinese AI models gaining US enterprise traction as OpenAI/Anthropic costs push some companies to cheaper alternatives.
 
-**Life Impact: LOW** — Relevant if you follow the competitive season. RIP Rob Orlando — a significant figure in the community.
+**Life Impact: HIGH** — The Illinois law creates a de facto US AI regulation standard. Anthropic's growth signals AI infrastructure is scaling fast. The xAI Voice Agent Builder is immediately usable if you want to build voice-based tools. Meta entering cloud compute could eventually lower GPU costs.
+
+---
+
+### COPENHAGEN HOUSING: Prices Surge to Record 75,183 kr/m² — Up 27% YoY
+Copenhagen apartment prices hit a record 75,183 kr/m² in April 2026 data — up ~27% YoY and significantly above the 62,900 kr/m² reported in the spring. Frederiksberg hit an all-time Danish record of 80,479 kr/m² in Q1. The standard Copenhagen apartment has risen ~100,000 kr/month in value over the past year. Realkredit Danmark forecasts nationwide prices up 6-6.5% in 2026, with Copenhagen growth potentially moderating. Mortgage rates for July: ~2.7% (F1), ~2.8% (F3), ~2.9% (F5) — F1 borrowers ticking up slightly, F3 borrowers refinancing down.
+
+**Life Impact: VERY HIGH** — The acceleration is dramatic. If you're considering buying, every month of waiting costs real money. Frederiksberg now costs more per m² than any municipality in Denmark's history. F1 mortgage rates creeping up adds to monthly costs, but rates remain historically low.
+
+---
+
+### 3D PRINTING: Prusa INDX Shipping, Bambu A2L Teased, Volumetric Printing Emerges
+Prusa confirmed Founder's Edition units of the INDX system are shipping, with a "State of INDX" update this month. They also released ColorMix Shading, a free web app adding realistic lighting/shadow effects to multi-color prints. Bambu Lab teased a new "A2L" printer ("Creative Playground. Extra Large") — likely a larger-format entry in their A-series. Hackaday published a deep dive on volumetric 3D printing (light-based, prints whole objects at once instead of layer-by-layer). On the industry side: Sculpteo was acquired by 3D Prod, Velo3D opened a new facility for aerospace/defense, and Rolls-Royce opened a new AM cell in Bristol for combat-engine parts. A passive 3D-printed "metacrystal" panel that boosts wireless coverage without power drew attention.
+
+**Life Impact: MEDIUM** — The Bambu A2L is directly relevant if you're in the Bambu ecosystem. Prusa INDX shipping means the multi-material revolution is real. Volumetric printing is still early but could eventually make layer lines obsolete.
+
+---
+
+### INNOVATION: IBM Quantum-Fusion Breakthrough, SpaceX Transporter-17, India Chips
+IBM, Oak Ridge National Lab, and Cleveland Clinic used quantum computers to calculate molecular configurations of a molten-salt material for fusion-reactor tritium production — a step toward practical quantum applications in energy. SpaceX launched Transporter-17 with 81 rideshare payloads from Vandenberg (July 7). China's Tianwen-2 arrived at near-Earth asteroid Kamo'oalewa for sample collection. India inaugurated its third semiconductor plant (CG Semi, Gujarat) with 300M-unit annual capacity. In renewables, over 90% of new projects now undercut fossil-fuel costs. Apple WWDC26 dev betas continue rolling out — iOS 27 and macOS 27 headed to public beta this month with the Gemini-powered "Siri AI" overhaul.
+
+**Life Impact: MEDIUM** — The quantum-fusion link is a milestone for both fields but years from practical impact. Apple's Siri AI overhaul will affect your daily device usage when iOS 27 ships.
+
+---
+
+### CROSSFIT: Games Schedule Extended — Individual Competition Starts July 22
+The 2026 CrossFit Games (20th anniversary edition) expanded its schedule: individual competition now starts Wednesday July 22, two days earlier than the main SAP Center dates, opening with offsite events at 101 Red Barn in Aromas and Morgan Hill Outdoor Complex before moving to the arena. Teams begin July 23. Field: top 30 men, 30 women, 20 teams. Individual champions earn ~$312K. For the first time, Masters athletes get their own standalone competition in San Jose. Semifinals wrapped by late June.
+
+**Life Impact: LOW** — Relevant if you follow the competitive season. Two weeks out now.
 
 ---
 
 ### Sources
-- [ScienceDaily - AI Energy Breakthrough](https://www.sciencedaily.com/releases/2026/04/260405003952.htm)
-- [Al Jazeera - Denmark Election](https://www.aljazeera.com/news/2026/3/24/polls-open-in-key-denmark-elections-clouded-by-trumps-greenland-threat)
-- [YouGov - Danish Election Model](https://yougov.com/en-gb/articles/54384-2026-danish-general-election-final-call-yougov-lss-election-model-shows-close-but-stable-race-between-left-and-right-blocs)
-- [European Parliament - News](https://www.europarl.europa.eu/news/en)
-- [EPC - Danish Elections EU Impact](https://www.epc.eu/events/danish-elections-what-impact-on-european-politics-and-security/)
-- [CNN - Iran War Day 38](https://www.cnn.com/2026/04/06/world/live-news/iran-war-us-trump-oil)
-- [Investropa - Copenhagen Housing](https://investropa.com/blogs/news/copenhagen-housing-prices)
-- [Colliers - Copenhagen Residential Market](https://www.colliers.com/en-dk/news/koebenhavns-boligmarked-midt-i-den-kommunale-valgkamp)
-- [3DPrint.com - News Briefs](https://3dprint.com/325020/3d-printing-news-briefs-4-4-2026/)
-- [Ole Miss - 3D Printed Cancer Drug Delivery](https://olemiss.edu/news/2026/04/3d-printing-could-change-how-cancer-drugs-reach-tumors/index.html)
-- [Fabbaloo - 3D Printing](https://www.fabbaloo.com/news/whos-the-biggest-in-3d-printing-april-5-2026)
-- [ELEGOO - RAPID+TCT 2026](https://www.prnewswire.com/news-releases/elegoo-to-showcase-new-products-and-real-world-3d-printing-applications-at-rapid--tct-2026-302732476.html)
-- [CrossFit Games - 2026 Overview](https://games.crossfit.com/open/overview)
-- [Prism News - CrossFit Quarterfinals](https://www.prismnews.com/hobbies/crossfit/crossfit-games-releases-official-2026-quarterfinal-workout-videos-for-athletes)
-- [Crescendo AI - Latest AI News](https://www.crescendo.ai/news/latest-ai-news-and-updates)
-- [MIT Technology Review - Breakthrough Technologies 2026](https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/)
-- [Nature - Technologies to Watch 2026](https://www.nature.com/articles/d41586-026-00188-6)
-- [UK in a Changing Europe - Denmark Election Analysis](https://ukandeu.ac.uk/squeezed-from-all-sides-what-denmarks-election-tells-us-about-the-crisis-of-the-european-centre-parties/)
+- Al Jazeera: Hormuz attacks, Hamas dissolution, NATO Ankara, Farage resignation
+- CNN: US strikes, NATO summit
+- NPR: Bahrain/Kuwait strikes
+- The Economist: World in Brief (July 7-8), Inside Geopolitics
+- CNBC: Trump Greenland comments, Chinese AI models
+- The Local Denmark: Departure centres
+- EU Parliament: July plenary session
+- Morgan Lewis: AI Act delays
+- Euronews: EU-US tariffs, Ukraine accession
+- Anthropic: Google/Broadcom partnership
+- UN News: AI Governance dialogue
+- WTTW: Illinois AI Safety Act
+- x.ai: Voice Agent Builder
+- Bolius.dk / Ritzau: Copenhagen housing data
+- Sydbank: Mortgage rate forecasts
+- Prusa Blog: INDX update
+- 3DPrint.com / Fabbaloo: 3D printing briefs
+- Hackaday: Volumetric 3D printing
+- CrossFit Games: Schedule, overview
+- IBM/Yahoo Finance: Quantum computing
+- Space.com: SpaceX Transporter-17
