@@ -1,5 +1,123 @@
 # Daily News Log
 
+## 2026-07-11
+
+### MIDDLE EAST: Khamenei Buried, Ceasefire Collapses, Hormuz Choking
+Since April: Khamenei was killed February 28 in a joint US-Israeli airstrike on his Tehran office. After a week-long state funeral drawing 15M+ mourners, he was buried July 9 at the Shrine of Imam Reza in Mashhad. Crowds chanted "Kill Trump" and demanded vengeance. Iran struck three tankers near Hormuz around July 7; the US retaliated with strikes on consecutive nights — including railway bridges near Mashhad during the burial. At the NATO summit in Ankara, Trump declared the ceasefire MOU "over," calling Iranian authorities "sick" and "scum," but left a door open — envoys Witkoff and Kushner are still in contact, and Qatari mediators returned to Tehran. Oil tanker traffic through Hormuz remains severely reduced. Israel says it is prepared to resume strikes on Iran.
+
+**Life Impact: VERY HIGH** — Hormuz disruption is now directly hitting global oil supply. Expect fuel and energy price spikes in the coming weeks. The situation is more dangerous than in April — a dead supreme leader, no ceasefire, and three-way escalation risk (US/Israel/Iran).
+
+---
+
+### DANISH POLITICS: Frederiksen Forms Six-Party Minority Coalition
+The coalition deadlock covered in April is resolved. On June 3, King Frederik appointed a minority government led by Frederiksen's Social Democrats alongside Green Left, Red-Green Alliance, Social Liberals, Alternative, and the Moderates (Lars Løkke Rasmussen as kingmaker). The coalition holds 82 of 179 seats — thin, requiring case-by-case parliamentary support. On June 25, the government introduced a bill amending the Ukraine Special Act to withhold residency renewals from military-aged Ukrainian males without documented conscription exemptions. Immigration rules tightened from January: higher fees, raised salary thresholds, fewer jobs on the Positive List.
+
+**Life Impact: HIGH** — The coalition composition directly shapes housing, green, and immigration policy. The Ukraine residency bill and immigration tightening affect Copenhagen's labor market. A 82-seat minority means policy could shift quickly if any partner defects.
+
+---
+
+### EU POLITICS: US Trade Deal Live, Customs Reform, AI Act Deadlines Extended
+Three major EU developments since April:
+
+1. **EU-US Trade Deal (live July 1):** Most EU goods now face a 15% flat US tariff ceiling, down from 20%. Autos dropped from 27.5% to 15%; pharma and semiconductors capped at 15%. Steel/aluminum remain at 50%. Parliament approved it in June after Trump set a July 4 deadline.
+
+2. **Customs Reform (live July 1):** The duty exemption for low-value goods under 150 EUR is eliminated. All shipments now require formal customs declarations, with a flat 3 EUR duty per line item for goods under 150 EUR. This directly affects any e-commerce importing from outside the EU.
+
+3. **AI Act Omnibus (agreed May 7):** The high-risk system compliance deadline was extended ~16 months to December 2, 2027. Nudifier AI bans take effect December 2, 2026. Watermarking obligations apply from August 2026. Each member state must establish an AI regulatory sandbox by August 2, 2026.
+
+EU defense: The SAFE 150B EUR defense loan instrument is under negotiation, with talks opened to the UK and Canada.
+
+**Life Impact: HIGH** — The 150 EUR customs exemption removal affects online shopping from non-EU sellers immediately. If you sell via Shopify to the US, the 15% tariff ceiling is better than feared. The AI Act timeline extension gives breathing room for anyone building AI products in the EU.
+
+---
+
+### AI: Apple Sues OpenAI Over Trade Secret Theft
+Apple filed suit against OpenAI in Northern District of California on July 10, alleging theft of "secret and confidential information" about unreleased hardware. Apple claims OpenAI's hardware lead Tang Tan (former Apple designer) and former Apple engineer Chang Liu directed Apple employees interviewing at OpenAI to bring "actual parts" for "show and tell" sessions, coached departing employees on evading security, and that Liu stole an Apple laptop. Apple also alleges OpenAI tricked an Apple partner into demonstrating a trade-secret metal-finishing technique. This is a dramatic reversal from their 2024 ChatGPT-iOS partnership.
+
+**Life Impact: MEDIUM** — Signals a deepening rift between Apple and OpenAI that could reshape how AI is integrated into Apple devices. If Apple pulls away from OpenAI, iPhone AI features could shift toward Apple's own models or alternative providers.
+
+---
+
+### AI: OpenAI Launches GPT-5.6 — Sol, Terra, Luna
+OpenAI launched GPT-5.6 on July 9 after US government approval. Three tiers: **Sol** (flagship, $5/$30 per 1M tokens), **Terra** (balanced, GPT-5.5-competitive at half the cost, $2.50/$15), **Luna** (fast/affordable, $1/$6). All share 1M-token context, 128K max output, Feb 16 knowledge cutoff. New feature: Programmatic Tool Calling — Sol runs lightweight JavaScript to coordinate tools and reduce intermediate rounds. Sol launched on Cerebras at up to 750 tokens/second. OpenAI also announced "ChatGPT Work," an agent for carrying out whole jobs.
+
+**Life Impact: MEDIUM** — If you use the OpenAI API, the 3-tier pricing model and programmatic tool calling are immediately relevant for cost optimization. ChatGPT Work signals the agentic AI shift covered in April is now productized.
+
+---
+
+### AI: Anthropic, Google, Meta All Ship Major Updates
+- **Anthropic** launched Claude Sonnet 5 (most agentic model yet). US Commerce Dept lifted export controls on Fable 5 and Mythos 5 after new safeguards. Claude Cowork expanded to web/mobile.
+- **Google DeepMind** launched Gemini 2.5 Pro with Deep Think reasoning (82.4% GPQA Diamond), plus new image and video generation models.
+- **Meta** shipped Muse Spark 1.1 and began charging for model API access for the first time ($1.25/$4.25 per 1M tokens). Next model "Watermelon" reportedly matches GPT-5.5. Meta raised El Paso data center investment from $1.5B to over $10B. EU found Meta in breach of laws over "addictive" Instagram/Facebook designs.
+- **DeepSeek** is developing its own inference chip to reduce Nvidia/Huawei dependence.
+
+**Life Impact: MEDIUM** — The AI landscape is shifting fast. If you build with these APIs, pricing and capability changes matter week to week. Meta charging for API access ends the free-tier era for open models.
+
+---
+
+### RUSSIA: Top Oligarch Breaks Silence in The Economist
+Andrey Melnichenko, Russia's biggest industrialist (EuroChem, SUEK), published an essay and gave 60 hours of interviews to The Economist. His core thesis: Western strategies aimed at breaking the Russian state will destabilize global security — a fragmented Russia with the world's largest nuclear arsenal is an existential threat. Notably, he recognized Ukraine as a sovereign state that has "paid an enormous price," going beyond the Kremlin line. He and his wife are simultaneously appealing Swiss sanctions. This is a rare public break from a major Russian oligarch and may signal shifting elite sentiment.
+
+**Life Impact: MEDIUM** — Elite dissent inside Russia is a leading indicator of potential political change. The scenarios Melnichenko outlines — all dangerous — affect European security posture and energy markets.
+
+---
+
+### COPENHAGEN HOUSING: Supply Hits Record Low, Prices Still Climbing
+Apartment prices rose 12-18% YoY (slightly below the 20% pace from April, possibly stabilizing). Nykredit forecasts 13.7% growth for the full year. A standard 80 m² apartment now costs approximately 6.0M DKK (~$927K). Supply of apartments hit the lowest level ever recorded, and time-on-market is at levels not seen since the mid-2000s bubble. The structural constraints from green building regulations covered in April remain in effect.
+
+**Life Impact: VERY HIGH** — Living in Havnestaden, this is your backyard. Record-low supply and continued price growth mean the market is tighter than in April. If you're considering any property moves, the window continues to narrow.
+
+---
+
+### SHOPIFY: New EU Customs Support, AI Storefront Integration
+Relevant for Byens Profiler: Shopify's July 2026 API update (2026-07) adds draft order deposits, inventory transfer metafields, and per-channel market management. As of July 1, Shopify supports the new EU customs duty (3 EUR per tariff line on orders under 150 EUR from outside EU). Most notable: headless Hydrogen storefronts are now "first-class agentic citizens" via Storefront MCP — AI agents (ChatGPT, Perplexity, Copilot) can discover and transact against Shopify stores.
+
+**Life Impact: MEDIUM-HIGH** — The EU customs changes affect your cost structure if you import goods. The Storefront MCP integration means AI assistants can now shop your store — a potential new sales channel worth investigating.
+
+---
+
+### 3D PRINTING: Sculpteo Acquired, Rolls-Royce Opens Additive Cell, Nano Metal Breakthrough
+3D Prod acquired Sculpteo (combined revenue EUR 17M), consolidating the European 3D printing services market. UltiMaker launched the Factor 4 Plus for industrial production. Rolls-Royce opened a UK MoD-funded additive manufacturing cell in Bristol for next-gen aircraft engine components. Texas A&M unveiled a picojoule method for 3D printing pure metal nanostructures at sub-250nm resolution — a potential breakthrough for medical devices and electronics.
+
+**Life Impact: LOW-MEDIUM** — The Sculpteo acquisition may affect European print-on-demand pricing. The nano metal printing breakthrough is early-stage but could eventually enable metal features smaller than a virus.
+
+---
+
+### CROSSFIT: Games Roster Set, Competition Starts July 22
+All Semifinals are complete. Top 30 men, 30 women, and 20 teams are confirmed for the 2026 CrossFit Games at SAP Center, San Jose. Individual competition starts July 22 (team July 24-26). Colten Mertens won the men's Open; Lucy Campbell won the women's. Notable Semifinal qualifiers include Saxon Panchik, Ty Jenkins, and Austin Hatfield from Syndicate Crown. Age-Group Online Semifinals ran May 7-11.
+
+**Life Impact: LOW** — The Games are two weeks out. If you follow the competitive season, now's the time to check the full rosters on games.crossfit.com.
+
+---
+
+### INNOVATION: DNA-Writing Chips, Heat-Programming Materials
+Two notable breakthroughs: a silicon chip that writes dozens of DNA sequences simultaneously using electricity and enzymes (potential to dramatically accelerate synthetic biology), and a new material that can "program" and direct heat without continuous power (applications in electronics cooling and energy harvesting). Canadian startup Wafr Technologies raised $100M for water-efficient AI data center cooling.
+
+**Life Impact: LOW** — These are early-stage but signal directions. The DNA chip could eventually make custom biological materials as programmable as software.
+
+---
+
+### Sources
+- [The Economist - World in Brief, July 10-11](https://www.economist.com/the-world-in-brief)
+- [Al Jazeera - Khamenei burial](https://www.aljazeera.com/news/2026/7/9/iran-prepares-to-bury-slain-leader-khamenei-after-mass-funeral-ceremonies)
+- [CBS News - Trump ceasefire declaration](https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-talks-strait-of-hormuz/)
+- [Bloomberg - Hormuz oil tanker traffic](https://www.bloomberg.com/news/articles/2026-07-08/oil-tankers-trickle-through-hormuz-after-spate-of-iran-attacks)
+- [House of Commons Library - Denmark 2026 coalition](https://commonslibrary.parliament.uk/research-briefings/cbp-10847/)
+- [European Parliament - EU-US trade deal](https://www.europarl.europa.eu/news/en/press-room/20260611IPR45206/eu-us-trade-parliament-gives-its-green-light-to-tariff-legislation)
+- [Latham & Watkins - AI Act Omnibus](https://www.lw.com/en/insights/ai-act-update-eu-resolves-to-change-rules-and-extend-deadlines)
+- [Washington Post - Apple sues OpenAI](https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/)
+- [TechCrunch - Apple v OpenAI](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/)
+- [OpenAI - GPT-5.6 Sol preview](https://openai.com/index/previewing-gpt-5-6-sol/)
+- [Simon Willison - GPT-5.6](https://simonwillison.net/2026/Jul/9/gpt-5-6/)
+- [Investropa - Copenhagen apartment prices](https://investropa.com/blogs/news/copenhagen-how-much-apartment)
+- [Shopify Dev Changelog - July 2026](https://shopify.dev/changelog)
+- [3DPrint.com - News Briefs July 9](https://3dprint.com/328384/3d-printing-news-briefs-7-9-2026/)
+- [CrossFit Games - 2026 overview](https://games.crossfit.com/finals/overview)
+- [The Economist - Melnichenko interviews](https://www.economist.com/briefing)
+- [ScienceDaily - Technology breakthroughs](https://www.sciencedaily.com/news/matter_energy/technology/)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
