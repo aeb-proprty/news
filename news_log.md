@@ -1,5 +1,107 @@
 # Daily News Log
 
+## 2026-07-21
+
+### US-IRAN WAR: 10th Round of Strikes, 3 US Troops Killed, Kuwait Hit
+The US completed its 10th round of strikes against Iran overnight, targeting military command centers, maritime capabilities, missile/drone launch sites, and air defense systems. Explosions reported in Bandar Abbas, Qeshm, and Hormozgan Province near the Strait of Hormuz. Three US service members were killed in recent days, prompting Trump to warn Tehran would "pay." Kuwait intercepted "hostile" missiles and drones after sustaining two rounds of Iranian attacks. The Houthis announced a blockade of Saudi Arabia. The US is increasing fighter jet deployments to the region. This conflict has been ongoing since early April (covered in the April 7 update at day 38) and has now escalated dramatically beyond those early exchanges.
+
+**Life Impact: VERY HIGH** — Oil prices and energy costs remain directly affected by Strait of Hormuz operations. The conflict expanding to Kuwait and Saudi Arabia signals a widening regional war. European energy markets will feel this. Watch fuel and heating costs.
+
+---
+
+### DENMARK: Trump Revives Greenland Threats at NATO Summit
+At the NATO summit in Turkey on July 7-8, Trump renewed demands for US control over Greenland, saying it's needed "for the protection of the world" and threatened to remove US troops from Europe. PM Frederiksen responded firmly: "Greenland is not for sale" and declared Denmark ready to defend its territory. This forced the new Frederiksen coalition government (formed June 3 after the March election) into an immediate defense posture just weeks after taking office. Denmark is accelerating its military buildup in response.
+
+**Life Impact: HIGH** — This directly shapes Danish defense spending, NATO positioning, and the political agenda of the new government. If you're in the Danish public sector (especially Klimadatastyrelsen-adjacent), expect defense and sovereignty to dominate budget discussions.
+
+---
+
+### DENMARK: $500 Billion Mortgage Market Battle Turns Ugly
+Bloomberg reports a bitter feud among Denmark's top banking executives over the country's $500B mortgage market. Nykredit CEO Michael Rasmussen is lobbying for tighter rules on "priority loans" — a fast-growing product used by competitors to poach customers. He argues these loans threaten Denmark's historically egalitarian system that gave homeowners some of the world's cheapest borrowing costs. Finance Denmark summoned executives to a crisis meeting on May 1 to defuse the public feud, but tensions remain unresolved. Separately, Denmark's central bank issued a warning in May about housing-related lending risks as price gains spread.
+
+**Life Impact: VERY HIGH** — This fight will determine mortgage pricing and availability in Denmark. If you're buying in Copenhagen or refinancing, the outcome of this regulatory battle directly affects your borrowing costs. The central bank warning adds urgency.
+
+---
+
+### COPENHAGEN HOUSING: Prices Surge to ~75,000 DKK/m², Supply at Historic Low
+Apartment prices have jumped to approximately 75,000 DKK/m² average — up from ~63,000 DKK/m² reported in April, a further ~19% increase in just a few months. An average 80m² Copenhagen apartment now costs around DKK 6 million (~$927,000). Supply of apartments hit the lowest level ever recorded, while trading activity has increased. Nykredit forecasts 13.7% price growth for full-year 2026, moderating to 3.1% in 2027. The green building requirements continue to add 8-12% to construction costs and reduce new supply by ~15%.
+
+**Life Impact: VERY HIGH** — If you were watching this in April at 63K/m², prices have moved fast. The record-low supply combined with the mortgage market battle (above) creates serious affordability pressure. The 2027 forecast of 3.1% suggests the peak growth rate may be near.
+
+---
+
+### UK: Andy Burnham Becomes Prime Minister — 7th in a Decade
+Andy Burnham was formally appointed PM by King Charles III on July 20, becoming Britain's 59th prime minister and the 7th to occupy Number 10 in the past decade. He replaces Keir Starmer just two years after Starmer's landslide victory. Burnham, 56, the former Mayor of Greater Manchester ("King of the North"), pledged a 10-year plan focusing on cost of living, decentralizing political power, revitalizing industry, and ending street homelessness. He's the first PM in modern history to enter Downing Street directly from regional government rather than Parliament.
+
+**Life Impact: MEDIUM** — UK political instability continues to affect EU-UK relations and European economic confidence. Burnham's decentralization agenda could influence similar debates in Denmark/EU about regional power distribution.
+
+---
+
+### UKRAINE: 400+ Drones Fired at Moscow, Kyiv Bombarded, Black Sea Ship Attack Kills 10
+Ukraine launched over 400 drones toward Moscow on July 19 in one of the war's biggest attacks, responding to a Russian ballistic missile barrage on Kyiv that killed at least 6. On July 20, a Russian missile struck a corn ship near Odesa, killing 10 — the deadliest attack in a weeks-long Black Sea violence flare-up. Russia gained 15 square miles in the past 4 weeks. A massive 11-hour drone/missile attack on Kyiv on July 2 killed 31 civilians. Energy blackouts from Russian attacks have cut Ukrainian economic growth by 2.5 percentage points in 2026. Trump held calls with both Putin and Zelenskyy on July 5 to discuss ending the war.
+
+**Life Impact: MEDIUM-HIGH** — European energy and grain markets remain volatile. The Black Sea grain corridor attacks affect food prices. Denmark's defense buildup is partly driven by this conflict. The Trump mediation attempts add geopolitical uncertainty.
+
+---
+
+### AI: The Great Model Race Intensifies — Grok 4.5, Fable 5 Returns, GPT-5.6
+Three major AI developments:
+1. **Grok 4.5** (July 8): SpaceXAI released its first coding/agent-focused model — 1.5T parameters, trained on real Cursor developer sessions. Priced at $2/$6 per 1M tokens (60%+ cheaper than Opus 4.8). Musk calls it "Opus-class." Not yet available in the EU — expected mid-July.
+2. **Claude Fable 5 returns** (July 1): After an 18-day ban triggered by a jailbreak vulnerability, the Trump admin lifted export controls. Anthropic deployed a new safety classifier blocking the exploit in 99%+ of cases. Mythos 5 also restored.
+3. **GPT-5.6** (Sol, Terra, Luna): OpenAI launched broadly after Commerce Department meetings. Claude Sonnet 5 launched at promotional pricing ($2/$10 per 1M tokens until August 31).
+Chinese AI providers now serve ~45% of all OpenRouter traffic (up from <2% a year ago), with Xiaomi alone at 21% market share.
+
+**Life Impact: HIGH** — If you work in tech/AI, this is the most competitive the model market has ever been. Prices are dropping fast. The Fable 5 export control saga sets a precedent for government intervention in AI availability. Grok 4.5 not being in the EU yet is relevant if you're evaluating models.
+
+---
+
+### 3D PRINTING: LEGO Opens Additive Manufacturing Center in Billund + Venezuela Relief Effort
+LEGO officially opened Kornmarken Campus (June 24) in Billund — a 47,000m² dedicated manufacturing innovation center including an Additive Manufacturing Centre for 3D printing development. The 100,000m² total facility houses 1,800 employees developing next-gen manufacturing tech, sustainable materials, and mould innovation. Ronen Hadar, who has led LEGO's 3D printing efforts for 15 years, oversaw the first 3D-printed piece to appear in a mass-produced retail set this year. Powered partly by a 4MW solar park, with an 80-100MW solar park under construction.
+
+Separately, after earthquakes in Venezuela, the 3D printing community mobilized: Ostec3D released thermoplastic splint files, community members printed splints and cervical collars, and Bambu Lab donated $50,000 plus printers and filament for relief efforts.
+
+**Life Impact: LOW-MEDIUM** — The LEGO AM center in Billund is a signal that additive manufacturing is going mainstream in Danish industry. If you're into LEGO and 3D printing, the intersection is growing. The Venezuela response shows the humanitarian potential of distributed manufacturing.
+
+---
+
+### CROSSFIT: Games Start Thursday — July 24-26, San Jose
+The 2026 CrossFit Games kick off in 3 days at SAP Center in San Jose, California (July 24-26). 30 men, 30 women, and 20 teams qualified through the Online Semifinal (June 11-15) and three in-person semifinal events (May 29-31): Syndicate Crown, Northern California Classic, and MAD Fitness Festival. This is the culmination of the season following the Quarterfinals covered in the April update.
+
+**Life Impact: LOW** — Worth knowing if you follow the competitive season. The Games will stream live.
+
+---
+
+### AI REGULATION: US Government Tightens Frontier Model Release Process
+Beyond the Fable 5 saga, new US rules now require frontier AI models to undergo federal evaluator pre-release access before broad deployment. This could lead to staggered rollouts and tighter access for the most powerful models. The UN and ITU also launched the "AI for Good Global Commission" co-chaired by Marc Benioff and Rwanda's President Kagame to develop global standards for beneficial AI deployment.
+
+**Life Impact: MEDIUM** — These regulations will shape how quickly you get access to new AI models. The EU AI Act (covered in April) combined with US export controls creates a dual regulatory environment affecting AI availability in Europe.
+
+---
+
+### Sources
+- [CNN - US-Iran War Day 10 Strikes](https://www.cnn.com/2026/07/20/world/live-news/iran-war-trump)
+- [Al Jazeera - Iran War Updates](https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran)
+- [CNBC - Trump Greenland NATO](https://www.cnbc.com/2026/07/08/greenland-trump-nato-denmark.html)
+- [Euronews - Greenland Not For Sale](https://www.euronews.com/my-europe/2026/07/08/greenland-is-not-for-sale-denmarks-frederiksen-reminds-trump)
+- [Bloomberg - Denmark Mortgage Battle](https://www.bloomberg.com/news/articles/2026-07-20/the-battle-for-denmark-s-500-billion-mortgage-market-is-turning-ugly)
+- [Investropa - Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [TXM - Copenhagen Property Prices 2026](https://txmestate.com/news/copenhagen-real-estate-prices-2026-market-analysis-trends)
+- [Al Jazeera - Andy Burnham UK PM](https://www.aljazeera.com/news/liveblog/2026/7/20/live-andy-burnham-to-become-uk-pm-deliver-first-speech-at-10-downing)
+- [NPR - Burnham New PM](https://www.npr.org/2026/07/20/nx-s1-5901133/great-britain-gets-yet-another-new-prime-minister)
+- [Fox News - Ukraine 400 Drones Moscow](https://www.foxnews.com/world/ukraine-unleashes-more-than-400-drones-near-moscow-one-wars-biggest-attacks)
+- [Russia Matters - War Report Card July 15](https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-july-15-2026)
+- [TechCrunch - Grok 4.5](https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/)
+- [CNBC - Claude Fable 5 Export Controls](https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html)
+- [Forbes - Fable 5 Mythos 5 Restored](https://www.forbes.com/sites/siladityaray/2026/07/01/trump-administration-lifts-export-controls-on-anthropics-mythos-5-and-fable-5-ai-models/)
+- [LEGO - Kornmarken Campus](https://www.lego.com/en-us/aboutus/news/2026/june/lego-opens-first-dedicated-manufacturing-innovation-centre)
+- [3DPrint.com - Venezuela Relief](https://3dprint.com/328042/3d-printing-news-briefs-7-4-2026/)
+- [CrossFit Games - 2026 Overview](https://games.crossfit.com/finals/overview)
+- [Al Jazeera - Denmark New Government](https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists)
+- [ZoneTechify - AI News July 2026](https://www.zonetechify.com/blog/ai-news-july-2026-latest-ai-developments)
+- [Al Jazeera - Fable Mythos Export Controls](https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
