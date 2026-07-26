@@ -1,6 +1,94 @@
 # Daily News Log
 
-## 2026-04-07
+## 2026-07-26
+
+### GLOBAL TRADE: Trump Imposes New Tariffs on 60 Countries — Takes Effect Today
+On July 24, as old tariffs expired, Trump's trade office announced replacement tariffs of 10-12.5% on 60 trading partners covering 99.4% of US imports. These took effect at 12:01 AM ET on July 25. Countries affected include Canada, Mexico, India, and the UK. This time, tariffs are enacted under Section 301 of the Trade Act of 1974 (not IEEPA, which the Supreme Court struck down in February). The stated justification is "improper enforcement of forced labor bans." The EU is among those affected. Denmark, as a major trading economy integrated into EU supply chains, will feel ripple effects on import costs and export competitiveness.
+
+**Life Impact: VERY HIGH** — These tariffs will raise prices on a wide range of consumer goods and industrial inputs globally. EU counter-measures are likely. Expect inflation pressure on imported goods in Denmark. If you buy anything manufactured outside the EU (electronics, raw materials, specialty items), prices will creep up.
+
+---
+
+### DANISH POLITICS: Frederiksen Defiant on Greenland at NATO Summit
+At the NATO summit in Ankara (July 7-8), PM Mette Frederiksen directly confronted Trump on Greenland, saying it is "not for sale" and that Denmark is "ready to defend every inch of NATO, including our own territory." Trump doubled down, calling Greenland "very important" for the US but "not important for Denmark." The standoff continues to define Danish foreign policy. Frederiksen's centre-left minority government, formed after the March snap election, is now in its first months governing under this persistent external pressure.
+
+**Life Impact: HIGH** — This is the defining Danish foreign policy issue right now. It shapes defense spending (your taxes), Denmark's NATO posture, and the broader relationship with the US. No resolution in sight.
+
+---
+
+### DANISH POLITICS: Skilled Worker Immigration Eased
+As of July 1, 2026, Denmark expanded its "Positive List" of professions eligible for fast-track work permits, easing restrictions for highly skilled foreign workers. This is part of the government's push to address labor shortages.
+
+**Life Impact: MEDIUM** — If you work in tech/property/innovation, this means more international talent in the Copenhagen job market. Could also affect housing demand.
+
+---
+
+### COPENHAGEN HOUSING: Price Growth Cooling Off — Market Shifting
+New data for June 2026 shows average listing prices in Copenhagen at 6.67M DKK (76,098 DKK/m2). However, the pace is slowing: apartment viewings fell 5.9% from May to June, and sales dropped 0.9%. Nationalbanken has issued a warning about how much prices have risen around Copenhagen. Analysts at NPinvestor are asking whether the "boligprisfest" (housing price party) is braking sharply. Inner city, Osterbro, and Frederiksberg remain the priciest per m2, while Valby, Bronshoj, and Vanlose offer more accessible prices. Supply is increasing and price discounts are growing — signs of a shift from seller's market toward more balance.
+
+**Life Impact: VERY HIGH** — If you're in the Copenhagen market (buying, selling, or on a board), this shift is significant. The frenzy is calming. More supply and slower sales favor buyers. Watch the autumn market closely.
+
+---
+
+### EU POLITICS: Electrification Action Plan Unveiled
+On July 17, the European Commission launched a major Electrification Action Plan to boost Europe's competitiveness, decarbonisation, and energy independence. The plan introduces measures to make electricity more competitive and incentivise electricity-based technologies. Meanwhile, Denmark continues to hold the rotating EU Council Presidency (started H2 2025), with priorities on security, defense, migration, and trade deals (Mercosur, Mexico).
+
+**Life Impact: MEDIUM-HIGH** — As an EV driver (Clever charging), this directly benefits you. EU policy to make electricity cheaper and more competitive means lower charging costs and better infrastructure over time. Denmark's presidency role means Danish priorities shape EU direction.
+
+---
+
+### AI: GPT-5.6 Launches in Three Tiers; Fable 5 Back After Government Suspension
+OpenAI released GPT-5.6 on July 9 in three tiers: Sol (flagship, $5/$30 per M tokens), Terra (mid-range), and Luna (budget). Sol is 54% more token-efficient for coding than previous models. It also shipped "ChatGPT Work," an agent that executes entire jobs autonomously. Separately, Anthropic's Fable 5 returned July 1 after a 19-day US government export-control suspension. The ban was over a narrow cyber jailbreak concern. Anthropic added a safety classifier blocking the exploit in 99%+ of cases. Mistral released Leanstral 1.5, which moves beyond code generation into formal mathematical proof that software behaves correctly.
+
+**Life Impact: MEDIUM-HIGH** — The AI landscape is shifting fast. GPT-5.6's tiered pricing makes frontier AI more accessible at every budget level. The Fable 5 suspension/return shows how government regulation can disrupt AI access overnight — worth watching for anyone dependent on these tools.
+
+---
+
+### CROSSFIT: 2026 Games Happening Right Now in San Jose
+The 2026 CrossFit Games (20th anniversary) are live at SAP Center, San Jose, July 22-26. After Day 2: James Sprague leads the men's division (414 pts), closely trailed by Jay Crouch and Justin Medeiros. Aimee Cringle dominates the women's field with three event wins on Day 1 alone, pulling further ahead on Day 2. Emma Lawson is chasing. CrossFit Mayhem leads teams. Quarterfinals were restored this season after being dropped in 2025. Individual winners take home $312,000. Final day is today (July 26).
+
+**Life Impact: MEDIUM** — If you follow CrossFit competitively, this is the weekend. Final results drop today.
+
+---
+
+### 3D PRINTING: Bambu Lab Files 9 New Patents — Future Printers Taking Shape
+Bambu Lab filed nine new patents (reported July 22) revealing future printer concepts. Key patents include: a new heatbed design (aluminum-free, adjustable), a multi-material algorithm for the upcoming "Vortek" model (up to 7 hotends, 2 print heads), and a flexible TPU filament handling system for the AMS (current AMS cannot handle TPU at all). The X2D (X1 successor) launched in April. Separately, UltiMaker launched the industrial Factor 4 Plus, and Würth Additive Group shut down.
+
+**Life Impact: MEDIUM** — The TPU-compatible AMS patent is huge for anyone with a Bambu printer. The Vortek multi-material system could redefine multi-color/material printing. Worth watching for your next printer upgrade. Würth closing signals consolidation in the industry.
+
+---
+
+### INNOVATION: Self-Destructing Living Plastic; Solid-State Battery Breakthrough
+Researchers created a self-destructing "living plastic" using engineered bacteria that breaks itself down completely in 6 days when activated — no microplastics. Separately, scientists solved the mystery of how soft lithium dendrites crack hard ceramic in solid-state batteries, a key obstacle to safer, longer-lasting EV and phone batteries. And a silicon chip can now write dozens of DNA sequences simultaneously using electricity, replacing chemical-heavy DNA manufacturing.
+
+**Life Impact: LOW-MEDIUM** — The living plastic could eventually eliminate microplastic pollution. The solid-state battery fix is closer to practical impact — better EV batteries within a few years. Both are "watch this space."
+
+---
+
+### Sources
+- [NPR - Trump tariffs on 60 countries](https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country)
+- [CNBC - Trump tariffs as global duties expire](https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html)
+- [Time - Trump tariffs explained](https://time.com/article/2026/07/24/trump-tariffs-forced-labor-explainer/)
+- [CNBC - Greenland Trump NATO Denmark](https://www.cnbc.com/2026/07/08/greenland-trump-nato-denmark.html)
+- [Washington Times - Denmark defends Greenland](https://www.washingtontimes.com/news/2026/jul/8/denmark-pushes-back-donald-trump-remarks-says-ready-defend-greenland/)
+- [NPinvestor - Copenhagen housing cooling](https://npinvestor.dk/nyheder/boligprisfest-i-koebenhavn-bremser-brat-op-er-boblen-ved-at-punktere/)
+- [Boligsiden - Copenhagen housing prices](https://www.boligsiden.dk/nyheder/boligpriser/saa-meget-er-boligpriserne-steget-i-kommunerne-omkring-koebenhavn)
+- [DinBoligAgent - Copenhagen 2026 prices](https://www.dinboligagent.dk/boligpriser/koebenhavn)
+- [European Commission - Electrification Action Plan](https://european-union.europa.eu/news-and-events_en)
+- [Danish EU Presidency Priorities](https://danish-presidency.consilium.europa.eu/en/programme-for-the-danish-eu-presidency/priorities/)
+- [OpenAI - GPT-5.6](https://openai.com/index/gpt-5-6/)
+- [Simon Willison - GPT-5.6 family](https://simonwillison.net/2026/Jul/9/gpt-5-6/)
+- [Basic Tutorials - Fable 5 returns](https://basic-tutorials.com/news/claude-fable-5-is-back-u-s-lifts-export-ban-on-anthropics-flagship-model/)
+- [Fitness Volt - CrossFit Games 2026 Day 2](https://fitnessvolt.com/2026-crossfit-games-result-individuals-teams-day-two/)
+- [FloElite - CrossFit Games Leaderboard](https://www.floelite.com/articles/16081003-2026-crossfit-games-day-1-leadboard-standings-event-schedule)
+- [3DPrint.com - 3D Printing News July 25](https://3dprint.com/329210/3d-printing-news-briefs-7-25-2026/)
+- [Fabbaloo - Bambu Lab patents](https://www.fabbaloo.com/)
+- [3D Printing Industry - Bambu Lab heatbed patent](https://3dprintingindustry.com/news/new-bambu-lab-patent-protects-3d-printer-heatbed-technology-240782/)
+- [ScienceDaily - Technology breakthroughs](https://www.sciencedaily.com/news/matter_energy/technology/)
+
+---
+
+## 2026-04-07 (archived — outside 7-day window)
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
 The March 24 snap election left no bloc with a majority. Mette Frederiksen's Social Democrats won 38 seats but with their worst vote share (21.9%) since 1903. The Green Left surged to become the second-largest party (20 seats), and the Danish People's Party made significant gains. The Moderates are now kingmaker. Coalition negotiations are ongoing with no resolution yet. The Greenland/Trump crisis was the catalyst for the snap election and gave Frederiksen a rally-round-the-flag boost.
