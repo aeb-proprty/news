@@ -1,5 +1,74 @@
 # Daily News Log
 
+## 2026-07-27
+
+### CROSSFIT: Games 2026 Just Ended — Sprague and Cringle Crowned
+The 2026 CrossFit Games wrapped up yesterday (July 24-26) at SAP Center in San Jose. James Sprague won the men's division, becoming the first man in history to win two non-consecutive CrossFit Games titles. On the women's side, UK athlete Aimee Cringle delivered one of the most dominant performances in women's competition history, winning five events and securing 1394 points across 20 events. Team CrossFit Whip took the team title. Pat Vellner won the final individual event (Triple Pig). Individual winners took home $312,000 each, funded by 50% of Open entry fees.
+
+**Life Impact: LOW-MEDIUM** — If you follow competitive CrossFit, this is the season finale. Sprague making history and Cringle's dominant run are the stories to remember.
+
+---
+
+### DANISH POLITICS / GREENLAND: Frederiksen Stands Firm Against Trump at NATO Summit
+At the NATO summit in Ankara, Turkey (July 7-8), Trump doubled down on Greenland, stating it "should be controlled by the United States, not by Denmark." Frederiksen responded that Denmark is "ready to defend every inch of NATO including our own territory" and that a US takeover "is not going to happen" and would "mark the end of NATO." Trump also threatened to remove US troops from Europe. After the public bluster, Trump surprisingly pivoted on day two to praising NATO allies who boosted military spending and offering fresh support for Ukraine. Frederiksen's centre-left minority government (formed in June after 2+ months of deadlock post-March election) is now firmly in office and leaning heavily into defense spending.
+
+**Life Impact: HIGH** — The Greenland issue is now permanently on Denmark's political agenda and driving increased defense spending. This shapes budgets, taxes, and Denmark's geopolitical identity for years.
+
+---
+
+### GEOPOLITICS: US-Iran Ceasefire Collapsed, Mediators Try Again
+Since the April ceasefire/MoU you read about, the deal fell apart in early July. After Iranian ship attacks, the US hit 80 targets across Iran and reimposed oil sanctions; Iran responded by striking 85 US military targets in Bahrain and Kuwait. Both sides blame the other for breaking the MoU. As of July 20, mediators have proposed a 10-day ceasefire to try to revive the interim deal. The situation remains highly volatile.
+
+**Life Impact: HIGH** — Oil prices remain elevated and volatile. If you drive an EV (which your Clever receipt suggests), you're somewhat insulated on fuel, but energy prices broadly and global economic instability affect everyone.
+
+---
+
+### EU POLITICS: Google Fined €890M — First-Ever DMA Penalty
+The European Commission fined Google €890 million on July 23 for two Digital Markets Act breaches: favouring its own services in Search results (€460M) and blocking app developers from steering users to cheaper deals outside Google Play (€430M). Google must comply within 60 days or face penalties of up to 5% of global revenue. This pushes Google's cumulative EU liabilities above €10 billion and sets the enforcement precedent for the DMA — Apple, Meta, and others are watching closely.
+
+**Life Impact: MEDIUM-HIGH** — If you use Google Search or the Play Store, expect interface changes within 60 days. More broadly, DMA enforcement signals the EU will actually use its new tech regulation tools, which affects every platform you use daily.
+
+---
+
+### AI: Claude Sonnet 5, GPT-5.6 Lineup, and Formal Verification Breakthrough
+Major model releases in July: Anthropic shipped Claude Sonnet 5 with stronger coding, tool use, and debugging at lower cost. OpenAI launched GPT-5.6 as a three-tier lineup — Sol (high-end reasoning, $5/$30 per 1M tokens), Terra (GPT-5.5 quality at half cost), and Luna (fast/cheap high-volume). Grok 4.5 pushed coding claims. Most significant for software quality: Mistral released Leanstral 1.5, which goes beyond code generation to provide mathematical proof that software behaves as intended — a breakthrough in formal verification for critical systems. The industry is shifting from "best model wins" to "best fit wins" — price, speed, and day-to-day use now matter as much as raw benchmarks.
+
+**Life Impact: MEDIUM-HIGH** — If you use AI tools daily (and given your Tripo3D and proprty.ai work, you likely do), these releases mean better coding assistants, cheaper inference, and tools that can prove correctness — not just generate code.
+
+---
+
+### 3D PRINTING: Bambu Lab Patent Trove Hints at Future Printers, Industry Shakeup
+Nine new Bambu Lab patents were published revealing future 3D printer concepts: a new heatbed design (integrated heating, aluminum-free, lower cost), a dual-port filament system solving TPU handling issues, and an intelligent multi-material allocation algorithm. Meanwhile, the industry is consolidating: Würth Additive Group closed its doors entirely, and BigRep delisted from the Frankfurt Stock Exchange. On the positive side, UltiMaker launched the Factor 4 Plus for continuous factory production, and Venezuelan initiative Ostec3D released thermoplastic splint files for earthquake relief (cervical collars, oxygen cone connectors). If you missed it: Bambu Lab launched the X2D in April as the X1 successor.
+
+**Life Impact: LOW-MEDIUM** — The Bambu patents suggest meaningful upgrades coming if you're in their ecosystem. The TPU dual-port system and smart material allocation would directly improve multi-material printing workflows. Industry consolidation is worth watching if you're considering hardware purchases.
+
+---
+
+### COPENHAGEN HOUSING: Prices Hit 75,000 DKK/m², Buyers Spreading to Suburbs
+Update from April: apartment prices have continued climbing to ~75,000 DKK/m² average (up from ~63-66K reported in April). A typical 80m² Copenhagen apartment now costs ~6 million DKK (~€803K). The 2026 forecast is 14% overall growth, with apartments at 10-17%. However, the pace is moderating vs. 2025's surge. Notably, Boligsiden reports buyers are now actively moving to neighbouring municipalities as Copenhagen proper becomes unaffordable — stronger activity in surrounding areas signals a geographic shift. The structural supply constraint from green building regs (8-12% added cost, 15% fewer permits) remains unchanged.
+
+**Life Impact: VERY HIGH** — If you're in the Copenhagen market, the trend is clear: prices still climbing but decelerating, and the smart money is looking at adjacent municipalities for value. The supply crunch is not easing.
+
+---
+
+### Sources
+- [Fitness Volt - CrossFit Games Final Day Results](https://fitnessvolt.com/2026-crossfit-games-final-day-results/)
+- [BOXROX - Aimee Cringle Wins 2026 CrossFit Games](https://www.boxrox.com/aimee-cringle-wins-the-2026-crossfit-games/)
+- [CNN - Europe fines Google $1B under DMA](https://www.cnn.com/2026/07/23/business/europe-fines-google-1-billion-intl)
+- [EU Commission - DMA Fine](https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en)
+- [CNBC - Trump doubles down on Greenland](https://www.cnbc.com/2026/07/08/greenland-trump-nato-denmark.html)
+- [Washington Post - Trump surprises NATO allies](https://www.washingtonpost.com/politics/2026/07/08/denmark-says-it-will-defend-greenland-trump-threatens-revive-nato-crisis/)
+- [US News - Mediators propose 10-day ceasefire](https://www.usnews.com/news/world/articles/2026-07-20/mediators-propose-10-day-ceasefire-to-revive-iran-u-s-interim-deal-senior-iranian-official-tells-reuters)
+- [CNN - Iran ceasefire hangs in the balance](https://www.cnn.com/2026/07/09/middleeast/iran-us-ceasefire-attacks-resume-intl-hnk)
+- [AIApps - Top AI News July 2026](https://www.aiapps.com/blog/top-ai-news-july-breakthroughs-launches-trends/)
+- [LLM Stats - AI Model Releases July 2026](https://llm-stats.com/ai-news)
+- [3DPrint.com - News Briefs July 25](https://3dprint.com/329210/3d-printing-news-briefs-7-25-2026/)
+- [Fabbaloo - Bambu Lab Patents](https://www.fabbaloo.com/news/bambu-lab-did-not-patent-an-a2-model)
+- [Investropa - Copenhagen Housing Prices 2026](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [TXM Estate - Copenhagen Housing Market 2026](https://txmestate.com/news/copenhagens-housing-market-in-2026-what-investors-and-homebuyers-should-know)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
