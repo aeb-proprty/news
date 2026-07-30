@@ -1,5 +1,76 @@
 # Daily News Log
 
+## 2026-07-30
+
+### US-IRAN WAR: US Retaliates After Intercepting Iranian "Surprise Attack"
+The US completed a heavy wave of strikes across southern Iran on July 29, including Bandar Abbas and the Persian Gulf island of Kish, after intercepting what the Pentagon called a "surprise attack" on US military positions. Trump promised further retribution. The conflict has now seen 13 consecutive nights of US bombing since the ceasefire collapsed in late June. At least 50 people have been killed and 500 injured in this latest phase since June 27. Shipping through the Strait of Hormuz has dropped sharply from its pre-war average of ~120 crossings/day. Trump says talks continue and that Tehran is "getting more serious," but also says the US exit could be military rather than diplomatic. A new front is opening as Saudi Arabia and Iran-backed Houthis exchange strikes in Yemen.
+
+**Life Impact: VERY HIGH** — Energy prices remain directly affected by the Strait of Hormuz disruption. The conflict is escalating, not winding down. The Yemen/Saudi front risks further oil supply disruption. Watch fuel and heating costs heading into autumn.
+
+---
+
+### AI: OpenAI Ships GPT-5.6 (Sol, Terra, Luna) — Industry Pivots to Usefulness Over Size
+OpenAI released GPT-5.6 on July 9 in three tiers: Sol (flagship, $5/$30 per M tokens), Terra (balanced, matches old GPT-5.5), and Luna (fast/cheap for high-volume). All share a 1M token context window and 128K max output. Sol is 54% more token-efficient for coding. Meanwhile, xAI launched Grok Voice Think Fast 2.0 with 1.5-2x better transcription accuracy across 24 languages and 60% fewer reasoning tokens. Claude Sonnet 5 pushed agent-style coding into daily business workflows. The broader industry narrative in July: the race shifted from model size to real-task completion without supervision.
+
+**Life Impact: HIGH** — If you build with AI APIs, the GPT-5.6 tiered pricing and the Grok voice model (switching to 2.0 by default on August 5) are immediately relevant. The industry's pivot to reliability over raw capability means the tools you use daily are getting meaningfully better at finishing work autonomously.
+
+---
+
+### EU: Border Biometric System Causing Multi-Hour Delays Ahead of August Review
+The EU's Entry/Exit System (EES), fully operational since April 10 across all Schengen borders, has caused 2-5 hour queues at peak times. Some countries have paused EES at specific airports. An official review is due August 1 after the peak-summer rollout was partially halted at Dover and Eurotunnel. Separately, Gibraltar's Schengen integration becomes fully operational on August 1 under the new EU-UK deal. In Belgium, preliminary findings are due today (July 30) for the fatal train-bus collision that killed four and sparked national debate on railway safety. The EU also mandated AI-based driver distraction detection in all newly registered cars since July 7.
+
+**Life Impact: MEDIUM-HIGH** — If you travel outside the EU/EEA or have visitors coming, EES delays are a real planning factor this summer. The mandatory AI distraction detection in new cars will affect your next car purchase.
+
+---
+
+### COPENHAGEN HOUSING: Record Low Supply Pushes Prices to ~75,000 DKK/m²
+Apartment prices in Copenhagen have reached approximately 75,000 DKK/m² average, with central and waterfront areas going far above that. Median home price is now DKK 5.6M (~€749K). Apartment supply in the capital has hit the lowest level ever recorded. Forecasts for 2026 range from Nykredit's 13.7% growth to more subdued estimates from Realkredit Danmark, who argue apartments are reaching price levels where demand becomes more limited. Buyers are increasingly looking at commuter-distance alternatives to Copenhagen. Activity in the city has slowed somewhat while Aarhus and surrounding areas remain busy.
+
+**Life Impact: VERY HIGH** — Prices have risen roughly 20% since last year's report. The record-low supply is structural. If you're considering buying, the commuter-belt shift suggests better value outside the city center but within S-tog range. The slowdown in activity could signal a cooling — or just summer seasonality.
+
+---
+
+### CROSSFIT: 2026 Games Complete — Sprague and Cringle Crowned Fittest on Earth
+The 2026 CrossFit Games wrapped July 22-26 at SAP Center in San Jose, marking the event's 20th anniversary. James Sprague won the men's division, becoming the first man to win two non-consecutive titles (previously won in 2024, placed 3rd in 2025). Aimee Cringle dominated the women's field with five event victories across 20 events, clinching the title mathematically before the final event. CrossFit Whip won the Teams division.
+
+**Life Impact: LOW-MEDIUM** — The competitive season is now over. Sprague's comeback and Cringle's dominance were the standout stories. Next up: the off-season and 2027 season announcements.
+
+---
+
+### 3D PRINTING: UltiMaker Factor 4 Plus Targets Continuous Factory Production
+UltiMaker launched the Factor 4 Plus for industrial-grade continuous production in manufacturing and aerospace. Massivit launched RapidWings for composite manufacturing in aerospace/defense. On the business side, Würth Additive Group has shut down and BigRep delisted from the Frankfurt Stock Exchange — signs of consolidation in the industry. On a more positive note, 6K Additive is expanding European distribution of high-performance metal powders, and Newcastle University researchers 3D-printed a playable replica of an ancient board game from a handheld 3D scan.
+
+**Life Impact: LOW** — The Factor 4 Plus is industrial-focused, not consumer. The Würth/BigRep closures signal the desktop-to-industrial transition is shaking out weaker players. Consumer 3D printing remains stable.
+
+---
+
+### DANISH POLITICS: Frederiksen's Government Settles In, Defends Greenland at NATO
+Mette Frederiksen formed a centre-left minority "Clover Coalition" in June, securing her third consecutive term. At the NATO summit in Ankara in early July, Frederiksen directly addressed Trump: "Greenland is, of course, not for sale." The government expanded the "Positive List" for skilled worker immigration as of July 1.
+
+**Life Impact: MEDIUM** — The new government is stable for now. The skilled worker immigration expansion may affect hiring in tech and construction sectors. The Greenland stance keeps Denmark in the US spotlight.
+
+---
+
+### Sources
+- [CNN - US-Iran War July 29](https://www.cnn.com/2026/07/29/world/live-news/iran-trump-news)
+- [Al Jazeera - Iran War Updates](https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks)
+- [Wikipedia - 2026 Iran War Ceasefire](https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire)
+- [OpenAI - GPT-5.6](https://openai.com/index/gpt-5-6/)
+- [Dataconomy - GPT-5.6 Launch](https://dataconomy.com/2026/07/10/openai-launches-gpt-5-6-with-sol-terra-and-luna-models/)
+- [EU Biometric Update - EES Delays](https://www.biometricupdate.com/202605/eu-defends-biometric-ees-rules-as-border-delays-and-exemptions-fuel-confusion)
+- [Investropa - Copenhagen Housing Prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [TXM Estate - Copenhagen Housing 2026](https://txmestate.com/news/copenhagens-housing-market-in-2026-what-investors-and-homebuyers-should-know)
+- [FloElite - CrossFit Games 2026 Results](https://www.floelite.com/articles/16092286-crossfit-games-2026-live-updates-leaderboard-schedule-champions)
+- [Generation Iron - 2026 CrossFit Games](https://generationiron.com/2026-crossfit-games-results/)
+- [3DPrint.com - News Briefs July 25](https://3dprint.com/329210/3d-printing-news-briefs-7-25-2026/)
+- [Al Jazeera - Denmark New Government](https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists)
+- [Washington Times - Denmark Defends Greenland](https://www.washingtontimes.com/news/2026/jul/8/denmark-pushes-back-donald-trump-remarks-says-ready-defend-greenland/)
+- [Rio Times - Europe Intelligence Brief July 29](https://www.riotimesonline.com/europe-intelligence-brief-wednesday-july-29-2026/)
+- [Crescendo AI - Latest AI News](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+- [LLM Stats - AI Model Releases July 2026](https://llm-stats.com/llm-updates)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
