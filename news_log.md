@@ -1,5 +1,111 @@
 # Daily News Log
 
+## 2026-07-31
+
+### MIDDLE EAST: Hamas Disarmament Deal Announced — But Neither Side Has Confirmed
+Trump announced on July 30 that the Gaza Peace Council reached a "historic agreement" for the complete disarmament of Hamas and other armed organizations in the Strip, tied to a gradual Israeli withdrawal. A 14-day window begins for drafting a precise disarmament roadmap, with the full process expected to take 7-8 months involving an International Stabilisation Force and independent verification. However, neither Hamas nor Israel has confirmed agreement — Israeli officials are deeply skeptical Hamas will surrender weapons, and Hamas's armed wing has previously called disarmament demands "not acceptable." The sequencing of disarmament vs. Israeli withdrawal remains contested.
+
+**Life Impact: HIGH** — If this holds, it could mark the beginning of the end of the Gaza conflict. But the lack of confirmation from either side means this may still collapse. Watch for the 14-day roadmap deadline.
+
+---
+
+### MIDDLE EAST: US-Iran War Escalates Dramatically — Ceasefire Collapsed, Egypt Drawn In
+The mid-June ceasefire between the US and Iran has completely broken down. The US has conducted 13 consecutive nights of bombing against Iran. Iran's IRGC closed the Strait of Hormuz after firing a warning shot at a vessel. Egypt was hit for the first time — a drone strike caused fires on two ships in the port of Damietta, potentially drawing Cairo into the conflict. At least 50 people have been killed in Iran since the latest phase began June 27, with 500+ injured. Trump says talks continue but Washington's exit could come "diplomatically or militarily."
+
+**Life Impact: VERY HIGH** — Strait of Hormuz closure directly affects global energy prices. Egypt's involvement signals dangerous regional expansion. This is the most serious escalation since the conflict began in February. Fuel and energy costs across Europe will be impacted.
+
+---
+
+### DANISH POLITICS: Frederiksen Forms "Clover Coalition," Secures Third Term
+The coalition deadlock reported in April is resolved. Mette Frederiksen formed a centre-left minority government — her third consecutive term as PM. The so-called "Clover Coalition" is navigating what analysts describe as "fragile stability." As of July 1, the government expanded its "Positive List" for highly skilled foreign workers, making it easier for certain professionals to get work permits in Denmark. Denmark's economy shows resilience with solid GDP growth in Q1 2026.
+
+**Life Impact: MEDIUM-HIGH** — The expanded skilled workers list could affect the Copenhagen job market. The government's fragility means policy surprises are possible. Economic resilience is positive for housing and employment.
+
+---
+
+### EU POLITICS: Google Hit With First-Ever DMA Fine — €890 Million
+The European Commission fined Google €890M ($1B) on July 23 — the largest Digital Markets Act fine ever, split into two violations: €460M for self-preferencing its own services in Google Search, and €430M for blocking app developers from directing users to cheaper purchase options on Google Play. Google has 60 days to comply or face penalties of up to 5% of Alphabet's daily worldwide turnover. Google is reviewing and may appeal. For context, the fine is less than 1% of Google's $112.1B quarterly profit reported the day before.
+
+**Life Impact: MEDIUM** — This sets a precedent for how the EU enforces the DMA against Big Tech. If Google is forced to change Search and Play Store behavior, European consumers may see more competitive alternatives surfaced.
+
+---
+
+### EU POLITICS: Iceland to Vote on Resuming EU Membership Talks
+A referendum on resuming EU membership negotiations is scheduled for August 29, 2026, in Iceland. Meanwhile, Italy has called for closing Schengen borders to Spain over a Ceuta migrant crisis, adding strain to EU internal cohesion. Ireland took over the EU Council Presidency on July 1 for the second half of 2026.
+
+**Life Impact: LOW-MEDIUM** — Iceland joining the EU would have modest ripple effects. The Italy-Spain Schengen dispute could affect freedom of movement norms if it escalates.
+
+---
+
+### AI: OpenAI Slashes GPT-5.6 Prices Across the Board
+OpenAI announced on July 30 that GPT-5.6 Luna is now 80% cheaper ($0.20/M input, $1.20/M output tokens), GPT-5.6 Terra is 20% cheaper ($2/M input, $12/M output), and a new "Fast mode" for GPT-5.6 Sol delivers 2.5x speed at 2x cost. Luna now delivers frontier-class-from-a-year-ago performance at ~6 cents on the dollar. The GPT-5.6 family now has clear tiers: Sol for hardest problems, Terra for daily work, Luna for high-volume automation.
+
+**Life Impact: MEDIUM-HIGH** — If you use or build on OpenAI's API, costs just dropped significantly. Luna at $0.20/M input is now competitive with the cheapest models on the market. The AI price war continues to benefit builders.
+
+---
+
+### AI: xAI Launches Grok Voice Think Fast 2.0 — Beats OpenAI and Google on Benchmarks
+SpaceXAI released Grok Voice Think Fast 2.0 on July 29, a speech-to-speech model that listens, reasons, and speaks simultaneously with sub-second latency. It scored 82.9% on Artificial Analysis's speech-to-speech benchmark vs. GPT-Realtime-2.1 at 79.1% and Gemini 3.1 Flash at 69.5%. Supports 25+ languages, handles noisy environments, and reduces reasoning token usage by 60% over v1.0. Priced at $0.08/min. During A/B testing on Starlink, it showed significant increases in sales conversion.
+
+**Life Impact: MEDIUM** — Voice AI is maturing fast. Real-time conversational AI with sub-second latency across 25 languages is getting close to replacing traditional phone systems. Watch for customer service disruption.
+
+---
+
+### AI: 1,100+ AI Company Employees Call for International Pacing Mechanism
+On July 28, more than 1,100 employees at frontier AI companies — including OpenAI, Anthropic, Google, and Meta — signed an open letter asking the US government to help build international governance infrastructure that could enable a "verifiable, coordinated slowdown" if AI systems advance faster than humans can safely oversee. This is the largest collective action from inside AI companies on safety to date.
+
+**Life Impact: LOW-MEDIUM** — Signals growing internal concern at AI labs about the pace of development. Unlikely to produce near-term policy changes, but the political pressure is building.
+
+---
+
+### AI: South Korea Commits $880 Billion to Semiconductors and AI
+South Korea announced a 10-year, $880 billion investment plan covering semiconductors, AI infrastructure, and robotics. Samsung and SK Hynix alone will commit $518 billion to new chip fabrication. This is the largest national AI/semiconductor investment commitment globally.
+
+**Life Impact: LOW-MEDIUM** — Long-term this secures the global chip supply chain, which affects everything from AI model training costs to consumer electronics pricing.
+
+---
+
+### COPENHAGEN HOUSING: Prices Surge to ~75,000 DKK/m² — Up ~19% Since April
+Copenhagen apartment prices have climbed to approximately 75,000 DKK/m² average, up from ~62,900 DKK/m² reported in early April — a ~19% jump in under 4 months. A standard 80m² apartment now costs around 6 million DKK (~$927,000). Prices rose 10.1% in the first half of 2026 alone. The three fastest-rising areas are Nordhavn (18-22%/year), Sydhavn, and Amagerbro. Demand continues to outpace the limited supply of owner-occupied housing.
+
+**Life Impact: VERY HIGH** — The acceleration is remarkable. If you're considering buying in Copenhagen, every month of delay costs real money. Nordhavn and Sydhavn are now premium growth zones. The structural supply shortage from green building regulations (noted in April) continues to drive this.
+
+---
+
+### CROSSFIT: 2026 Games Concluded — Sprague and Cringle Crowned
+The 2026 CrossFit Games wrapped up July 26 in San Jose, marking the 20th anniversary of the competition. James Sprague won his second title (first man to win two non-consecutive titles, also won in 2024). Aimee Cringle dominated the women's field with 5 event victories and a 100+ point lead, mathematically clinching before the final event. CrossFit Whip won the Teams division with a dramatic comeback. 20 events over 4 days.
+
+**Life Impact: LOW** — Relevant if you follow the competitive season. Sprague's comeback and Cringle's dominance were the storylines.
+
+---
+
+### 3D PRINTING: Massivit Targets Aerospace, Community Prints Earthquake Relief
+Massivit launched RapidWings, a turnkey composite manufacturing platform for aerospace and defense — designed to cut production time and costs for wing and structural components. In humanitarian news, after a Venezuelan earthquake, the Ostec3D initiative released open-source thermoplastic splint files, and Reddit/community makers started 3D printing splints, cervical collars, and oxygen connectors for relief. On the business side, Würth Additive Group shut down and BigRep delisted from the Frankfurt Stock Exchange — signs of consolidation in the industrial 3D printing sector.
+
+**Life Impact: LOW-MEDIUM** — The Venezuela relief printing is a powerful example of distributed manufacturing in crisis. Industry consolidation (Würth, BigRep) suggests the market is maturing and weaker players are being shaken out.
+
+---
+
+### Sources
+- [Washington Post — Hamas disarming deal](https://www.washingtonpost.com/politics/2026/07/30/hamas-disarming-gaza-israel-trump/0f015bb4-8c79-11f1-8912-d71e69d679d7_story.html)
+- [Al Jazeera — Hamas disarmament agreement](https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza)
+- [CNN — Iran war July 30](https://www.cnn.com/2026/07/30/world/live-news/iran-war-trump)
+- [Al Jazeera — Denmark new government](https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists)
+- [European Commission — Google DMA fine](https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en)
+- [CNN — Google DMA fine](https://www.cnn.com/2026/07/23/business/europe-fines-google-1-billion-intl)
+- [OpenAI — GPT-5.6 pricing](https://email.openai.com)
+- [xAI — Grok Voice Think Fast 2.0](https://x.ai/news/grok-voice-think-fast-2)
+- [Build Fast with AI — AI news July 29](https://www.buildfastwithai.com/blogs/ai-news-today-july-29-2026)
+- [Transparency Coalition — AI legislative update](https://www.transparencycoalition.ai/news/ai-legislative-update-july31-2026)
+- [Investropa — Copenhagen housing prices](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [International Investment — Denmark housing boom](https://internationalinvestment.biz/en/denmark/8520-copenhagen-drives-denmarks-uneven-housing-boom.html)
+- [Generation Iron — CrossFit Games 2026 results](https://generationiron.com/2026-crossfit-games-results/)
+- [FloElite — CrossFit Games champions](https://www.floelite.com/articles/16092286-crossfit-games-2026-live-updates-leaderboard-schedule-champions)
+- [3DPrint.com — News briefs July 30](https://3dprint.com/329469/3d-printing-news-briefs-7-30-2026/)
+- [Aerospace Manufacturing — 3D printing July 2026](https://www.aerospacemanufacturinganddesign.com/article/3dadditive-manufacturing-july-2026/)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
