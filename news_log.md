@@ -1,5 +1,113 @@
 # Daily News Log
 
+## 2026-08-06
+
+### IRAN / GEOPOLITICS: Hormuz Deal Takes Shape — Iran and Oman Agree on Shipping Route
+*Continued from Apr 7 — previously: US-Iran conflict Day 38, Hormuz closed, ceasefire rejected.*
+
+Major progress since last update: the US and Iran signed a memorandum of understanding on June 18 to end hostilities and reopen the Strait of Hormuz (closed since late February). Oil prices have cratered from their May peak — Brent dropped below $70/b by July 1, back to pre-crisis levels. Now Iran and Oman have reached a bilateral agreement on a proposed shipping route through the strait. A joint Tehran-Muscat statement is in final drafting. The US insists no deal can include tolls on what it considers international waters. Tanker traffic is resuming but the deal isn't signed yet — "third parties" could still obstruct it, per Iran's foreign ministry.
+
+**Life Impact: HIGH** — Energy prices have already normalized from the crisis peak, but this deal determines whether the strait stays reliably open. A collapse would spike fuel and heating costs again heading into winter. Watch whether the final text includes toll provisions — that's the sticking point.
+
+---
+
+### EU POLITICS: AI Act Transparency Rules Now In Force (Aug 2)
+The EU's AI Act transparency obligations took effect on August 2. All AI chatbots must now disclose they are AI. Deepfakes (images, video, audio) must be labelled. AI-generated text on public-interest matters needs machine-readable marks. These rules apply immediately to all AI systems in scope — including ones already on the market. Fines: up to EUR 15 million or 3% of global annual turnover. The EU AI Office and national authorities are now actively enforcing.
+
+**Life Impact: HIGH** — If you build or deploy AI products in the EU, compliance is now mandatory, not upcoming. Every chatbot, every AI-generated content pipeline needs disclosure mechanisms. The "existing systems must comply from day one" clause caught some companies off-guard.
+
+---
+
+### EU POLITICS: Iceland EU Referendum on Aug 29
+Iceland votes on August 29 on whether to resume EU accession talks — frozen since 2013. Latest polling (Maskina, late July, n=1,865) shows a slim majority favoring reopening negotiations. This is not a vote to join, but to restart talks; full membership would require a second referendum. The push was accelerated by Trump's tariff hikes on Icelandic goods and the Greenland annexation threats. PM Kristrun Frostadottir's centre-left coalition is behind the initiative.
+
+**Life Impact: MEDIUM** — An Icelandic "yes" would be the first EU enlargement momentum in years and could influence broader Nordic/Arctic geopolitics. As an EU-interested Dane, this is one to watch — it reshapes the Nordic bloc's EU relationship.
+
+---
+
+### DANISH POLITICS: Frederiksen III Government Settled In
+*Continued from Apr 7 — previously: snap election, no bloc majority, coalition talks ongoing.*
+
+Resolved: Mette Frederiksen was formally appointed PM for a third term on June 3. Her minority coalition includes the Social Democrats, Socialist People's Party, Radikale Venstre, and the Moderates — 82 of 179 seats. The coalition is a four-party minority government, meaning it depends on support agreements for legislation. The Greenland crisis and defense spending remain central policy challenges.
+
+**Life Impact: MEDIUM** — The government is formed and governing. The minority setup means policy battles ahead on housing, defense spending, and green transition — all of which affect Copenhagen directly. The key watch now is whether SF and Radikale can pull housing and climate policy leftward.
+
+---
+
+### AI: OpenAI Launches GPT-5.6 Family — Sol, Terra, Luna
+OpenAI released the GPT-5.6 model family in late July: Sol (flagship), Terra (balanced everyday), and Luna (cost-efficient, price cut 80%). GPT-5.5 introduced agentic "complex real-world work" capabilities earlier this year. Meanwhile, Chinese lab Moonshot AI released Kimi K3, a 2.8 trillion parameter open-weight model with frontier-level performance that "substantially outperformed" Claude Opus 4.8 and GPT 5.5 in coding and agent benchmarks. Moonshot hit $300M ARR in June and is seeking a $50B valuation.
+
+**Life Impact: MEDIUM-HIGH** — The AI model race is accelerating. Open-weight models reaching frontier performance means more options for self-hosted/private AI. If you build on these APIs, the rapid price drops (Luna -80%) are directly relevant. The China competition is forcing pricing down across the board.
+
+---
+
+### AI: EU Launches AI Gigafactory Tender — 7 Compute Hubs Across Europe
+The EU opened a call for tenders to build up to seven AI Gigafactories — massive compute hubs for training and fine-tuning frontier AI models. This is part of the EU's push to reduce dependence on US cloud infrastructure for AI development.
+
+**Life Impact: MEDIUM** — If you work in AI in the EU, this could mean local compute access for training large models without shipping data to US clouds. A significant infrastructure play that will take years to materialize but signals EU seriousness about AI sovereignty.
+
+---
+
+### COPENHAGEN HOUSING: Prices Up ~14% YTD, But Momentum Slowing
+*Continued from Apr 7 — previously: prices at ~62,900 DKK/m², up 20% YoY.*
+
+Prices have continued climbing — average apartment prices now around DKK 75,000/m² (median ~DKK 5.6M for a full apartment). Nykredit forecasts 13.7% growth for 2026. However, activity has "slowed somewhat around Copenhagen" according to market reports, while Aarhus continues at full speed. Realkredit Danmark expects more subdued growth ahead, arguing apartments have reached a price range where demand becomes self-limiting.
+
+**Life Impact: HIGH** — The market is still rising but showing signs of a plateau. If you've been watching for an entry point, the slowdown in activity (not prices, yet) could be an early signal. The Aarhus divergence suggests capital is flowing to cheaper markets — a classic late-cycle pattern.
+
+---
+
+### US POLITICS: Progressives Score Big in Michigan Primaries
+Dr. Abdul El-Sayed defeated Rep. Haley Stevens for the Democratic Senate nomination. Rep. Shri Thanedar lost to progressive challenger Donovan McKinney. DSA-backed William Lawrence won MI-7 with endorsements from Sanders and AOC. Michigan — historically centrist — is now a progressive battleground.
+
+**Life Impact: LOW-MEDIUM** — US domestic, but signals a leftward shift in Democratic politics heading into 2028 positioning. Relevant context for understanding US policy direction on trade, AI regulation, and climate — all of which have EU spillover effects.
+
+---
+
+### CROSSFIT: 2026 Games Complete — Sprague and Cringle Take It
+*Continued from Apr 7 — previously: Quarterfinals done, Games set for July 24-26.*
+
+The 2026 Games are done. James Sprague won the men's individual, Aimee Cringle took the women's, and CrossFit Whip won the team division. Prize: $312K each for individual winners. The quarterfinals were restored after being cut in 2025. Community Cup runs through August. The competitive season is wrapped — next milestone is the 2027 Open.
+
+**Life Impact: LOW** — Season's over. Community Cup in August if you want a local competition angle.
+
+---
+
+### 3D PRINTING: Chinese Manufacturers Double Shipments, Medical Advances Continue
+Chinese 3D printer manufacturers nearly doubled shipments in 2026, intensifying price competition. On the materials side, EOS and Constellium are partnering on high-performance aluminum alloys for LPBF. Medical: University of Waterloo created a new hydrophilic silicone for 3D-printed contact lenses (gold medal at Shanghai International Exhibition). Stratasys opened a 200,000 sq ft Americas HQ in Minnetonka.
+
+**Life Impact: LOW-MEDIUM** — The Chinese shipment surge means consumer/prosumer printers will get cheaper and more capable. If you're in the Bambu Lab ecosystem, expect more competition driving features up and prices down. The contact lens work is interesting but years from consumer availability.
+
+---
+
+### INNOVATION: Apple WWDC26 — Siri AI Overhaul and iOS 27
+Apple announced a major Siri overhaul at WWDC26 in June: conversational AI that understands screen context, searches messages/emails, and maintains conversation history. iOS 27, iPadOS 27, and macOS Golden Gate coming in September. New App Store flexibility for developers. As an Apple developer, the App Store changes and Siri AI integration points are worth reviewing in the developer sessions.
+
+**Life Impact: MEDIUM** — If you develop for Apple platforms, the Siri AI SDK and App Store changes are directly actionable. iOS 27 beta is available now.
+
+---
+
+### Sources
+- [Bloomberg - Iran/Oman Hormuz Agreement](https://www.bloomberg.com/news/articles/2026-08-05/iran-says-agreement-on-hormuz-shipping-route-reached-with-oman)
+- [Al Jazeera - Iran/Oman/US Hormuz Deal](https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want)
+- [European Commission - AI Act Transparency](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714)
+- [Forbes - EU AI Act Labels](https://www.forbes.com/sites/rachelwells/2026/08/02/eu-ai-act-labels-start-aug-2-ai-transparency-rules-explained/)
+- [France 24 - Frederiksen Third Term](https://www.france24.com/en/europe/20260601-pm-frederiksen-secures-third-term-with-new-danish-coalition-government)
+- [UK Parliament - Denmark 2026 Election](https://commonslibrary.parliament.uk/research-briefings/cbp-10847/)
+- [KAS - Iceland EU Referendum](https://www.kas.de/en/web/nordische/single-title/-/content/iceland-s-eu-referendum-the-road-to-august-29)
+- [OpenAI - GPT-5.6](https://openai.com/index/gpt-5-6/)
+- [Forbes - Kimi K3](https://www.forbes.com/sites/tylerroush/2026/07/17/chinese-ai-startup-moonshot-unveils-kimi-k3-model-will-it-challenge-openai-and-anthropic/)
+- [NPR - Michigan Primaries](https://www.npr.org/2026/08/05/g-s1-137422/primary-elections)
+- [Investropa - Copenhagen Housing](https://investropa.com/blogs/news/copenhagen-housing-prices)
+- [TXM - Copenhagen Housing Market 2026](https://txmestate.com/news/copenhagens-housing-market-in-2026-what-investors-and-homebuyers-should-know)
+- [FloElite - CrossFit Games 2026](https://www.floelite.com/articles/16080872-crossfit-games-2026-schedule-event-streaming-information)
+- [3DPrint.com - August 2026 News](https://3dprint.com/329678/3d-printing-news-briefs-8-1-2026/)
+- [Tom's Guide - WWDC 2026](https://www.tomsguide.com/news/live/wwdc-2026-live-news-updates)
+- [Al Jazeera - Oil Prices Hormuz](https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz)
+- [EIA - Global Oil Markets](https://www.eia.gov/outlooks/steo/report/global_oil.php)
+
+---
+
 ## 2026-04-07
 
 ### DANISH POLITICS: Coalition Talks Drag On After Historic Election
